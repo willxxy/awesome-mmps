@@ -12,7 +12,7 @@ If you have a paper you want to add to the list, corrections, or concerns please
 
 - [Laboratories](#laboratories)
 
-***
+
 
 ## Publications-and-Preprints
 
