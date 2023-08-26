@@ -22,6 +22,8 @@ If you have a paper you want to add to the list, corrections, or concerns please
 - [Investigating Sex Differences in Classification of Five Emotions from EEG and Eye Movement Signals](https://drive.google.com/file/d/1pCln0DI3fiIPHHiRiCRcXJWb4LCWskXm/view), IEEE EMBC 2019; [EEG, Eye Movement]
 - [Transfer Knowledge from Natural Language to Electrocardiography: Can We Detect Cardiovascular Disease Through Language Models?](https://arxiv.org/pdf/2301.09017.pdf), EACL Findings 2023; [ECG, Language]
 - [An Empirical Exploration of Cross-domain Alignment between Language and Electroencephalogram](https://arxiv.org/pdf/2208.06348.pdf), ICML MLHC Workshop 2023; [EEG, Language]
+- [Open Vocabulary Electroencephalography-to-Text Decoding and Zero-Shot Sentiment Classification](https://arxiv.org/abs/2112.02690), AAAI 2022; [EEG, Language]
+- [Decoding EEG Brain Activity for Multi-Modal Natural Language Processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.659410/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Human_Neuroscience&id=659410), Frontiers in Human Neuroscience 2021; [EEG, Eye Movement, Language] 
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement]
@@ -30,8 +32,10 @@ If you have a paper you want to add to the list, corrections, or concerns please
 - [SEED-V](https://bcmi.sjtu.edu.cn/home/seed/seed-v.html); [EEG, Eye Movement]
 - [SEED-GER](https://bcmi.sjtu.edu.cn/home/seed/seed-GER.html); [EEG, Eye Movement]
 - [SEED-FRA](https://bcmi.sjtu.edu.cn/home/seed/seed-FRA.html); [EEG, Eye Movement]
+- [ZuCo 2.0](https://osf.io/2urht/); [EEG, Language, Eye Movement]
 
 
 ## Laboratories
 - [BCMI Lab @ Shanghai Jiao Tong University](https://bcmi.sjtu.edu.cn/)
+- [Centre for Language Technology @ University of Copenhagen](https://cst.ku.dk/english/)
   
