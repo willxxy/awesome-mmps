@@ -1,5 +1,6 @@
 # awesome-mmps
-Reading list for research topics in multimodal machine learning for physiological signals
+Reading list for research topics in multimodal machine learning for physiological signals.
+If you have a paper you want to add to the list, please submit an issue :). 
 
 ***
 
@@ -15,6 +16,8 @@ Reading list for research topics in multimodal machine learning for physiologica
 
 ## Publications-and-Preprints
 
+- [Comparing recognition performance and robustness of multimodal deep learning models for multimodal emotion recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye movement]
+- 
 ## Datasets
 
 ## Laboratories
