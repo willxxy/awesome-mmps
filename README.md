@@ -1,6 +1,7 @@
 # awesome-mmps
 Corpus of resources for multimodal machine learning with physiological signals.
-If you have a paper you want to add to the list, corrections, or concerns please submit an issue :). 
+
+Any additions, corrections, or concerns please submit an issue :). 
 
 ***
 
