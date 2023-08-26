@@ -3,13 +3,19 @@ Reading list for research topics in multimodal machine learning for physiologica
 
 ***
 
+## Table of Contents
+
 - [Publications and Preprints](#publications-and-preprints)
 
 - [Datasets](#datasets)
 
-- [Related Reviews](#related-reviews)
-
 - [Laboratories](#laboratories)
 
+***
 
+## Publications-and-Preprints
+
+## Datasets
+
+## Laboratories
 
