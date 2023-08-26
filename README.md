@@ -25,6 +25,7 @@ If you have a paper you want to add to the list, corrections, or concerns please
 - [Open Vocabulary Electroencephalography-to-Text Decoding and Zero-Shot Sentiment Classification](https://arxiv.org/abs/2112.02690), AAAI 2022; [EEG, Language]
 - [Decoding EEG Brain Activity for Multi-Modal Natural Language Processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.659410/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Human_Neuroscience&id=659410), Frontiers in Human Neuroscience 2021; [EEG, Eye Movement, Language]
 - [Advancing NLP with Cognitive Language Processing Signals](https://arxiv.org/pdf/1904.02682.pdf), arxiv 2019; [EEG, Language, Gaze]
+- [Converting ECG Signals to Images for Efficient Image-text Retrieval via Encoding](https://arxiv.org/pdf/2304.06286), arxiv 2023; (ECG, Image, Language)
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement]
