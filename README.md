@@ -28,15 +28,18 @@ Any additions, corrections, or concerns please submit an issue :).
 - [Advancing NLP with Cognitive Language Processing Signals](https://arxiv.org/pdf/1904.02682.pdf), arxiv 2019; [EEG, Language, Gaze]
 - [Converting ECG Signals to Images for Efficient Image-text Retrieval via Encoding](https://arxiv.org/pdf/2304.06286), arxiv 2023; (ECG, Image, Language)
 - [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), arxiv 2023; (CMR, Language)
+- [Recognition of emotions using multimodal physiological signals and an ensemble deep learning model](https://www.sciencedirect.com/science/article/pii/S0169260716305090), Computer Methods and Programs in Biomedicine 2017; (EEG, Peripheral Physiological Signals)
+- [Multi-modal emotion analysis from facial expressions and electroencephalogram](https://www.sciencedirect.com/science/article/pii/S1077314215002106), Computer Vision and Image Understanding 2016; (EEG, Facial Expressions)
 
 ## Datasets
-- [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement]
-- [SEED-IV](https://bcmi.sjtu.edu.cn/home/seed/seed-iv.html); [EEG, Eye Movement]
+- [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
+- [SEED-IV](https://bcmi.sjtu.edu.cn/home/seed/seed-iv.html); [EEG, Eye Movement, Video]
 - [SEED-VIG](https://bcmi.sjtu.edu.cn/home/seed/seed-vig.html); [EEG, EOG]
-- [SEED-V](https://bcmi.sjtu.edu.cn/home/seed/seed-v.html); [EEG, Eye Movement]
-- [SEED-GER](https://bcmi.sjtu.edu.cn/home/seed/seed-GER.html); [EEG, Eye Movement]
-- [SEED-FRA](https://bcmi.sjtu.edu.cn/home/seed/seed-FRA.html); [EEG, Eye Movement]
+- [SEED-V](https://bcmi.sjtu.edu.cn/home/seed/seed-v.html); [EEG, Eye Movement, Video]
+- [SEED-GER](https://bcmi.sjtu.edu.cn/home/seed/seed-GER.html); [EEG, Eye Movement, Video]
+- [SEED-FRA](https://bcmi.sjtu.edu.cn/home/seed/seed-FRA.html); [EEG, Eye Movement, Video]
 - [ZuCo 2.0](https://osf.io/2urht/); [EEG, Language, Eye Movement]
+- [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/); [EEG, Peripheral Physiological Signals, Video]
 
 
 ## Laboratories
