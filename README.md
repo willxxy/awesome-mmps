@@ -27,8 +27,8 @@ Any additions, corrections, or concerns please submit an issue :).
 - [Decoding EEG Brain Activity for Multi-Modal Natural Language Processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.659410/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Human_Neuroscience&id=659410), Frontiers in Human Neuroscience 2021; [EEG, Eye Movement, Language]
 - [Advancing NLP with Cognitive Language Processing Signals](https://arxiv.org/pdf/1904.02682.pdf), arxiv 2019; [EEG, Language, Gaze]
 - [Converting ECG Signals to Images for Efficient Image-text Retrieval via Encoding](https://arxiv.org/pdf/2304.06286), arxiv 2023; (ECG, Image, Language)
-- [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), arxiv 2023; (CMR, Language)
-- [Recognition of emotions using multimodal physiological signals and an ensemble deep learning model](https://www.sciencedirect.com/science/article/pii/S0169260716305090), Computer Methods and Programs in Biomedicine 2017; (EEG, Peripheral Physiological Signals)
+- [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), arxiv 2023; [CMR, Language]
+- [Recognition of emotions using multimodal physiological signals and an ensemble deep learning model](https://www.sciencedirect.com/science/article/pii/S0169260716305090), Computer Methods and Programs in Biomedicine 2017; [EEG, Peripheral Physiological Signals]
 - [Multi-modal emotion analysis from facial expressions and electroencephalogram](https://www.sciencedirect.com/science/article/pii/S1077314215002106), Computer Vision and Image Understanding 2016; (EEG, Facial Expressions)
 - [An Ensemble Learning Method for Emotion Charting Using Multimodal Physiological Signals](https://www.mdpi.com/1424-8220/22/23/9480), Sensors 2022; [EEG, ECG, GSR]
 - [Biometric Recognition Using Multimodal Physiological Signals](https://ieeexplore.ieee.org/document/8740847), IEEE 2019; [Heart Rate, Breathing Rate, Palm Electrodermal Activity, Perinasal Perspitation]
