@@ -43,6 +43,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [ZuCo 2.0](https://osf.io/2urht/); [EEG, Language, Eye Movement]
 - [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/); [EEG, Peripheral Physiological Signals, Video]
 - [K-EmoCon](https://zenodo.org/record/3762962); [EEG, Peripheral Physiological Signals, Video, Audio]
+- [AMIGOS](http://www.eecs.qmul.ac.uk/mmv/datasets/amigos/index.html); [EEG, ECG, GSR, Video]
 
 
 ## Laboratories
