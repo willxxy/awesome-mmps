@@ -40,6 +40,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [SEED-FRA](https://bcmi.sjtu.edu.cn/home/seed/seed-FRA.html); [EEG, Eye Movement, Video]
 - [ZuCo 2.0](https://osf.io/2urht/); [EEG, Language, Eye Movement]
 - [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/); [EEG, Peripheral Physiological Signals, Video]
+- [K-EmoCon](https://zenodo.org/record/3762962); [EEG, Peripheral Physiological Signals, Video, Audio]
 
 
 ## Laboratories
