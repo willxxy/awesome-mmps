@@ -39,6 +39,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
 - [Emotion recognition based on multi-modal physiological signals and transfer learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9493208/), Frontiers in Neuroscience 2022; [EEG, RSP, GSR, Photo-Plethysmograph]
 - [Multimodal Affective States Recognition Based on Multiscale CNNs and Biologically Inspired Decision Fusion Model](https://arxiv.org/abs/1911.12918), IEEE Transactions on Affective Computing 2023; [EEG, Peripheral Physiological Signals]
+- [Stress Detection with Deep Learning Approaches Using Physiological Signals](https://link.springer.com/chapter/10.1007/978-3-030-69963-5_7), IoT Technologies for Healthcare 2020; [EDA, BVP]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
