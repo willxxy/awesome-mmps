@@ -33,6 +33,12 @@ Any additions, corrections, or concerns please submit an issue :).
 - [An Ensemble Learning Method for Emotion Charting Using Multimodal Physiological Signals](https://www.mdpi.com/1424-8220/22/23/9480), Sensors 2022; [EEG, ECG, GSR]
 - [Biometric Recognition Using Multimodal Physiological Signals](https://ieeexplore.ieee.org/document/8740847), IEEE 2019; [Heart Rate, Breathing Rate, Palm Electrodermal Activity, Perinasal Perspitation]
 - [Machine-Learning-Based Detection of Craving for Gaming Using Multimodal Physiological Signals: Validation of Test-Retest Reliability for Practical Use](https://www.mdpi.com/1424-8220/19/16/3475), Sensors 2019; [PPG, GSR, EOG]
+- [Automated detection of panic disorder based on multimodal physiological signals using machine learning](https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2021-0299), ETRI Journal 2022; [ECG, EDA, Respiration, Peripheral Temperature]
+- [Video-based multimodal spontaneous emotion recognition using facial expressions and physiological signals](https://openaccess.thecvf.com/content/CVPR2022W/ABAW/papers/Ouzar_Video-Based_Multimodal_Spontaneous_Emotion_Recognition_Using_Facial_Expressions_and_Physiological_CVPRW_2022_paper.pdf), CVPR Workshop 2022; [Image, iPPG, Heart Rate]
+- [Emotion Recognition from Multimodal Physiological Signals for Emotion Aware Healthcare Systems](https://link.springer.com/article/10.1007/s40846-019-00505-7), Journal of Medical and Biological Engineering 2020; [Respiratory Belt, Photoplethysmography, Fingertip Temperature]
+- [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
+- [Emotion recognition based on multi-modal physiological signals and transfer learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9493208/), Frontiers in Neuroscience 2022; [EEG, RSP, GSR, Photo-Plethysmograph]
+- [Multimodal Affective States Recognition Based on Multiscale CNNs and Biologically Inspired Decision Fusion Model](https://arxiv.org/abs/1911.12918), IEEE Transactions on Affective Computing 2023; [EEG, Peripheral Physiological Signals]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
@@ -56,4 +62,5 @@ Any additions, corrections, or concerns please submit an issue :).
 - [Laboratory for the Neural Mechanisms of Attention @ UC Davis](https://mangunlab.ucdavis.edu/)
 - [HUman Bio-behavioral Signals Lab @ Texas A&M University](https://hubbs.engr.tamu.edu/)
 - [Computational Intelligence & Neural Engineering Lab @ Hanyang University](http://cone.hanyang.ac.kr/index_e.html)
+- [Bioelectronics Laboratory @ Incheon National University](https://sites.google.com/view/bioelectronics-lab)
   
