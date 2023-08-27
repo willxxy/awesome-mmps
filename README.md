@@ -32,6 +32,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [Multi-modal emotion analysis from facial expressions and electroencephalogram](https://www.sciencedirect.com/science/article/pii/S1077314215002106), Computer Vision and Image Understanding 2016; (EEG, Facial Expressions)
 - [An Ensemble Learning Method for Emotion Charting Using Multimodal Physiological Signals](https://www.mdpi.com/1424-8220/22/23/9480), Sensors 2022; [EEG, ECG, GSR]
 - [Biometric Recognition Using Multimodal Physiological Signals](https://ieeexplore.ieee.org/document/8740847), IEEE 2019; [Heart Rate, Breathing Rate, Palm Electrodermal Activity, Perinasal Perspitation]
+- [Machine-Learning-Based Detection of Craving for Gaming Using Multimodal Physiological Signals: Validation of Test-Retest Reliability for Practical Use](https://www.mdpi.com/1424-8220/19/16/3475), Sensors 2019; [PPG, GSR, EOG]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
@@ -54,4 +55,5 @@ Any additions, corrections, or concerns please submit an issue :).
 - [Interactive Computing Lab @ KAIST](https://ic.kaist.ac.kr/)
 - [Laboratory for the Neural Mechanisms of Attention @ UC Davis](https://mangunlab.ucdavis.edu/)
 - [HUman Bio-behavioral Signals Lab @ Texas A&M University](https://hubbs.engr.tamu.edu/)
+- [Computational Intelligence & Neural Engineering Lab @ Hanyang University](http://cone.hanyang.ac.kr/index_e.html)
   
