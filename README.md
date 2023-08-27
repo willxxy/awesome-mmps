@@ -49,4 +49,6 @@ Any additions, corrections, or concerns please submit an issue :).
 ## Laboratories
 - [BCMI Lab @ Shanghai Jiao Tong University](https://bcmi.sjtu.edu.cn/)
 - [Centre for Language Technology @ University of Copenhagen](https://cst.ku.dk/english/)
+- [Safe AI LAb @ Carnegie Mellon University](https://safeai-lab.github.io/)
+- [NeuroMechatronics Lab @ Carnegie Mellon University](https://www.meche.engineering.cmu.edu/faculty/neuromechatronics-lab.html)
   
