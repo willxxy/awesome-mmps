@@ -51,4 +51,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [Centre for Language Technology @ University of Copenhagen](https://cst.ku.dk/english/)
 - [Safe AI LAb @ Carnegie Mellon University](https://safeai-lab.github.io/)
 - [NeuroMechatronics Lab @ Carnegie Mellon University](https://www.meche.engineering.cmu.edu/faculty/neuromechatronics-lab.html)
+- [Interactive Computing Lab @ KAIST](https://ic.kaist.ac.kr/)
+- [Laboratory for the Neural Mechanisms of Attention @ UC Davis](https://mangunlab.ucdavis.edu/)
+- [HUman Bio-behavioral Signals Lab @ Texas A&M University](https://hubbs.engr.tamu.edu/)
   
