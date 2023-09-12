@@ -43,6 +43,8 @@ Any additions, corrections, or concerns please submit an issue :).
 - [A Multimodal Approach to Estimating Vigilance Using EEG and Forehead EOG](https://iopscience.iop.org/article/10.1088/1741-2552/aa5a98/pdf), Journal of Neural Engineering 2017; [EEG, EOG]
 - [Multimodal Emotion Recognition Using Deep Neural Networks](https://bcmi.sjtu.edu.cn/~liuwei/Wei%20Liu's%20HomePage_files/th_paper_2017.pdf), ICONIP 2017; [EEG, Eye Movement]
 - [ECGBERT: Understanding Hidden Language of ECGs with Self-Supervised Representation Learning](https://arxiv.org/abs/2306.06340), arxiv 2023; [ECG, Language]
+- [ECG Language Processing (ELP): A new technique to analyze ECG signals](https://www.sciencedirect.com/science/article/pii/S0169260721000341), Computer Methods and Programs in Biomedicine; [ECG, Language]
+
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
