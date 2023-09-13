@@ -44,6 +44,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [Multimodal Emotion Recognition Using Deep Neural Networks](https://bcmi.sjtu.edu.cn/~liuwei/Wei%20Liu's%20HomePage_files/th_paper_2017.pdf), ICONIP 2017; [EEG, Eye Movement]
 - [ECGBERT: Understanding Hidden Language of ECGs with Self-Supervised Representation Learning](https://arxiv.org/abs/2306.06340), arxiv 2023; [ECG, Language]
 - [ECG Language Processing (ELP): A new technique to analyze ECG signals](https://www.sciencedirect.com/science/article/pii/S0169260721000341), Computer Methods and Programs in Biomedicine; [ECG, Language]
+- [Robust Patient Information Embedding and Retrieval Mechanism for ECG Signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9201451), IEEE Access 2020; [ECG, Language]
 
 
 ## Datasets
