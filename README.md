@@ -46,6 +46,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [ECG Language Processing (ELP): A new technique to analyze ECG signals](https://www.sciencedirect.com/science/article/pii/S0169260721000341), Computer Methods and Programs in Biomedicine; [ECG, Language]
 - [Robust Patient Information Embedding and Retrieval Mechanism for ECG Signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9201451), IEEE Access 2020; [ECG, Language]
 - [EmotionMeter: A Multimodal Framework for Recognizing Human Emotions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8283814), IEEE Transactions on Cybernetics 2019; [EEG, Eye Movement]
+- [A Deep Learning Architecture for Temporal Sleep Stage Classification Using Multivariate and Multimodal Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8307462), IEEE Transactions on Neural Systems and Rehabilitation Engineering 2018; [EEG, EOG, EMG]
 
 
 ## Datasets
