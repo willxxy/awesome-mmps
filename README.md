@@ -45,6 +45,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [ECGBERT: Understanding Hidden Language of ECGs with Self-Supervised Representation Learning](https://arxiv.org/abs/2306.06340), arxiv 2023; [ECG, Language]
 - [ECG Language Processing (ELP): A new technique to analyze ECG signals](https://www.sciencedirect.com/science/article/pii/S0169260721000341), Computer Methods and Programs in Biomedicine; [ECG, Language]
 - [Robust Patient Information Embedding and Retrieval Mechanism for ECG Signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9201451), IEEE Access 2020; [ECG, Language]
+- [EmotionMeter: A Multimodal Framework for Recognizing Human Emotions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8283814), IEEE Transactions on Cybernetics 2019; [EEG, Eye Movement]
 
 
 ## Datasets
