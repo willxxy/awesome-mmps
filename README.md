@@ -48,6 +48,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [EmotionMeter: A Multimodal Framework for Recognizing Human Emotions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8283814), IEEE Transactions on Cybernetics 2019; [EEG, Eye Movement]
 - [A Deep Learning Architecture for Temporal Sleep Stage Classification Using Multivariate and Multimodal Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8307462), IEEE Transactions on Neural Systems and Rehabilitation Engineering 2018; [EEG, EOG, EMG]
 - [Multimodal Physiological Signals and Machine Learning for Stress Detection by Wearable Devices](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9856558), IEEE MEMEA 2022; [EDA, ECG, PPG]
+- [Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels](https://www.semanticscholar.org/paper/Multimodal-Adaptive-Emotion-Transformer-with-Inputs-Jiang-Liu/a08b89ea7269be93bbe0d7f5f8493471b4d1c39c), ACM 2023; [EEG, Eye Movement]
 
 
 ## Datasets
@@ -61,6 +62,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/); [EEG, Peripheral Physiological Signals, Video]
 - [K-EmoCon](https://zenodo.org/record/3762962); [EEG, Peripheral Physiological Signals, Video, Audio]
 - [AMIGOS](http://www.eecs.qmul.ac.uk/mmv/datasets/amigos/index.html); [EEG, ECG, GSR, Video]
+- [Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels](https://www.semanticscholar.org/paper/Multimodal-Adaptive-Emotion-Transformer-with-Inputs-Jiang-Liu/a08b89ea7269be93bbe0d7f5f8493471b4d1c39c); [EEG, Eye Movement]
 
 
 ## Laboratories
