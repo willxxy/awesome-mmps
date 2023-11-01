@@ -66,6 +66,7 @@ Any additions, corrections, or concerns please submit an issue :).
 
 
 ## Laboratories
+- [Neural Interfacing Lab @ Maastricht University](https://neuralinterfacinglab.github.io/)
 - [BCMI Lab @ Shanghai Jiao Tong University](https://bcmi.sjtu.edu.cn/)
 - [Centre for Language Technology @ University of Copenhagen](https://cst.ku.dk/english/)
 - [Safe AI LAb @ Carnegie Mellon University](https://safeai-lab.github.io/)
