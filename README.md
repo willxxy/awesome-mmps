@@ -69,7 +69,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [Neural Interfacing Lab @ Maastricht University](https://neuralinterfacinglab.github.io/)
 - [BCMI Lab @ Shanghai Jiao Tong University](https://bcmi.sjtu.edu.cn/)
 - [Centre for Language Technology @ University of Copenhagen](https://cst.ku.dk/english/)
-- [Safe AI LAb @ Carnegie Mellon University](https://safeai-lab.github.io/)
+- [Safe AI Lab @ Carnegie Mellon University](https://safeai-lab.github.io/)
 - [NeuroMechatronics Lab @ Carnegie Mellon University](https://www.meche.engineering.cmu.edu/faculty/neuromechatronics-lab.html)
 - [Interactive Computing Lab @ KAIST](https://ic.kaist.ac.kr/)
 - [Laboratory for the Neural Mechanisms of Attention @ UC Davis](https://mangunlab.ucdavis.edu/)
