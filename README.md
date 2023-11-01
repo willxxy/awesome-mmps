@@ -64,6 +64,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [K-EmoCon](https://zenodo.org/record/3762962); [EEG, Peripheral Physiological Signals, Video, Audio]
 - [AMIGOS](http://www.eecs.qmul.ac.uk/mmv/datasets/amigos/index.html); [EEG, ECG, GSR, Video]
 - [Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels](https://www.semanticscholar.org/paper/Multimodal-Adaptive-Emotion-Transformer-with-Inputs-Jiang-Liu/a08b89ea7269be93bbe0d7f5f8493471b4d1c39c); [EEG, Eye Movement]
+- [Dataset of Speech Production in intracranial Electroencephalography](https://www.nature.com/articles/s41597-022-01542-9#code-availability); [Intracranial EEG, Language]
 
 
 ## Laboratories
