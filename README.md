@@ -80,4 +80,5 @@ Any additions, corrections, or concerns please submit an issue :).
 - [HUman Bio-behavioral Signals Lab @ Texas A&M University](https://hubbs.engr.tamu.edu/)
 - [Computational Intelligence & Neural Engineering Lab @ Hanyang University](http://cone.hanyang.ac.kr/index_e.html)
 - [Bioelectronics Laboratory @ Incheon National University](https://sites.google.com/view/bioelectronics-lab)
+- [HealthyML @ MIT](https://healthyml.org/people/)
   
