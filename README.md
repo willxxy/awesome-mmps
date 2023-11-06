@@ -81,5 +81,5 @@ Any additions, corrections, or concerns please submit an issue :).
 - [Computational Intelligence & Neural Engineering Lab @ Hanyang University](http://cone.hanyang.ac.kr/index_e.html)
 - [Bioelectronics Laboratory @ Incheon National University](https://sites.google.com/view/bioelectronics-lab)
 - [HealthyML @ MIT](https://healthyml.org/people/)
-- [AutonLab @ Carnegie Mellon University](https://autonlab.org/)
+- [Auton Lab @ Carnegie Mellon University](https://autonlab.org/)
   
