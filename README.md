@@ -51,6 +51,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels](https://www.semanticscholar.org/paper/Multimodal-Adaptive-Emotion-Transformer-with-Inputs-Jiang-Liu/a08b89ea7269be93bbe0d7f5f8493471b4d1c39c), ACM 2023; [EEG, Eye Movement]
 - [Emotion Transformer Fusion: Complementary Representation Properties of EEG and Eye Movements on Recognizing Anger and Surprise](https://bcmi.sjtu.edu.cn/~lubaoliang/papers/2021/2021-14.pdf), IEEE BIBM 2023; [EEG, Eye Movement]
 - [Multimodal Physiological Signals Fusion for Online Emotion Recognition](https://dl.acm.org/doi/pdf/10.1145/3581783.3612555), ACM Multimedia 2023; [EEG, ECG, GSR]
+- [Graph to Grid: Learning Deep Representations for Multimodal Emotion Recognition](https://dl.acm.org/doi/pdf/10.1145/3581783.3612074), ACM Multimedia 2023; [EEG, Eye Movement, GSR, Respiration, ECG]
 
 
 ## Datasets
