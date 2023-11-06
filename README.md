@@ -50,6 +50,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [Multimodal Physiological Signals and Machine Learning for Stress Detection by Wearable Devices](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9856558), IEEE MEMEA 2022; [EDA, ECG, PPG]
 - [Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels](https://www.semanticscholar.org/paper/Multimodal-Adaptive-Emotion-Transformer-with-Inputs-Jiang-Liu/a08b89ea7269be93bbe0d7f5f8493471b4d1c39c), ACM 2023; [EEG, Eye Movement]
 - [Emotion Transformer Fusion: Complementary Representation Properties of EEG and Eye Movements on Recognizing Anger and Surprise](https://bcmi.sjtu.edu.cn/~lubaoliang/papers/2021/2021-14.pdf), IEEE BIBM 2023; [EEG, Eye Movement]
+- [Multimodal Physiological Signals Fusion for Online Emotion Recognition](https://dl.acm.org/doi/pdf/10.1145/3581783.3612555), ACM Multimedia 2023; [EEG, ECG, GSR]
 
 
 ## Datasets
