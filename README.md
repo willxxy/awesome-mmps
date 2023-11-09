@@ -85,4 +85,5 @@ Any additions, corrections, or concerns please submit an issue :).
 - [Bioelectronics Laboratory @ Incheon National University](https://sites.google.com/view/bioelectronics-lab)
 - [Healthy ML @ MIT](https://healthyml.org/people/)
 - [Auton Lab @ Carnegie Mellon University](https://autonlab.org/)
+- [Biomedical Functional Imaging and Neuroengineering Laboratory @ Carnegie Mellon University](https://www.cmu.edu/bme/helab/)
   
