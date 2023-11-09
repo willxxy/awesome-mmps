@@ -54,6 +54,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [Graph to Grid: Learning Deep Representations for Multimodal Emotion Recognition](https://dl.acm.org/doi/pdf/10.1145/3581783.3612074), ACM Multimedia 2023; [EEG, Eye Movement, GSR, Respiration, ECG]
 - [Automated detection of panic disorder based on multimodal physiological signals using machine learning](https://onlinelibrary.wiley.com/doi/epdf/10.4218/etrij.2021-0299?src=getftr), ETRI Journal 2023; [ECG, EDA, RESP, PT]
 - [Stress Classification by Multimodal Physiological Signals Using Variational Mode Decomposition and Machine Learning](https://www.semanticscholar.org/reader/f23f2f2a8bd3f80b44042fd5b58c57c76fcdf281), Hindawi Journal of Healthcare Engineering 2021; [ECG, EEG]
+- [Transformer-Based Physiological Feature Learning for Multimodal Analysis of Self-Reported Sentiment](https://dl.acm.org/doi/abs/10.1145/3536221.3556576), ICMI 2022; [EDA, BVP, HR, TEMP]
 
 
 ## Datasets
