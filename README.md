@@ -52,6 +52,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [Emotion Transformer Fusion: Complementary Representation Properties of EEG and Eye Movements on Recognizing Anger and Surprise](https://bcmi.sjtu.edu.cn/~lubaoliang/papers/2021/2021-14.pdf), IEEE BIBM 2023; [EEG, Eye Movement]
 - [Multimodal Physiological Signals Fusion for Online Emotion Recognition](https://dl.acm.org/doi/pdf/10.1145/3581783.3612555), ACM Multimedia 2023; [EEG, ECG, GSR]
 - [Graph to Grid: Learning Deep Representations for Multimodal Emotion Recognition](https://dl.acm.org/doi/pdf/10.1145/3581783.3612074), ACM Multimedia 2023; [EEG, Eye Movement, GSR, Respiration, ECG]
+- [Automated detection of panic disorder based on multimodal physiological signals using machine learning](https://onlinelibrary.wiley.com/doi/epdf/10.4218/etrij.2021-0299?src=getftr), ETRI Journal 2023; [ECG, EDA, RESP, PT]
 
 
 ## Datasets
