@@ -56,6 +56,7 @@ Any additions, corrections, or concerns please submit an issue :).
 - [Stress Classification by Multimodal Physiological Signals Using Variational Mode Decomposition and Machine Learning](https://www.semanticscholar.org/reader/f23f2f2a8bd3f80b44042fd5b58c57c76fcdf281), Hindawi Journal of Healthcare Engineering 2021; [ECG, EEG]
 - [Transformer-Based Physiological Feature Learning for Multimodal Analysis of Self-Reported Sentiment](https://dl.acm.org/doi/abs/10.1145/3536221.3556576), ICMI 2022; [EDA, BVP, HR, TEMP]
 - [Language Mapping using tEEG and EEG Data with Convolutional Neural Networks](https://www.semanticscholar.org/paper/Language-Mapping-using-tEEG-and-EEG-Data-with-Adhikari-Pham/c960eee117d06c20bb5c9a54aedb707a8c277289), IEEE 2022; [EEG, tEEG]
+- [Understanding language-elicited EEG data by predicting it from a fine-tuned language model](https://www.semanticscholar.org/paper/Understanding-language-elicited-EEG-data-by-it-from-Schwartz-Mitchell/dacd64e55bea910486289ceac2a5f94217433b79), NAACL 2019; [EEG, ERP, Language]
 
 
 ## Datasets
