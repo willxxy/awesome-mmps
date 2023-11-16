@@ -58,6 +58,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Language Mapping using tEEG and EEG Data with Convolutional Neural Networks](https://www.semanticscholar.org/paper/Language-Mapping-using-tEEG-and-EEG-Data-with-Adhikari-Pham/c960eee117d06c20bb5c9a54aedb707a8c277289), IEEE 2022; [EEG, tEEG]
 - [Understanding language-elicited EEG data by predicting it from a fine-tuned language model](https://www.semanticscholar.org/paper/Understanding-language-elicited-EEG-data-by-it-from-Schwartz-Mitchell/dacd64e55bea910486289ceac2a5f94217433b79), NAACL 2019; [EEG, ERP, Language]
 - [Validation and Interpretation of a Multimodal Drowsiness Detection System Using Explainable Machine Learning](https://www.sciencedirect.com/science/article/pii/S0169260723005916), Computer Methods and Programs in Biomedicine 2023; [EEG, ECG, EOG]
+- [A Novel Algorithm for Movement Artifact Removal in ECG Signals Acquired from Wearable Systems Applied to Horses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4618928/), PLoS One 2015, [ECG, Accelerometer]
 
 
 ## Datasets
