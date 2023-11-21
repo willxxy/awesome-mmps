@@ -60,6 +60,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Validation and Interpretation of a Multimodal Drowsiness Detection System Using Explainable Machine Learning](https://www.sciencedirect.com/science/article/pii/S0169260723005916), Computer Methods and Programs in Biomedicine 2023; [EEG, ECG, EOG]
 - [A Novel Algorithm for Movement Artifact Removal in ECG Signals Acquired from Wearable Systems Applied to Horses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4618928/), PLoS One 2015; [ECG, Accelerometer]
 - [Every word counts: A multilingual analysis of individual human alignment with model attention](https://arxiv.org/abs/2210.04963), AACl 2022; [Eye-Tracking, Language]
+- [Early Life Stress Detection Using Physiological Signals and Machine Learning Pipelines](https://www.mdpi.com/2079-7737/12/1/91), Biology 2023; [Heart Rate, GSR]
 
 
 ## Datasets
