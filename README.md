@@ -61,6 +61,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [A Novel Algorithm for Movement Artifact Removal in ECG Signals Acquired from Wearable Systems Applied to Horses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4618928/), PLoS One 2015; [ECG, Accelerometer]
 - [Every word counts: A multilingual analysis of individual human alignment with model attention](https://arxiv.org/abs/2210.04963), AACl 2022; [Eye-Tracking, Language]
 - [Early Life Stress Detection Using Physiological Signals and Machine Learning Pipelines](https://www.mdpi.com/2079-7737/12/1/91), Biology 2023; [Heart Rate, GSR]
+- [Automatic stress detection in car drivers based on non-invasive physiological signals using machine learning techniques](https://link.springer.com/article/10.1007/s00521-023-08428-w), Neural Computing and Applications 2023; [ECG, EMG, GSR, Respiration Rate]
+- [Hierarchical extreme puzzle learning machine-based emotion recognition using multimodal physiological signals](https://www.sciencedirect.com/science/article/pii/S1746809423000575), Biomedical Signal Processing and Control 2023; [EDA, ECG, TEMP, RESP, EMR]
 
 
 ## Datasets
