@@ -1,5 +1,5 @@
 # awesome-mmps
-Corpus of resources for multimodal machine learning with physiological signals.
+Corpus of resources for unimodal and multimodal machine learning with physiological signals.
 
 Any additions, corrections, or concerns please submit an issue. For additions to the list, please provide the relevant information. Thank you! :)
 
