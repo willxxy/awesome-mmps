@@ -65,6 +65,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Hierarchical extreme puzzle learning machine-based emotion recognition using multimodal physiological signals](https://www.sciencedirect.com/science/article/pii/S1746809423000575), Biomedical Signal Processing and Control 2023; [EDA, ECG, TEMP, RESP, EMR]
 - [Machine Learning–Enabled Multimodal Fusion of Intra-Atrial and Body Surface Signals in Prediction of Atrial Fibrillation Ablation Outcomes](https://www.ahajournals.org/doi/full/10.1161/CIRCEP.122.010850), Journal of American Heart Association 2022; [ECG, iECG]
 - [A Hybrid Deep Learning Emotion Classification System Using Multimodal Data](https://www.mdpi.com/1424-8220/23/23/9333), Sensors 2023; [EDA, IBI, TEMP, Text, Audio]
+- [Exploring the Potential of Multimodal Emotion Recognition for Hearing-Impaired Children Using Physiological Signals and Facial Expressions](https://dl.acm.org/doi/pdf/10.1145/3610661.3616240), ICMI Companion 2023; [ST, EDA, BVP, ACC, HR, Vision]
 
 
 ## Datasets
