@@ -69,6 +69,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Exploring the Potential of Multimodal Emotion Recognition for Hearing-Impaired Children Using Physiological Signals and Facial Expressions](https://dl.acm.org/doi/pdf/10.1145/3610661.3616240), ICMI Companion 2023; [ST, EDA, BVP, ACC, HR, Vision]
 - [A Classification Model for Sensing Human Trust in Machines Using EEG and GSR](https://dl.acm.org/doi/pdf/10.1145/3132743), ACM Transactions on Interactive Intelligent Systems 2018; [EEG, GSR]
 - [Performance Exploration of RNN Variants for Recognizing Daily Life Stress Levels by Using Multimodal Physiological Signals](https://dl.acm.org/doi/pdf/10.1145/3577190.3614159), ICMI 2023; [EDA, ST, ACC, HR]
+- [Evaluating the Stressful Commutes Using Physiological Signals and Machine Learning Techniques](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990849), IEEE 3ICT 2022; [HR, BP, EEG]
 
 
 ## Datasets
