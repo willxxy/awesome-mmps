@@ -70,6 +70,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [A Classification Model for Sensing Human Trust in Machines Using EEG and GSR](https://dl.acm.org/doi/pdf/10.1145/3132743), ACM Transactions on Interactive Intelligent Systems 2018; [EEG, GSR]
 - [Performance Exploration of RNN Variants for Recognizing Daily Life Stress Levels by Using Multimodal Physiological Signals](https://dl.acm.org/doi/pdf/10.1145/3577190.3614159), ICMI 2023; [EDA, ST, ACC, HR]
 - [Evaluating the Stressful Commutes Using Physiological Signals and Machine Learning Techniques](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990849), IEEE 3ICT 2022; [HR, BP, EEG]
+- [Review of Machine and Deep Learning Techniques in Epileptic Seizure Detection using Physiological Signals and Sentiment Analysis](https://dl.acm.org/doi/pdf/10.1145/3552512), ACM 2022; [iEEG, EEG]
 
 
 ## Datasets
