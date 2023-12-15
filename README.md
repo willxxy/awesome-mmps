@@ -72,6 +72,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Evaluating the Stressful Commutes Using Physiological Signals and Machine Learning Techniques](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9990849), IEEE 3ICT 2022; [HR, BP, EEG]
 - [Review of Machine and Deep Learning Techniques in Epileptic Seizure Detection using Physiological Signals and Sentiment Analysis](https://dl.acm.org/doi/pdf/10.1145/3552512), ACM 2022; [iEEG, EEG]
 - [Comparative Analysis of Emotion Classification Based on Facial Expression and Physiological Signals Using Deep Learning](https://www.mdpi.com/2076-3417/12/3/1286), Applied Sciences 2022; [Facial Expressions, HRV]
+- [Towards Autonomous Physiological Signal Extraction From Thermal Videos Using Deep Learning](https://dl.acm.org/doi/10.1145/3577190.3614123), ICMI 2023; [HR, Respiration Rate, Temperature]
+- 
 
 
 ## Datasets
