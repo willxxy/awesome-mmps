@@ -74,6 +74,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Comparative Analysis of Emotion Classification Based on Facial Expression and Physiological Signals Using Deep Learning](https://www.mdpi.com/2076-3417/12/3/1286), Applied Sciences 2022; [Facial Expressions, HRV]
 - [Towards Autonomous Physiological Signal Extraction From Thermal Videos Using Deep Learning](https://dl.acm.org/doi/10.1145/3577190.3614123), ICMI 2023; [HR, Respiration Rate, Temperature]
 - [Transformer-based Self-supervised Multimodal Representation Learning for Wearable Emotion Recognition](https://arxiv.org/abs/2303.17611), IEEE Transactions On Affective Computing 2023; [EDA, BVP, TEMP]
+- [ECG and EEG based detection and multilevel classification of stress using machine learning for specified genders: A preliminary study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10473514/), PLoS One 2023; [EEG, ECG]
 
 
 ## Datasets
