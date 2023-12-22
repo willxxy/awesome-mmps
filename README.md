@@ -75,6 +75,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Towards Autonomous Physiological Signal Extraction From Thermal Videos Using Deep Learning](https://dl.acm.org/doi/10.1145/3577190.3614123), ICMI 2023; [HR, Respiration Rate, Temperature]
 - [Transformer-based Self-supervised Multimodal Representation Learning for Wearable Emotion Recognition](https://arxiv.org/abs/2303.17611), IEEE Transactions On Affective Computing 2023; [EDA, BVP, TEMP]
 - [ECG and EEG based detection and multilevel classification of stress using machine learning for specified genders: A preliminary study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10473514/), PLoS One 2023; [EEG, ECG]
+- [Modeling Multivariate Biosignals With Graph Neural Networks and Structured State Space Models](https://proceedings.mlr.press/v209/tang23a.html), CHIL 2023; [EEG, ECG, PSG]
 
 
 ## Datasets
