@@ -77,6 +77,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [ECG and EEG based detection and multilevel classification of stress using machine learning for specified genders: A preliminary study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10473514/), PLoS One 2023; [EEG, ECG]
 - [Modeling Multivariate Biosignals With Graph Neural Networks and Structured State Space Models](https://proceedings.mlr.press/v209/tang23a.html), CHIL 2023; [EEG, ECG, PSG]
 - [Cognitive Load Prediction from Multimodal Physiological Signals using Multiview Learning.](https://www.semanticscholar.org/paper/Cognitive-Load-Prediction-from-Multimodal-Signals-Liu-Yu/5103ff5e420ff93bd37ff414e9789fda99e46424), IEEE journal of biomedical and health informatics 2023; [EEG, EDA, ECG, EOG, & Eye Movements]
+- [An Efficient Multimodal Emotion Identification Using FOX Optimized Double Deep Q-Learning](https://dl.acm.org/doi/10.1007/s11277-023-10685-w), Wireless Personal Communications 2023; [GSR, ECG, and EEG]
 
 
 ## Datasets
