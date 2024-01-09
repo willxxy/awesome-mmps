@@ -78,6 +78,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Modeling Multivariate Biosignals With Graph Neural Networks and Structured State Space Models](https://proceedings.mlr.press/v209/tang23a.html), CHIL 2023; [EEG, ECG, PSG]
 - [Cognitive Load Prediction from Multimodal Physiological Signals using Multiview Learning.](https://www.semanticscholar.org/paper/Cognitive-Load-Prediction-from-Multimodal-Signals-Liu-Yu/5103ff5e420ff93bd37ff414e9789fda99e46424), IEEE journal of biomedical and health informatics 2023; [EEG, EDA, ECG, EOG, & Eye Movements]
 - [An Efficient Multimodal Emotion Identification Using FOX Optimized Double Deep Q-Learning](https://dl.acm.org/doi/10.1007/s11277-023-10685-w), Wireless Personal Communications 2023; [GSR, ECG, and EEG]
+- [A Framework for Cognitive Load Recognition Based on Machine Learning and Multimodal Physiological Signals by Wearable Sensors](https://ieeexplore.ieee.org/abstract/document/10348206), IEEE PRML 2023; [ECG, EDA, and PPG]
 
 
 ## Datasets
