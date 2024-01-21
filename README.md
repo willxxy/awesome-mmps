@@ -80,6 +80,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [An Efficient Multimodal Emotion Identification Using FOX Optimized Double Deep Q-Learning](https://dl.acm.org/doi/10.1007/s11277-023-10685-w), Wireless Personal Communications 2023; [GSR, ECG, and EEG]
 - [A Framework for Cognitive Load Recognition Based on Machine Learning and Multimodal Physiological Signals by Wearable Sensors](https://ieeexplore.ieee.org/abstract/document/10348206), IEEE PRML 2023; [ECG, EDA, and PPG]
 - [Multimodal 12-lead ECG data classification using multi-label DenseNet for heart disease detection](https://ieeexplore.ieee.org/document/9943957), IEEE DSIT 2022; [HRV, ECG, EHR]
+- [Stress appraisal in the workplace and its associations with productivity and mood: Insights from a multimodal machine learning analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296468), PLoS One 2024; [EDA, ST, BVP, Accelerometer]
 
 
 ## Datasets
