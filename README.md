@@ -81,7 +81,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [A Framework for Cognitive Load Recognition Based on Machine Learning and Multimodal Physiological Signals by Wearable Sensors](https://ieeexplore.ieee.org/abstract/document/10348206), IEEE PRML 2023; [ECG, EDA, and PPG]
 - [Multimodal 12-lead ECG data classification using multi-label DenseNet for heart disease detection](https://ieeexplore.ieee.org/document/9943957), IEEE DSIT 2022; [HRV, ECG, EHR]
 - [Stress appraisal in the workplace and its associations with productivity and mood: Insights from a multimodal machine learning analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296468), PLoS One 2024; [EDA, ST, BVP, Accelerometer]
-- [Naturalistic Emotion Recognition Using EEG and Eye Movements](https://bcmi.sjtu.edu.cn/home/blu/papers/2023/2023-8.pdf), Springer Nature Singapore 2023; [EEG, Eye Movement] 
+- [Naturalistic Emotion Recognition Using EEG and Eye Movements](https://bcmi.sjtu.edu.cn/home/blu/papers/2023/2023-8.pdf), Springer Nature Singapore 2023; [EEG, Eye Movement]
+- [SIM-CNN: Self-Supervised Individualized Multimodal Learning for Stress Prediction on Nurses Using Biosignals](https://www.medrxiv.org/content/medrxiv/early/2023/08/28/2023.08.25.23294640.full.pdf), medRxiv 2023; [EDA, HR, ST, Interbeat Interval, BVP, Accelerometer]
 
 
 ## Datasets
