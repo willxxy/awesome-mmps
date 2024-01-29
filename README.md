@@ -116,4 +116,5 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Healthy ML @ MIT](https://healthyml.org/people/)
 - [Auton Lab @ Carnegie Mellon University](https://autonlab.org/)
 - [Biomedical Functional Imaging and Neuroengineering Laboratory @ Carnegie Mellon University](https://www.cmu.edu/bme/helab/)
+- [Laboratoire des Systèmes Perceptifs @ École Normale Supérieure](https://lsp.dec.ens.fr/fr)
   
