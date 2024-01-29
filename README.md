@@ -117,4 +117,5 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Auton Lab @ Carnegie Mellon University](https://autonlab.org/)
 - [Biomedical Functional Imaging and Neuroengineering Laboratory @ Carnegie Mellon University](https://www.cmu.edu/bme/helab/)
 - [Laboratoire des Systèmes Perceptifs @ École Normale Supérieure](https://lsp.dec.ens.fr/fr)
+- [Brain and AI Team @ Meta](https://ai.meta.com/blog/studying-the-brain-to-build-ai-that-processes-language-as-people-do/)
   
