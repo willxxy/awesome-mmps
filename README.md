@@ -84,6 +84,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Naturalistic Emotion Recognition Using EEG and Eye Movements](https://bcmi.sjtu.edu.cn/home/blu/papers/2023/2023-8.pdf), Springer Nature Singapore 2023; [EEG, Eye Movement]
 - [SIM-CNN: Self-Supervised Individualized Multimodal Learning for Stress Prediction on Nurses Using Biosignals](https://www.medrxiv.org/content/medrxiv/early/2023/08/28/2023.08.25.23294640.full.pdf), medRxiv 2023; [EDA, HR, ST, Interbeat Interval, BVP, Accelerometer]
 - [Time Synchronization of Multimodal Physiological Signals through Alignment of Common Signal Types and Its Technical Considerations in Digital Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9145353/), J Imaging 2022; [ECG]
+- [Single-modal and multi-modal false arrhythmia alarm reduction using attention-based convolutional and recurrent neural networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226990), PLoS One 2024; [PPG, ABP, ECG]
 
 
 ## Datasets
