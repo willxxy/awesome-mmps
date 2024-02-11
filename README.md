@@ -85,6 +85,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [SIM-CNN: Self-Supervised Individualized Multimodal Learning for Stress Prediction on Nurses Using Biosignals](https://www.medrxiv.org/content/medrxiv/early/2023/08/28/2023.08.25.23294640.full.pdf), medRxiv 2023; [EDA, HR, ST, Interbeat Interval, BVP, Accelerometer]
 - [Time Synchronization of Multimodal Physiological Signals through Alignment of Common Signal Types and Its Technical Considerations in Digital Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9145353/), J Imaging 2022; [ECG]
 - [Single-modal and multi-modal false arrhythmia alarm reduction using attention-based convolutional and recurrent neural networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226990), PLoS One 2024; [PPG, ABP, ECG]
+- [Effects of Physiological Signals in Different Types of Multimodal Sentiment Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9726810&tag=1), IEEE AC 2023; [Language, EDA, Audio, Vision]
 
 
 ## Datasets
