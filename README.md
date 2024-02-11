@@ -102,6 +102,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Dataset of Speech Production in intracranial Electroencephalography](https://www.nature.com/articles/s41597-022-01542-9#code-availability); [Intracranial EEG, Language]
 - [Temple University Hospital EEG Seizure Corpus](https://isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml); [EEG, Artifacts]
 - [ECG & EEG Stress Features](https://www.kaggle.com/datasets/apithm/ecg-and-eeg-stress-features/); [EEG, ECG]
+- [A multi-modal open dataset for mental-disorder analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9018722/); [EEG, Language]
 
 
 ## Laboratories
