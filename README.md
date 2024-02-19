@@ -87,6 +87,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Single-modal and multi-modal false arrhythmia alarm reduction using attention-based convolutional and recurrent neural networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226990), PLoS One 2024; [PPG, ABP, ECG]
 - [Effects of Physiological Signals in Different Types of Multimodal Sentiment Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9726810&tag=1), IEEE AC 2023; [Language, EDA, Audio, Vision]
 - [EmotionKD: A Cross-Modal Knowledge Distillation Framework for Emotion Recognition Based on Physiological Signals](https://dl.acm.org/doi/pdf/10.1145/3581783.3612277), ACM 2023; [EEG, GSR]
+- [Interpretation of Intracardiac Electrograms Through Textual Representations](https://arxiv.org/abs/2402.01115), arxiv 2024; [EGM, Language]
 
 
 ## Datasets
