@@ -89,6 +89,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [EmotionKD: A Cross-Modal Knowledge Distillation Framework for Emotion Recognition Based on Physiological Signals](https://dl.acm.org/doi/pdf/10.1145/3581783.3612277), ACM 2023; [EEG, GSR]
 - [Interpretation of Intracardiac Electrograms Through Textual Representations](https://arxiv.org/abs/2402.01115), arxiv 2024; [EGM, Language]
 - [Negative emotion recognition using multimodal physiological signals for advanced driver assistance systems](https://link.springer.com/article/10.1007/s10015-023-00858-y), Artificial Life and Robotics 2023; [ECG, EDA, EEG, and fNIRS]
+- [Multimodal Risk Prediction with Physiological Signals, Medical Images and Clinical Notes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10246140/), medRxiv 2023; [Vision, Language, EHR]
 
 
 ## Datasets
