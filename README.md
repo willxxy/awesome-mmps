@@ -90,6 +90,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Interpretation of Intracardiac Electrograms Through Textual Representations](https://arxiv.org/abs/2402.01115), arxiv 2024; [EGM, Language]
 - [Negative emotion recognition using multimodal physiological signals for advanced driver assistance systems](https://link.springer.com/article/10.1007/s10015-023-00858-y), Artificial Life and Robotics 2023; [ECG, EDA, EEG, and fNIRS]
 - [Multimodal Risk Prediction with Physiological Signals, Medical Images and Clinical Notes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10246140/), medRxiv 2023; [Vision, Language, EHR]
+- [Physiological Fusion Net: Quantifying Individual VR Sickness with Content Stimulus and Physiological Response](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8802983), IEEE International Conference on Image Processing (ICIP) 2019; [Vision, EEG, ECG, GSR]
 
 
 ## Datasets
