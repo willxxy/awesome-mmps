@@ -93,6 +93,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Physiological Fusion Net: Quantifying Individual VR Sickness with Content Stimulus and Physiological Response](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8802983), IEEE International Conference on Image Processing (ICIP) 2019; [Vision, EEG, ECG, GSR]
 - [Text-to-ECG: 12-Lead Electrocardiogram Synthesis conditioned on Clinical Text Reports](https://arxiv.org/pdf/2303.09395.pdf), ICASSP 2023; [ECG, Language]
 - [DeWave: Discrete EEG Waves Encoding for Brain Dynamics to Text Translation](https://arxiv.org/abs/2309.14030), Neurips 2023; [EEG, Language]
+- [DreamDiffusion: Generating High-Quality Images from Brain EEG Signals](https://arxiv.org/pdf/2306.16934.pdf), arxiv 2023, [EEG, Vision]
 
 
 ## Datasets
