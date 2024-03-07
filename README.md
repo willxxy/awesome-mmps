@@ -95,6 +95,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [DeWave: Discrete EEG Waves Encoding for Brain Dynamics to Text Translation](https://arxiv.org/abs/2309.14030), Neurips 2023; [EEG, Language]
 - [DreamDiffusion: Generating High-Quality Images from Brain EEG Signals](https://arxiv.org/pdf/2306.16934.pdf), arxiv 2023; [EEG, Vision]
 - [Multi-Signal Reconstruction Using Masked Autoencoder From EEG During Polysomnography](https://arxiv.org/abs/2311.07868), IEEE BCI 2023; [EEG, EOG, Chin EMG, Event Makers]
+- [Multimodal Physiological Signal Emotion Recognition Based on Convolutional Recurrent Neural Network](https://iopscience.iop.org/article/10.1088/1757-899X/782/3/032005), IOP 2020; [EOG, EMG, GSR, RSP, BVP, TMP, EEG]
+- [Comparative analysis of physiological signals and electroencephalogram (EEG) for multimodal emotion recognition using generative models](https://ieeexplore.ieee.org/abstract/document/7010181), IEEE STSIVA 2014; [EEG, EOG, EMG, GSR, HR]
 
 
 
