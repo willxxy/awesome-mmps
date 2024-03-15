@@ -97,6 +97,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Multi-Signal Reconstruction Using Masked Autoencoder From EEG During Polysomnography](https://arxiv.org/abs/2311.07868), IEEE BCI 2023; [EEG, EOG, Chin EMG, Event Makers]
 - [Multimodal Physiological Signal Emotion Recognition Based on Convolutional Recurrent Neural Network](https://iopscience.iop.org/article/10.1088/1757-899X/782/3/032005), IOP 2020; [EOG, EMG, GSR, RSP, BVP, TMP, EEG]
 - [Comparative analysis of physiological signals and electroencephalogram (EEG) for multimodal emotion recognition using generative models](https://ieeexplore.ieee.org/abstract/document/7010181), IEEE STSIVA 2014; [EEG, EOG, EMG, GSR, HR]
+- [An Exploratory Study of Multimodal Physiological Data in Jazz Improvisation Using Basic Machine Learning Techniques](https://arxiv.org/ftp/arxiv/papers/2401/2401.12266.pdf), arxiv 2024; [EDA, EEG]
+- [Machine-Learning-Based Detection of Craving for Gaming Using Multimodal Physiological Signals: Validation of Test-Retest Reliability for Practical Use](https://www.mdpi.com/1424-8220/19/16/3475), Sensors 2019; [PPG, GSR, EOG]
 
 
 
