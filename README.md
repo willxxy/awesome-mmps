@@ -140,4 +140,5 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Laboratoire des Systèmes Perceptifs @ École Normale Supérieure](https://lsp.dec.ens.fr/fr)
 - [Brain and AI Team @ Meta](https://ai.meta.com/blog/studying-the-brain-to-build-ai-that-processes-language-as-people-do/)
 - [Computational Arrhythmia Research Laboratory @ Stanford University](http://web.stanford.edu/group/narayanlab/cgi-bin/wordpress/)
+- [Wu Tsai Institute @ Yale University](https://wti.yale.edu/)
   
