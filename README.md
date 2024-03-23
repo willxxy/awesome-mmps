@@ -100,7 +100,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [An Exploratory Study of Multimodal Physiological Data in Jazz Improvisation Using Basic Machine Learning Techniques](https://arxiv.org/ftp/arxiv/papers/2401/2401.12266.pdf), arxiv 2024; [EDA, EEG]
 - [Integrating multimodal information in machine learning for classifying acute myocardial infarction](https://pubmed.ncbi.nlm.nih.gov/36963114/), Physiological Measurement 2023; [ECG, Text]
 - [Large Language Models for Time Series: A Survey](https://arxiv.org/pdf/2402.01801.pdf), arxiv 2024; [EEG, ECG, Text, Vision]
-- [Position Paper: What Can Large Language Models Tell Us about Time Series Analysis](https://arxiv.org/pdf/2402.02713.pdf). arxiv 2024, [ECG, Text]
+- [Position Paper: What Can Large Language Models Tell Us about Time Series Analysis](https://arxiv.org/pdf/2402.02713.pdf), arxiv 2024, [ECG, Text]
+- [Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction](https://arxiv.org/abs/2403.10581), arxiv 2024; [ECG, Text]
 
 
 
