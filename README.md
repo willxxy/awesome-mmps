@@ -102,6 +102,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Large Language Models for Time Series: A Survey](https://arxiv.org/pdf/2402.01801.pdf), arxiv 2024; [EEG, ECG, Text, Vision]
 - [Position Paper: What Can Large Language Models Tell Us about Time Series Analysis](https://arxiv.org/pdf/2402.02713.pdf), arxiv 2024, [ECG, Text]
 - [Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction](https://arxiv.org/abs/2403.10581), arxiv 2024; [ECG, Text]
+- [Frozen Language Model Helps ECG Zero-Shot Learning](https://arxiv.org/pdf/2303.12311.pdf), MIDL 2023; [ECG, Text]
 
 
 
