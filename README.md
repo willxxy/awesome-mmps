@@ -105,6 +105,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Frozen Language Model Helps ECG Zero-Shot Learning](https://arxiv.org/pdf/2303.12311.pdf), MIDL 2023; [ECG, Text]
 - [Zero-Shot ECG Diagnosis with Large Language Models and Retrieval-Augmented Generation](https://proceedings.mlr.press/v225/yu23b/yu23b.pdf), ML4H 2023; [ECG, Text]
 - [Do Self-Supervised Speech and Language Models Extract Similar Representations as Human Brain?](https://ieeexplore.ieee.org/abstract/document/10446334), ICASSP 2024; [ECoG, Speech, Text]
+- [Multimodal Multi-View Spectral-Spatial-Temporal Masked Autoencoder for Self-Supervised Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447194), ICASSP 2024; [EEG, Eye Movement]
 
 
 
