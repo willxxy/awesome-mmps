@@ -107,7 +107,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Do Self-Supervised Speech and Language Models Extract Similar Representations as Human Brain?](https://ieeexplore.ieee.org/abstract/document/10446334), ICASSP 2024; [ECoG, Speech, Text]
 - [Multimodal Multi-View Spectral-Spatial-Temporal Masked Autoencoder for Self-Supervised Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447194), ICASSP 2024; [EEG, Eye Movement]
 - [Functional Emotion Transformer for EEG-Assisted Cross-Modal Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10446937), ICASSP 2024; [EEG, Eye Movement]
-- [Emotion Recognition From Multimodal Physiological Signals via Discriminative Correlation Fusion With a Temporal Alignment Mechanism](https://pubmed.ncbi.nlm.nih.gov/37862275/), IEEE Transactions on Cybernetics; [CNS, ANS]
+- [Emotion Recognition From Multimodal Physiological Signals via Discriminative Correlation Fusion With a Temporal Alignment Mechanism](https://pubmed.ncbi.nlm.nih.gov/37862275/), IEEE Transactions on Cybernetics 2023; [CNS, ANS]
 
 
 
