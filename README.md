@@ -108,6 +108,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Multimodal Multi-View Spectral-Spatial-Temporal Masked Autoencoder for Self-Supervised Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447194), ICASSP 2024; [EEG, Eye Movement]
 - [Functional Emotion Transformer for EEG-Assisted Cross-Modal Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10446937), ICASSP 2024; [EEG, Eye Movement]
 - [Emotion Recognition From Multimodal Physiological Signals via Discriminative Correlation Fusion With a Temporal Alignment Mechanism](https://pubmed.ncbi.nlm.nih.gov/37862275/), IEEE Transactions on Cybernetics 2023; [CNS, ANS]
+- [EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation](https://arxiv.org/abs/2401.18006), arxiv 2024; [EEG, Language]
+- [Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI](https://openreview.net/forum?id=QzTpTRVtrP), ICLR 2024; [EEG, Language]
 
 
 
@@ -128,6 +130,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [ECG & EEG Stress Features](https://www.kaggle.com/datasets/apithm/ecg-and-eeg-stress-features/); [EEG, ECG]
 - [A multi-modal open dataset for mental-disorder analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9018722/); [EEG, Language]
 - [Sleep-EDF](https://www.physionet.org/content/sleep-edfx/1.0.0/); [EEG, EOG, Chin EMG, Event Makers]
+- [Neurosity EEG Dataset](https://github.com/JeremyNixon/neurosity/tree/main); [EEG]
 
 
 ## Laboratories
