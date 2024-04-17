@@ -111,7 +111,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation](https://arxiv.org/abs/2401.18006), arxiv 2024; [EEG, Language]
 - [Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI](https://openreview.net/forum?id=QzTpTRVtrP), ICLR 2024; [EEG, Language]
 - [A Household Multimodal Physiological Signals Monitoring System](https://ieeexplore.ieee.org/document/10082658), IEEE 2023; [ECG, lLEMG, rLEMG, pBCG]
-- [Temporal-Spatial Prediction: Pre-Training on Diverse Datasets for EEG Classification], ICASSP 2024; [EEG]
+- [Temporal-Spatial Prediction: Pre-Training on Diverse Datasets for EEG Classification](https://ieeexplore.ieee.org/abstract/document/10447845), ICASSP 2024; [EEG]
 
 
 
