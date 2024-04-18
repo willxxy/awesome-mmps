@@ -112,6 +112,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI](https://openreview.net/forum?id=QzTpTRVtrP), ICLR 2024; [EEG, Language]
 - [A Household Multimodal Physiological Signals Monitoring System](https://ieeexplore.ieee.org/document/10082658), IEEE 2023; [ECG, lLEMG, rLEMG, pBCG]
 - [Temporal-Spatial Prediction: Pre-Training on Diverse Datasets for EEG Classification](https://ieeexplore.ieee.org/abstract/document/10447845), ICASSP 2024; [EEG]
+- [ECG-QA: A Comprehensive Question Answering Dataset Combined With Electrocardiogram](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d0b67349dd16b83b2cf6167fb4e2be50-Abstract-Datasets_and_Benchmarks.html), NeurIPS 2023; [ECG, Text]
 
 
 
@@ -154,6 +155,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Computational Arrhythmia Research Laboratory @ Stanford University](http://web.stanford.edu/group/narayanlab/cgi-bin/wordpress/)
 - [Wu Tsai Institute @ Yale University](https://wti.yale.edu/)
 - [Shah Lab @ Stanford University](https://shahlab.stanford.edu/)
+- [Edward Yoonjae Choi's Lab @ KAIST](https://mp2893.com/index.html)
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:
