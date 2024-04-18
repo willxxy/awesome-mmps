@@ -134,6 +134,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [A multi-modal open dataset for mental-disorder analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9018722/); [EEG, Language]
 - [Sleep-EDF](https://www.physionet.org/content/sleep-edfx/1.0.0/); [EEG, EOG, Chin EMG, Event Makers]
 - [Neurosity EEG Dataset](https://github.com/JeremyNixon/neurosity/tree/main); [EEG]
+- [ECG-QA](https://github.com/Jwoo5/ecg-qa); [ECG, Text]
 
 
 ## Laboratories
