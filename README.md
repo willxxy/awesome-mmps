@@ -115,6 +115,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [ECG-QA: A Comprehensive Question Answering Dataset Combined With Electrocardiogram](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d0b67349dd16b83b2cf6167fb4e2be50-Abstract-Datasets_and_Benchmarks.html), NeurIPS 2023; [ECG, Text]
 - [Joint Contrastive Learning with Feature Alignment for Cross-Corpus EEG-based Emotion Recognition](https://arxiv.org/abs/2404.09559), arxiv 2024; [EEG]
 - [EEGFormer: Towards Transferable and Interpretable Large-Scale EEG Foundation Model](https://arxiv.org/abs/2401.10278), arxiv 2024; [EEG]
+- [AC-CfC: An attention-based convolutional closed-form continuous-time neural network for raw multi-channel EEG-based emotion recognition](https://www.sciencedirect.com/science/article/pii/S1746809424003070), Biomedical Signal Processing and Control 2024; [EEG]
 
 
 
