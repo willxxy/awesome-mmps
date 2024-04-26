@@ -117,6 +117,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [EEGFormer: Towards Transferable and Interpretable Large-Scale EEG Foundation Model](https://arxiv.org/abs/2401.10278), arxiv 2024; [EEG]
 - [AC-CfC: An attention-based convolutional closed-form continuous-time neural network for raw multi-channel EEG-based emotion recognition](https://www.sciencedirect.com/science/article/pii/S1746809424003070), Biomedical Signal Processing and Control 2024; [EEG]
 - [TOTEM: TOkenized T ime Series EMbeddings for General Time Series Analysis](https://arxiv.org/pdf/2402.16412), arxiv 2024; [Time Series Agnostic]
+- [Evaluating Large Language Models on Time Series Feature Understanding: A Comprehensive Taxonomy and Benchmark](https://arxiv.org/pdf/2404.16563), arxiv 2024; [Time Series Agnostic]
 
 
 
