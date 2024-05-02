@@ -118,6 +118,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [AC-CfC: An attention-based convolutional closed-form continuous-time neural network for raw multi-channel EEG-based emotion recognition](https://www.sciencedirect.com/science/article/pii/S1746809424003070), Biomedical Signal Processing and Control 2024; [EEG]
 - [TOTEM: TOkenized T ime Series EMbeddings for General Time Series Analysis](https://arxiv.org/pdf/2402.16412), arxiv 2024; [Time Series Agnostic]
 - [Evaluating Large Language Models on Time Series Feature Understanding: A Comprehensive Taxonomy and Benchmark](https://arxiv.org/pdf/2404.16563), arxiv 2024; [Time Series Agnostic]
+- [A Multitask Framework for Emotion Recognition Using EEG and Eye Movement Signals with Adversarial Training and Attention Mechanism](https://ieeexplore.ieee.org/abstract/document/10385505), IEEE BIBM 2023; [EEG, Eye Movement]
 
 
 
