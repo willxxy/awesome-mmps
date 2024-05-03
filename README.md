@@ -120,6 +120,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Evaluating Large Language Models on Time Series Feature Understanding: A Comprehensive Taxonomy and Benchmark](https://arxiv.org/pdf/2404.16563), arxiv 2024; [Time Series Agnostic]
 - [A Multitask Framework for Emotion Recognition Using EEG and Eye Movement Signals with Adversarial Training and Attention Mechanism](https://ieeexplore.ieee.org/abstract/document/10385505), IEEE BIBM 2023; [EEG, Eye Movement]
 - [Brant: Foundation Model for Intracranial Neural Signal](https://proceedings.neurips.cc/paper_files/paper/2023/hash/535915d26859036410b0533804cee788-Abstract-Conference.html), NeurIPS 2023; [iEEG]
+- [BrainBERT: Self-supervised representation learning for intracranial recordings](https://arxiv.org/abs/2302.14367), ICLR 2023; [iEEG]
 
 
 
