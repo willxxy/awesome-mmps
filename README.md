@@ -123,6 +123,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [BrainBERT: Self-supervised representation learning for intracranial recordings](https://arxiv.org/abs/2302.14367), ICLR 2023; [iEEG]
 - [Are EEG-to-Text Models Working?](https://arxiv.org/abs/2405.06459), arxiv 2024; [EEG, Text]
 - [Aligning Semantic in Brain and Language: A Curriculum Contrastive Method for Electroencephalography-to-Text Generation](https://pubmed.ncbi.nlm.nih.gov/37698960/), IEEE Transactions on Neural Systems and Rehabilitation Engineering 2023, [EEG, Text]
+- [Navigating Brain Language Representations: A Comparative Analysis of Neural Language Models and Psychologically Plausible Models](https://arxiv.org/abs/2404.19364), arxiv 2024; [fMRI, Eye Movement]
 
 
 
