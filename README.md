@@ -125,6 +125,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Aligning Semantic in Brain and Language: A Curriculum Contrastive Method for Electroencephalography-to-Text Generation](https://pubmed.ncbi.nlm.nih.gov/37698960/), IEEE Transactions on Neural Systems and Rehabilitation Engineering 2023, [EEG, Text]
 - [Navigating Brain Language Representations: A Comparative Analysis of Neural Language Models and Psychologically Plausible Models](https://arxiv.org/abs/2404.19364), arxiv 2024; [fMRI, Eye Movement]
 - [MAD: Multi-Alignment MEG-to-Text Decoding](https://arxiv.org/abs/2406.01512), arxiv 2024; [MEG, Text]
+- [EEG2TEXT: Open Vocabulary EEG-to-Text Decoding with EEG Pre-Training and Multi-View Transformer](https://arxiv.org/abs/2405.02165), arxiv 2024; [EEG, Text]
 
 
 
