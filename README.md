@@ -173,6 +173,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Wu Tsai Institute @ Yale University](https://wti.yale.edu/)
 - [Shah Lab @ Stanford University](https://shahlab.stanford.edu/)
 - [Edward Yoonjae Choi's Lab @ KAIST](https://mp2893.com/index.html)
+- [Scalable Health LAbs @ Rice University](http://sh.rice.edu/)
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:
