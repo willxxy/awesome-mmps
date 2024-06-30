@@ -8,7 +8,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 ## Table of Contents
 
 - [Publications and Preprints](#publications-and-preprints)
-  - s
+  - [EEG :brain: + X](### EEG :brain: + X )
 - [Datasets](#datasets)
 
 - [Laboratories](#laboratories)
