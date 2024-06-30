@@ -8,7 +8,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 ## Table of Contents
 
 - [Publications and Preprints](#publications-and-preprints)
-  - [EEG :brain: + X]
+  - EEG :brain: + X
   - ECG :anatomical_heart: + X
   - EDA :sweat_drops: + X
   - Eye Movement :eye: + X
