@@ -17,7 +17,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 
 ## Publications-and-Preprints
 
-### EEG + X
+### EEG :brain: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
 - [Multi-view Emotion Recognition Using Deep Canonical Correlation Analysis](https://bcmi.sjtu.edu.cn/~blu/papers/2018/Qiu2018Multi-viewEmotion.pdf), ICONIP 2018; [EEG, Eye Movement]
 - [Correlated Attention Networks for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8621129), IEEE BIBM 2018; [EEG, Eye Movement]
@@ -75,7 +75,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Functional Emotion Transformer for EEG-Assisted Cross-Modal Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10446937), ICASSP 2024; [EEG, Eye Movement]
 
 
-### ECG + X
+### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
 - [Transfer Knowledge from Natural Language to Electrocardiography: Can We Detect Cardiovascular Disease Through Language Models?](https://arxiv.org/pdf/2301.09017.pdf), EACL Findings 2023; [ECG, Language]
 - [Converting ECG Signals to Images for Efficient Image-text Retrieval via Encoding](https://arxiv.org/pdf/2304.06286), Machine Learning for Health 2023; [ECG, Image, Language]
@@ -117,7 +117,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Integrating multimodal information in machine learning for classifying acute myocardial infarction](https://pubmed.ncbi.nlm.nih.gov/36963114/), Physiological Measurement 2023; [ECG, Text]
 
 
-### EDA + X
+### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
 - [Stress Detection with Deep Learning Approaches Using Physiological Signals](https://link.springer.com/chapter/10.1007/978-3-030-69963-5_7), IoT Technologies for Healthcare 2020; [EDA, BVP]
 - [Multimodal Physiological Signals and Machine Learning for Stress Detection by Wearable Devices](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9856558), IEEE MEMEA 2022; [EDA, ECG, PPG]
@@ -136,7 +136,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [An Exploratory Study of Multimodal Physiological Data in Jazz Improvisation Using Basic Machine Learning Techniques](https://arxiv.org/ftp/arxiv/papers/2401/2401.12266.pdf), arxiv 2024; [EDA, EEG]
 
 
-### Eye Movement + X
+### Eye Movement :eye: + X 
 - [Investigating Sex Differences in Classification of Five Emotions from EEG and Eye Movement Signals](https://drive.google.com/file/d/1pCln0DI3fiIPHHiRiCRcXJWb4LCWskXm/view), IEEE EMBC 2019; [EEG, Eye Movement]
 - [Decoding EEG Brain Activity for Multi-Modal Natural Language Processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.659410/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Human_Neuroscience&id=659410), Frontiers in Human Neuroscience 2021; [EEG, Eye Movement, Language]
 - [Multi-view Emotion Recognition Using Deep Canonical Correlation Analysis](https://bcmi.sjtu.edu.cn/~blu/papers/2018/Qiu2018Multi-viewEmotion.pdf), ICONIP 2018; [EEG, Eye Movement]
@@ -154,7 +154,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Functional Emotion Transformer for EEG-Assisted Cross-Modal Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10446937), ICASSP 2024; [EEG, Eye Movement]
 
 
-### EOG + X
+### EOG :eye: + X 
 - [Machine-Learning-Based Detection of Craving for Gaming Using Multimodal Physiological Signals: Validation of Test-Retest Reliability for Practical Use](https://www.mdpi.com/1424-8220/19/16/3475), Sensors 2019; [PPG, GSR, EOG]
 - [A Multimodal Approach to Estimating Vigilance Using EEG and Forehead EOG](https://iopscience.iop.org/article/10.1088/1741-2552/aa5a98/pdf), Journal of Neural Engineering 2017; [EEG, EOG]
 - [A Deep Learning Architecture for Temporal Sleep Stage Classification Using Multivariate and Multimodal Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8307462), IEEE Transactions on Neural Systems and Rehabilitation Engineering 2018; [EEG, EOG, EMG]
@@ -165,7 +165,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Comparative analysis of physiological signals and electroencephalogram (EEG) for multimodal emotion recognition using generative models](https://ieeexplore.ieee.org/abstract/document/7010181), IEEE STSIVA 2014; [EEG, EOG, EMG, GSR, HR]
 
 
-### EMG + X
+### EMG :muscle: + X
 - [A Deep Learning Architecture for Temporal Sleep Stage Classification Using Multivariate and Multimodal Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8307462), IEEE Transactions on Neural Systems and Rehabilitation Engineering 2018; [EEG, EOG, EMG]
 - [Automatic stress detection in car drivers based on non-invasive physiological signals using machine learning techniques](https://link.springer.com/article/10.1007/s00521-023-08428-w), Neural Computing and Applications 2023; [ECG, EMG, GSR, Respiration Rate]
 - [Multi-Signal Reconstruction Using Masked Autoencoder From EEG During Polysomnography](https://arxiv.org/abs/2311.07868), IEEE BCI 2023; [EEG, EOG, Chin EMG, Event Makers]
@@ -173,7 +173,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Comparative analysis of physiological signals and electroencephalogram (EEG) for multimodal emotion recognition using generative models](https://ieeexplore.ieee.org/abstract/document/7010181), IEEE STSIVA 2014; [EEG, EOG, EMG, GSR, HR]
 
 
-### Other
+### Other :placard: + X
 - [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), ICML Workshop on Machine Learning for Multimodal Healthcare Data 2023; [CMR, Language]
 - [Biometric Recognition Using Multimodal Physiological Signals](https://ieeexplore.ieee.org/document/8740847), IEEE 2019; [Heart Rate, Breathing Rate, Palm Electrodermal Activity, Perinasal Perspitation]
 - [Video-based multimodal spontaneous emotion recognition using facial expressions and physiological signals](https://openaccess.thecvf.com/content/CVPR2022W/ABAW/papers/Ouzar_Video-Based_Multimodal_Spontaneous_Emotion_Recognition_Using_Facial_Expressions_and_Physiological_CVPRW_2022_paper.pdf), CVPR Workshop 2022; [Image, iPPG, Heart Rate]
