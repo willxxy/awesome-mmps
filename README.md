@@ -128,6 +128,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [EEG2TEXT: Open Vocabulary EEG-to-Text Decoding with EEG Pre-Training and Multi-View Transformer](https://arxiv.org/abs/2405.02165), arxiv 2024; [EEG, Text]
 - [BTS: Bridging Text and Sound Modalities for Metadata-Aided Respiratory Sound Classification](https://arxiv.org/abs/2406.06786), InterSpeech 2024; [Respiratory Sound, Text]
 - [ECG Semantic Integrator (ESI): A Foundation ECG Model Pretrained with LLM-Enhanced Cardiological Text](https://arxiv.org/abs/2405.19366), arxiv 2024; [ECG, Text]
+- [MEIT: Multi-Modal Electrocardiogram Instruction Tuning on Large Language Models for Report Generation](https://arxiv.org/pdf/2403.04945), arxiv 2024; [ECG, Text]
 
 
 
