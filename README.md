@@ -121,7 +121,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Text-to-ECG: 12-Lead Electrocardiogram Synthesis conditioned on Clinical Text Reports](https://arxiv.org/pdf/2303.09395.pdf), ICASSP 2023; [ECG, Language]
 - [Large Language Models for Time Series: A Survey](https://arxiv.org/pdf/2402.01801.pdf), arxiv 2024; [EEG, ECG, Text, Vision]
 - [Integrating multimodal information in machine learning for classifying acute myocardial infarction](https://pubmed.ncbi.nlm.nih.gov/36963114/), Physiological Measurement 2023; [ECG, Text]
-
+- [Multimodal explainable artificial intelligence identifies patients with non-ischaemic cardiomyopathy at risk of lethal ventricular arrhythmias](https://pubmed.ncbi.nlm.nih.gov/38937555/), Scientific reports 2024; [MRI, ECG]
 
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
