@@ -79,7 +79,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [An Exploratory Study of Multimodal Physiological Data in Jazz Improvisation Using Basic Machine Learning Techniques](https://arxiv.org/ftp/arxiv/papers/2401/2401.12266.pdf), arxiv 2024; [EDA, EEG]
 - [Multimodal Multi-View Spectral-Spatial-Temporal Masked Autoencoder for Self-Supervised Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447194), ICASSP 2024; [EEG, Eye Movement]
 - [Functional Emotion Transformer for EEG-Assisted Cross-Modal Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10446937), ICASSP 2024; [EEG, Eye Movement]
-
+- [EEG-Transformer: Self-attention from transformer architecture for decoding EEG of imagined speech](https://ieeexplore.ieee.org/abstract/document/9735124), IEEE BCI 2022; [EEG, Speech]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -244,6 +244,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Shah Lab @ Stanford University](https://shahlab.stanford.edu/)
 - [Edward Yoonjae Choi's Lab @ KAIST](https://mp2893.com/index.html)
 - [Scalable Health LAbs @ Rice University](http://sh.rice.edu/)
+- [Pattern Recognition & Machine Learning Lab @ Korea University](http://pr.korea.ac.kr/)
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:
