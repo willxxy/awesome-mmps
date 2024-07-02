@@ -200,6 +200,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Multimodal Risk Prediction with Physiological Signals, Medical Images and Clinical Notes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10246140/), medRxiv 2023; [Vision, Language, EHR]
 - [Do Self-Supervised Speech and Language Models Extract Similar Representations as Human Brain?](https://ieeexplore.ieee.org/abstract/document/10446334), ICASSP 2024; [ECoG, Speech, Text]
 - [Emotion Recognition From Multimodal Physiological Signals via Discriminative Correlation Fusion With a Temporal Alignment Mechanism](https://pubmed.ncbi.nlm.nih.gov/37862275/), IEEE Transactions on Cybernetics 2023; [CNS, ANS]
+- [Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data](https://arxiv.org/abs/2401.06866), CHIL 2024; [Time Series Agnostic]
 
 
 ## Datasets
