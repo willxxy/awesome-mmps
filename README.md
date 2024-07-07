@@ -224,6 +224,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [ECG-QA](https://github.com/Jwoo5/ecg-qa); [ECG, Text]
 - [A Large and Rich EEG Dataset for Modeling Human Visual Object Recognition](https://www.sciencedirect.com/science/article/pii/S1053811922008758); [EEG, Image]
 - [MIMIC-IV-ECG: Diagnostic Electrocardiogram Matched Subset](https://physionet.org/content/mimic-iv-ecg/1.0/); [ECG, EHR, Text]
+- [EEG dataset and OpenBMI toolbox for three BCI paradigms: an investigation into BCI illiteracy](https://academic.oup.com/gigascience/article/8/5/giz002/5304369?login=true); [EEG, EMG]
 
 
 ## Laboratories
