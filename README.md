@@ -82,6 +82,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [EEG-Transformer: Self-attention from transformer architecture for decoding EEG of imagined speech](https://ieeexplore.ieee.org/abstract/document/9735124), IEEE BCI 2022; [EEG, Speech]
 - [Towards Voice Reconstruction from EEG during Imagined Speech](https://ojs.aaai.org/index.php/AAAI/article/view/25745), AAAI 2023; [EEG, Speech]
 - [Toward Fully-End-to-End Listened Speech Decoding from EEG Signals](https://arxiv.org/abs/2406.08644), InterSpeech 2024; [EEG, Speech]
+- [Enhancing Affective Representations Of Music-Induced Eeg Through Multimodal Supervision And Latent Domain Adaptation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9746643), ICASSP 2022; [EEG, Audio]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -252,6 +253,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Edward Yoonjae Choi's Lab @ KAIST](https://mp2893.com/index.html)
 - [Scalable Health LAbs @ Rice University](http://sh.rice.edu/)
 - [Pattern Recognition & Machine Learning Lab @ Korea University](http://pr.korea.ac.kr/)
+- [Signal Analysis and Interpretation Lab @ USC](https://sail.usc.edu/)
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:
