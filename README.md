@@ -124,6 +124,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Large Language Models for Time Series: A Survey](https://arxiv.org/pdf/2402.01801.pdf), arxiv 2024; [EEG, ECG, Text, Vision]
 - [Integrating multimodal information in machine learning for classifying acute myocardial infarction](https://pubmed.ncbi.nlm.nih.gov/36963114/), Physiological Measurement 2023; [ECG, Text]
 - [Multimodal explainable artificial intelligence identifies patients with non-ischaemic cardiomyopathy at risk of lethal ventricular arrhythmias](https://pubmed.ncbi.nlm.nih.gov/38937555/), Scientific reports 2024; [MRI, ECG]
+- [Multimodal Estimation Of Change Points Of Physiological Arousal During Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10193718), ICASSP 2023; [ECG, EDA, EMG, HR, BVP]
 
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
@@ -142,7 +143,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Effects of Physiological Signals in Different Types of Multimodal Sentiment Estimation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9726810&tag=1), IEEE AC 2023; [Language, EDA, Audio, Vision]
 - [Negative emotion recognition using multimodal physiological signals for advanced driver assistance systems](https://link.springer.com/article/10.1007/s10015-023-00858-y), Artificial Life and Robotics 2023; [ECG, EDA, EEG, and fNIRS]
 - [An Exploratory Study of Multimodal Physiological Data in Jazz Improvisation Using Basic Machine Learning Techniques](https://arxiv.org/ftp/arxiv/papers/2401/2401.12266.pdf), arxiv 2024; [EDA, EEG]
-
+- [Multimodal Estimation Of Change Points Of Physiological Arousal During Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10193718), ICASSP 2023; [ECG, EDA, EMG, HR, BVP]
 
 ### Eye Movement :eye: + X 
 - [Investigating Sex Differences in Classification of Five Emotions from EEG and Eye Movement Signals](https://drive.google.com/file/d/1pCln0DI3fiIPHHiRiCRcXJWb4LCWskXm/view), IEEE EMBC 2019; [EEG, Eye Movement]
@@ -179,6 +180,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Multi-Signal Reconstruction Using Masked Autoencoder From EEG During Polysomnography](https://arxiv.org/abs/2311.07868), IEEE BCI 2023; [EEG, EOG, Chin EMG, Event Makers]
 - [Multimodal Physiological Signal Emotion Recognition Based on Convolutional Recurrent Neural Network](https://iopscience.iop.org/article/10.1088/1757-899X/782/3/032005), IOP 2020; [EOG, EMG, GSR, RSP, BVP, TMP, EEG]
 - [Comparative analysis of physiological signals and electroencephalogram (EEG) for multimodal emotion recognition using generative models](https://ieeexplore.ieee.org/abstract/document/7010181), IEEE STSIVA 2014; [EEG, EOG, EMG, GSR, HR]
+- [Multimodal Estimation Of Change Points Of Physiological Arousal During Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10193718), ICASSP 2023; [ECG, EDA, EMG, HR, BVP]
 
 
 ### Other :placard: + X
