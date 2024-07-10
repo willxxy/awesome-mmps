@@ -19,6 +19,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 
 - [Laboratories](#laboratories)
 
+- [Citation](#citation)
 
 
 ## Publications-and-Preprints
