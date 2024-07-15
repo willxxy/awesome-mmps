@@ -84,6 +84,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Towards Voice Reconstruction from EEG during Imagined Speech](https://ojs.aaai.org/index.php/AAAI/article/view/25745), AAAI 2023; [EEG, Speech]
 - [Toward Fully-End-to-End Listened Speech Decoding from EEG Signals](https://arxiv.org/abs/2406.08644), InterSpeech 2024; [EEG, Speech]
 - [Enhancing Affective Representations Of Music-Induced Eeg Through Multimodal Supervision And Latent Domain Adaptation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9746643), ICASSP 2022; [EEG, Audio]
+- [Scaling Law in Neural Data: Non-Invasive Speech Decoding with 175 Hours of EEG Data](https://arxiv.org/abs/2407.07595), arxiv 2024; [EEG, Speech]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
