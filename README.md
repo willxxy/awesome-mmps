@@ -231,6 +231,9 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [A Large and Rich EEG Dataset for Modeling Human Visual Object Recognition](https://www.sciencedirect.com/science/article/pii/S1053811922008758); [EEG, Image]
 - [MIMIC-IV-ECG: Diagnostic Electrocardiogram Matched Subset](https://physionet.org/content/mimic-iv-ecg/1.0/); [ECG, EHR, Text]
 - [EEG dataset and OpenBMI toolbox for three BCI paradigms: an investigation into BCI illiteracy](https://academic.oup.com/gigascience/article/8/5/giz002/5304369?login=true); [EEG, EMG]
+- [EIT-1M: One Million EEG-Image-Text Pairs for Human Visual-textual Recognition and More](https://arxiv.org/abs/2407.01884); [EEG, Image, Text]
+- [Alljoined1 - A dataset for EEG-to-Image decoding](https://arxiv.org/pdf/2404.05553); [EEG, Image]
+- [MindBigData](https://mindbigdata.com/opendb/visualmnist.html); [EEG, Image]
 
 
 ## Laboratories
