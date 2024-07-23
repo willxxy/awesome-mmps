@@ -234,6 +234,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [EIT-1M: One Million EEG-Image-Text Pairs for Human Visual-textual Recognition and More](https://arxiv.org/abs/2407.01884); [EEG, Image, Text]
 - [Alljoined1 - A dataset for EEG-to-Image decoding](https://arxiv.org/pdf/2404.05553); [EEG, Image]
 - [MindBigData](https://mindbigdata.com/opendb/visualmnist.html); [EEG, Image]
+- [Human EEG recordings for 1,854 concepts presented in rapid serial visual presentation streams](https://pubmed.ncbi.nlm.nih.gov/35013331/); [EEG, Image]
 
 
 ## Laboratories
