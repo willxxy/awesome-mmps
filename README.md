@@ -85,6 +85,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Toward Fully-End-to-End Listened Speech Decoding from EEG Signals](https://arxiv.org/abs/2406.08644), InterSpeech 2024; [EEG, Speech]
 - [Enhancing Affective Representations Of Music-Induced Eeg Through Multimodal Supervision And Latent Domain Adaptation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9746643), ICASSP 2022; [EEG, Audio]
 - [Scaling Law in Neural Data: Non-Invasive Speech Decoding with 175 Hours of EEG Data](https://arxiv.org/abs/2407.07595), arxiv 2024; [EEG, Speech]
+- [Hypercomplex Multimodal Emotion Recognition from EEG and Peripheral Physiological Signals](https://arxiv.org/abs/2310.07648), IEEE ICASSP Workshops 2023; [EEG, ECG, GSR]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -128,6 +129,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Integrating multimodal information in machine learning for classifying acute myocardial infarction](https://pubmed.ncbi.nlm.nih.gov/36963114/), Physiological Measurement 2023; [ECG, Text]
 - [Multimodal explainable artificial intelligence identifies patients with non-ischaemic cardiomyopathy at risk of lethal ventricular arrhythmias](https://pubmed.ncbi.nlm.nih.gov/38937555/), Scientific reports 2024; [MRI, ECG]
 - [Multimodal Estimation Of Change Points Of Physiological Arousal During Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10193718), ICASSP 2023; [ECG, EDA, EMG, HR, BVP]
+- [Hypercomplex Multimodal Emotion Recognition from EEG and Peripheral Physiological Signals](https://arxiv.org/abs/2310.07648), IEEE ICASSP Workshops 2023; [EEG, ECG, GSR]
 
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
