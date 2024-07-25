@@ -86,6 +86,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Enhancing Affective Representations Of Music-Induced Eeg Through Multimodal Supervision And Latent Domain Adaptation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9746643), ICASSP 2022; [EEG, Audio]
 - [Scaling Law in Neural Data: Non-Invasive Speech Decoding with 175 Hours of EEG Data](https://arxiv.org/abs/2407.07595), arxiv 2024; [EEG, Speech]
 - [Hypercomplex Multimodal Emotion Recognition from EEG and Peripheral Physiological Signals](https://arxiv.org/abs/2310.07648), IEEE ICASSP Workshops 2023; [EEG, ECG, GSR]
+- [EEG-Based Multimodal Emotion Recognition: A Machine Learning Perspective](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10443946), IEEE Transactions on Instrumentation and Measurement 2024; [EEG, ECG, EMG]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
