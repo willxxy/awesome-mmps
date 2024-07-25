@@ -131,6 +131,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Multimodal explainable artificial intelligence identifies patients with non-ischaemic cardiomyopathy at risk of lethal ventricular arrhythmias](https://pubmed.ncbi.nlm.nih.gov/38937555/), Scientific reports 2024; [MRI, ECG]
 - [Multimodal Estimation Of Change Points Of Physiological Arousal During Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10193718), ICASSP 2023; [ECG, EDA, EMG, HR, BVP]
 - [Hypercomplex Multimodal Emotion Recognition from EEG and Peripheral Physiological Signals](https://arxiv.org/abs/2310.07648), IEEE ICASSP Workshops 2023; [EEG, ECG, GSR]
+- [Deep learning for ECG classification: A comparative study of 1D and 2D representations and multimodal fusion approaches](https://www.sciencedirect.com/science/article/pii/S174680942400199X), Biomedical Signal Processing and Control 2024; [ECG, Image]
 
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
