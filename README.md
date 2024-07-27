@@ -267,6 +267,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Scalable Health LAbs @ Rice University](http://sh.rice.edu/)
 - [Pattern Recognition & Machine Learning Lab @ Korea University](http://pr.korea.ac.kr/)
 - [Signal Analysis and Interpretation Lab @ USC](https://sail.usc.edu/)
+- [DataLearning Group @ Imperial College London](https://www.imperial.ac.uk/data-science/research/research-themes/datalearning/)
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:
