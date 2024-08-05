@@ -242,6 +242,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Alljoined1 - A dataset for EEG-to-Image decoding](https://arxiv.org/pdf/2404.05553); [EEG, Image]
 - [MindBigData](https://mindbigdata.com/opendb/visualmnist.html); [EEG, Image]
 - [Human EEG recordings for 1,854 concepts presented in rapid serial visual presentation streams](https://pubmed.ncbi.nlm.nih.gov/35013331/); [EEG, Image]
+- [EEG-ImageNet: An Electroencephalogram Dataset and Benchmarks with Image Visual Stimuli of Multi-Granularity Labels](https://arxiv.org/pdf/2406.07151v1); [EEG, Image]
 
 
 ## Laboratories
