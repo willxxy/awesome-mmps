@@ -136,6 +136,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Zero-Shot ECG Classification with Multimodal Learning and Test-time Clinical Knowledge Enhancement](https://arxiv.org/pdf/2403.06659), ICML 2024; [ECG ,Text]
 - [SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals](https://raw.githubusercontent.com/mlresearch/v235/main/assets/thapa24a/thapa24a.pdf), ICML 2024; [ECG, EEG, EOG, EMG, Respiratory Sensors]
 - [ECG Heartbeat Classification Using Multimodal Fusion](https://ieeexplore.ieee.org/abstract/document/9486862), IEEE Access 2021; [ECG, Image]
+- [Multimodal ChatGPT-4V for Electrocardiogram Interpretation: Promise and Limitations](https://www.jmir.org/2024/1/e54607/), JMIR 2024; [ECG, Image]
 
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
