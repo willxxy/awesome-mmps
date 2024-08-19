@@ -218,6 +218,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Emotion Recognition From Multimodal Physiological Signals via Discriminative Correlation Fusion With a Temporal Alignment Mechanism](https://pubmed.ncbi.nlm.nih.gov/37862275/), IEEE Transactions on Cybernetics 2023; [CNS, ANS]
 - [Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data](https://arxiv.org/abs/2401.06866), CHIL 2024; [Time Series Agnostic]
 - [BIOT: Biosignal Transformer for Cross-data Learning in the Wild](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f6b30f3e2dd9cb53bbf2024402d02295-Abstract-Conference.html), Neurips 2023; [Time Series Agnostic]
+- [PhysioMTL: Personalizing Physiological Patterns using Optimal Transport Multi-Task Regression](https://proceedings.mlr.press/v174/zhu22a.html), CHIL 2022; [Time Series Agnostic]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
