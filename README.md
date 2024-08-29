@@ -141,6 +141,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Large-scale Training of Foundation Models for Wearable Biosignals](https://arxiv.org/pdf/2312.05409), ICLR 2024; [PPG, ECG]
 - [ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis](https://arxiv.org/pdf/2408.08849), arxiv 2024; [ECG, Text]
 - [CardioGPT: An ECG Interpretation Generation Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10488393), IEEE Access 2024; [ECG, Text]
+- [Harnessing the Power of ChatGPT in Cardiovascular Medicine: Innovations, Challenges, and Future Directions](https://www.preprints.org/manuscript/202408.2015/v1), preprint 2024; [ECG, Text]
 
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
