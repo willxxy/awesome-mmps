@@ -88,6 +88,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Hypercomplex Multimodal Emotion Recognition from EEG and Peripheral Physiological Signals](https://arxiv.org/abs/2310.07648), IEEE ICASSP Workshops 2023; [EEG, ECG, GSR]
 - [EEG-Based Multimodal Emotion Recognition: A Machine Learning Perspective](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10443946), IEEE Transactions on Instrumentation and Measurement 2024; [EEG, ECG, EMG]
 - [SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals](https://raw.githubusercontent.com/mlresearch/v235/main/assets/thapa24a/thapa24a.pdf), ICML 2024; [ECG, EEG, EOG, EMG, Respiratory Sensors]
+- [A generative foundation model for five-class sleep staging with arbitrary sensor input](https://www.arxiv.org/abs/2408.15253), arxiv 2024; [EEG, EOG, EMG]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -190,6 +191,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Multimodal Physiological Signal Emotion Recognition Based on Convolutional Recurrent Neural Network](https://iopscience.iop.org/article/10.1088/1757-899X/782/3/032005), IOP 2020; [EOG, EMG, GSR, RSP, BVP, TMP, EEG]
 - [Comparative analysis of physiological signals and electroencephalogram (EEG) for multimodal emotion recognition using generative models](https://ieeexplore.ieee.org/abstract/document/7010181), IEEE STSIVA 2014; [EEG, EOG, EMG, GSR, HR]
 - [SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals](https://raw.githubusercontent.com/mlresearch/v235/main/assets/thapa24a/thapa24a.pdf), ICML 2024; [ECG, EEG, EOG, EMG, Respiratory Sensors]
+- [A generative foundation model for five-class sleep staging with arbitrary sensor input](https://www.arxiv.org/abs/2408.15253), arxiv 2024; [EEG, EOG, EMG]
 
 ### EMG :muscle: + X
 - [A Deep Learning Architecture for Temporal Sleep Stage Classification Using Multivariate and Multimodal Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8307462), IEEE Transactions on Neural Systems and Rehabilitation Engineering 2018; [EEG, EOG, EMG]
@@ -199,6 +201,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Comparative analysis of physiological signals and electroencephalogram (EEG) for multimodal emotion recognition using generative models](https://ieeexplore.ieee.org/abstract/document/7010181), IEEE STSIVA 2014; [EEG, EOG, EMG, GSR, HR]
 - [Multimodal Estimation Of Change Points Of Physiological Arousal During Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10193718), ICASSP 2023; [ECG, EDA, EMG, HR, BVP]
 - [SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals](https://raw.githubusercontent.com/mlresearch/v235/main/assets/thapa24a/thapa24a.pdf), ICML 2024; [ECG, EEG, EOG, EMG, Respiratory Sensors]
+- [A generative foundation model for five-class sleep staging with arbitrary sensor input](https://www.arxiv.org/abs/2408.15253), arxiv 2024; [EEG, EOG, EMG]
 
 ### Other :placard: + X
 - [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), ICML Workshop on Machine Learning for Multimodal Healthcare Data 2023; [CMR, Language]
