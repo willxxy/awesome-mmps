@@ -143,6 +143,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis](https://arxiv.org/pdf/2408.08849), arxiv 2024; [ECG, Text]
 - [CardioGPT: An ECG Interpretation Generation Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10488393), IEEE Access 2024; [ECG, Text]
 - [Harnessing the Power of ChatGPT in Cardiovascular Medicine: Innovations, Challenges, and Future Directions](https://www.preprints.org/manuscript/202408.2015/v1), preprint 2024; [ECG, Text]
+- [The potential for large language models to transform cardiovascular medicine](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00151-1/fulltext), The Lancet Digital Health 2024; [ECG, Text]
 
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
