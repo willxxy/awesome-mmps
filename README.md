@@ -284,6 +284,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Tison Lab @ UCSF](https://tison.ucsf.edu/people-0)
 - [Rajpurkar Lab @ Harvard University](https://www.rajpurkarlab.hms.harvard.edu/)
 - [Wang Lab @ University of Toronto](https://wanglab.ai/)
+- [MAILAB @ Korea University](http://mailab.korea.ac.kr/index.html)
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:
