@@ -281,6 +281,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Pattern Recognition & Machine Learning Lab @ Korea University](http://pr.korea.ac.kr/)
 - [Signal Analysis and Interpretation Lab @ USC](https://sail.usc.edu/)
 - [DataLearning Group @ Imperial College London](https://www.imperial.ac.uk/data-science/research/research-themes/datalearning/)
+- [Tison Lab @ UCSF](https://tison.ucsf.edu/people-0)
+- [Rajpurkar Lab @ Harvard University](https://www.rajpurkarlab.hms.harvard.edu/)
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:
