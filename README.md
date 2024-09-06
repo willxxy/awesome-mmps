@@ -89,6 +89,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [EEG-Based Multimodal Emotion Recognition: A Machine Learning Perspective](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10443946), IEEE Transactions on Instrumentation and Measurement 2024; [EEG, ECG, EMG]
 - [SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals](https://raw.githubusercontent.com/mlresearch/v235/main/assets/thapa24a/thapa24a.pdf), ICML 2024; [ECG, EEG, EOG, EMG, Respiratory Sensors]
 - [A generative foundation model for five-class sleep staging with arbitrary sensor input](https://www.arxiv.org/abs/2408.15253), arxiv 2024; [EEG, EOG, EMG]
+- [NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals](https://arxiv.org/abs/2409.00101), arxiv 2024; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
