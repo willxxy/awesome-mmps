@@ -204,6 +204,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Multimodal Estimation Of Change Points Of Physiological Arousal During Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10193718), ICASSP 2023; [ECG, EDA, EMG, HR, BVP]
 - [SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals](https://raw.githubusercontent.com/mlresearch/v235/main/assets/thapa24a/thapa24a.pdf), ICML 2024; [ECG, EEG, EOG, EMG, Respiratory Sensors]
 - [A generative foundation model for five-class sleep staging with arbitrary sensor input](https://www.arxiv.org/abs/2408.15253), arxiv 2024; [EEG, EOG, EMG]
+- [Embracing Large Language and Multimodal Models for Prosthetic Technologies](https://arxiv.org/pdf/2403.04974), arxiv 2024; [EMG, Image, Video, Text, Audio]
 
 ### Other :placard: + X
 - [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), ICML Workshop on Machine Learning for Multimodal Healthcare Data 2023; [CMR, Language]
