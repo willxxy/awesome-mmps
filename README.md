@@ -287,6 +287,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Rajpurkar Lab @ Harvard University](https://www.rajpurkarlab.hms.harvard.edu/)
 - [Wang Lab @ University of Toronto](https://wanglab.ai/)
 - [MAILAB @ Korea University](http://mailab.korea.ac.kr/index.html)
+- [Health AI @ Google](https://ai.google/discover/healthai/)
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:
