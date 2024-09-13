@@ -259,6 +259,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [MindBigData](https://mindbigdata.com/opendb/visualmnist.html); [EEG, Image]
 - [Human EEG recordings for 1,854 concepts presented in rapid serial visual presentation streams](https://pubmed.ncbi.nlm.nih.gov/35013331/); [EEG, Image]
 - [EEG-ImageNet: An Electroencephalogram Dataset and Benchmarks with Image Visual Stimuli of Multi-Granularity Labels](https://arxiv.org/pdf/2406.07151v1); [EEG, Image]
+- [The Dutch EEG Speech Register Corpus](https://mirjamernestus.nl/Ernestus/DESRC/Bentum_tenBosch_vandenBosch_Ernestus_DESRC.pdf); [EEG, Audio]
 
 
 ## Laboratories
