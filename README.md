@@ -291,6 +291,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [MAILAB @ Korea University](http://mailab.korea.ac.kr/index.html)
 - [Health AI @ Google](https://ai.google/discover/healthai/)
 - [Health AI @ Apple](https://machinelearning.apple.com/research?domain=Health)
+- [NIAI Lab @ Hanyang University](http://yoonlab.hanyang.ac.kr/people/)
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:
