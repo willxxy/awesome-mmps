@@ -91,6 +91,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [A generative foundation model for five-class sleep staging with arbitrary sensor input](https://www.arxiv.org/abs/2408.15253), arxiv 2024; [EEG, EOG, EMG]
 - [NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals](https://arxiv.org/abs/2409.00101), arxiv 2024; [EEG, Text]
 - [Explainable Artificial Intelligence on Biosignals for Clinical Decision Support](https://dl.acm.org/doi/pdf/10.1145/3637528.3671459), KDD 2024; [EEG, ECG]
+- [Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective](https://arxiv.org/pdf/2409.07388), arxiv 2024; [EEG, ECG, Audio, Text, Image]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -147,6 +148,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Harnessing the Power of ChatGPT in Cardiovascular Medicine: Innovations, Challenges, and Future Directions](https://www.preprints.org/manuscript/202408.2015/v1), preprint 2024; [ECG, Text]
 - [The potential for large language models to transform cardiovascular medicine](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00151-1/fulltext), The Lancet Digital Health 2024; [ECG, Text]
 - [Explainable Artificial Intelligence on Biosignals for Clinical Decision Support](https://dl.acm.org/doi/pdf/10.1145/3637528.3671459), KDD 2024; [EEG, ECG]
+- [Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective](https://arxiv.org/pdf/2409.07388), arxiv 2024; [EEG, ECG, Audio, Text, Image]
 
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
