@@ -92,6 +92,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals](https://arxiv.org/abs/2409.00101), arxiv 2024; [EEG, Text]
 - [Explainable Artificial Intelligence on Biosignals for Clinical Decision Support](https://dl.acm.org/doi/pdf/10.1145/3637528.3671459), KDD 2024; [EEG, ECG]
 - [Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective](https://arxiv.org/pdf/2409.07388), arxiv 2024; [EEG, ECG, Audio, Text, Image]
+- [EEG-Language Modeling for Pathology Detection](https://arxiv.org/pdf/2409.07480), arxiv 2024; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
