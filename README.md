@@ -150,6 +150,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [The potential for large language models to transform cardiovascular medicine](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(24)00151-1/fulltext), The Lancet Digital Health 2024; [ECG, Text]
 - [Explainable Artificial Intelligence on Biosignals for Clinical Decision Support](https://dl.acm.org/doi/pdf/10.1145/3637528.3671459), KDD 2024; [EEG, ECG]
 - [Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective](https://arxiv.org/pdf/2409.07388), arxiv 2024; [EEG, ECG, Audio, Text, Image]
+- [Electrocardiogram Report Generation and Question Answering via Retrieval-Augmented Self-Supervised Modeling](https://arxiv.org/pdf/2409.08788), arxiv 2024; [Text, ECG]
 
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
@@ -234,6 +235,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data](https://arxiv.org/abs/2401.06866), CHIL 2024; [Time Series Agnostic]
 - [BIOT: Biosignal Transformer for Cross-data Learning in the Wild](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f6b30f3e2dd9cb53bbf2024402d02295-Abstract-Conference.html), Neurips 2023; [Time Series Agnostic]
 - [PhysioMTL: Personalizing Physiological Patterns using Optimal Transport Multi-Task Regression](https://proceedings.mlr.press/v174/zhu22a.html), CHIL 2022; [Time Series Agnostic]
+- [Transformers in biosignal analysis: A review](https://www.sciencedirect.com/science/article/pii/S1566253524004755), Elsevier Information Fusion 2024; [Time Series Agnostic]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
