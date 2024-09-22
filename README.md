@@ -93,6 +93,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Explainable Artificial Intelligence on Biosignals for Clinical Decision Support](https://dl.acm.org/doi/pdf/10.1145/3637528.3671459), KDD 2024; [EEG, ECG]
 - [Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective](https://arxiv.org/pdf/2409.07388), arxiv 2024; [EEG, ECG, Audio, Text, Image]
 - [EEG-Language Modeling for Pathology Detection](https://arxiv.org/pdf/2409.07480), arxiv 2024; [EEG, Text]
+- [An ASR-based Hybrid Approach for Auditory Attention Decoding](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9173483&fileOId=9173484), Lund University Publications 2024; [EEG, Audio]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -265,6 +266,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Human EEG recordings for 1,854 concepts presented in rapid serial visual presentation streams](https://pubmed.ncbi.nlm.nih.gov/35013331/); [EEG, Image]
 - [EEG-ImageNet: An Electroencephalogram Dataset and Benchmarks with Image Visual Stimuli of Multi-Granularity Labels](https://arxiv.org/pdf/2406.07151v1); [EEG, Image]
 - [The Dutch EEG Speech Register Corpus](https://mirjamernestus.nl/Ernestus/DESRC/Bentum_tenBosch_vandenBosch_Ernestus_DESRC.pdf); [EEG, Audio]
+- [EAV: EEG-Audio-Video Dataset for Emotion Recognition in Conversational Contexts](https://www.nature.com/articles/s41597-024-03838-4); [EEG, Audio, Video]
 
 
 ## Laboratories
