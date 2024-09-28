@@ -239,6 +239,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [BIOT: Biosignal Transformer for Cross-data Learning in the Wild](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f6b30f3e2dd9cb53bbf2024402d02295-Abstract-Conference.html), Neurips 2023; [Time Series Agnostic]
 - [PhysioMTL: Personalizing Physiological Patterns using Optimal Transport Multi-Task Regression](https://proceedings.mlr.press/v174/zhu22a.html), CHIL 2022; [Time Series Agnostic]
 - [Transformers in biosignal analysis: A review](https://www.sciencedirect.com/science/article/pii/S1566253524004755), Elsevier Information Fusion 2024; [Time Series Agnostic]
+- [Towards a Personal Health Large Language Model](https://arxiv.org/pdf/2406.06474), arxiv 2024; [Time Series Agnostic]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
