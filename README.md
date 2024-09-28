@@ -153,6 +153,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Explainable Artificial Intelligence on Biosignals for Clinical Decision Support](https://dl.acm.org/doi/pdf/10.1145/3637528.3671459), KDD 2024; [EEG, ECG]
 - [Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective](https://arxiv.org/pdf/2409.07388), arxiv 2024; [EEG, ECG, Audio, Text, Image]
 - [Electrocardiogram Report Generation and Question Answering via Retrieval-Augmented Self-Supervised Modeling](https://arxiv.org/pdf/2409.08788), arxiv 2024; [Text, ECG]
+- [Foundation Models for Cardiovascular Disease Detection via BioSignals from Digital Stethoscopes](https://assets-eu.researchsquare.com/files/rs-4732737/v1_covered_5d102066-509a-4c79-a602-32570aadb619.pdf?c=1722816670), Research Square 2024; [PCG, ECG]
 
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
