@@ -95,6 +95,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [EEG-Language Modeling for Pathology Detection](https://arxiv.org/pdf/2409.07480), arxiv 2024; [EEG, Text]
 - [An ASR-based Hybrid Approach for Auditory Attention Decoding](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9173483&fileOId=9173484), Lund University Publications 2024; [EEG, Audio]
 - [SEE: Semantically Aligned EEG-to-Text Translation](https://arxiv.org/pdf/2409.16312), arxiv 2024; [EEG, Text]
+- [Neural Speech Tracking in EEG: Integrating Acoustics and Linguistics for Hearing Aid Users](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9174277&fileOId=9174278), Lund University Publications 2024; [EEG, Audio]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
