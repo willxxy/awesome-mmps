@@ -313,6 +313,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Health AI @ Google](https://ai.google/discover/healthai/)
 - [Health AI @ Apple](https://machinelearning.apple.com/research?domain=Health)
 - [NIAI Lab @ Hanyang University](http://yoonlab.hanyang.ac.kr/people/)
+- [Mobile Systems Research Lab @ University of Cambridge](https://mobile-systems.cl.cam.ac.uk/index.html)
+- [Aaqib Saeed's Lab @ Eindhoven University of Technology](https://aqibsaeed.github.io/)
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:
