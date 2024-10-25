@@ -100,7 +100,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Nested Deep Learning Model Towards A Foundation Model for Brain Signal Data](https://arxiv.org/abs/2410.03191), arxiv 2024; [EEG, MEG]
 - [EEG Emotion Copilot: Pruning LLMs for Emotional EEG Interpretation with Assisted Medical Record Generation](https://arxiv.org/abs/2410.00166), arxiv 2024; [EEG, Text]
 - [Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)](https://arxiv.org/pdf/2410.07507), arxiv 2024; [EEG, Text]
-- 
+- [EEGPT: Unleashing the Potential of EEG Generalist Foundation Model by Autoregressive Pre-training](https://openreview.net/forum?id=wJ6Bx1IYrQ), OpenReview 2024; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
