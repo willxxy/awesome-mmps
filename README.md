@@ -102,6 +102,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)](https://arxiv.org/pdf/2410.07507), arxiv 2024; [EEG, Text]
 - [EEGPT: Unleashing the Potential of EEG Generalist Foundation Model by Autoregressive Pre-training](https://openreview.net/forum?id=wJ6Bx1IYrQ), OpenReview 2024; [EEG, Text]
 - [ARIEL: Brain-Computer Interfaces meet Large Language Models for Emotional Support Conversation](https://dl.acm.org/doi/10.1145/3631700.3665193), Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization 2024; [EEG, Text]
+- [Promoting cross-modal representations to improve multimodal foundation models for physiological signals](https://arxiv.org/pdf/2410.16424), Medical Foundation Models (AIM-FM) workshop at NeurIPS 2024; [EEG, EMG, EOG, ECG]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -163,7 +164,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Foundation Models for Cardiovascular Disease Detection via BioSignals from Digital Stethoscopes](https://assets-eu.researchsquare.com/files/rs-4732737/v1_covered_5d102066-509a-4c79-a602-32570aadb619.pdf?c=1722816670), Research Square 2024; [PCG, ECG]
 - [From Hospital to Portables: A Universal ECG Foundation Model Built on 10+ Million Diverse Recordings](https://arxiv.org/pdf/2410.04133), arxiv 2024; [Text, ECG]
 - [Electrocardiogram–Language Model for Few-Shot Question Answering with Meta Learning](https://arxiv.org/pdf/2410.14464), arxiv 2024; [Text, ECG]
-
+- [Promoting cross-modal representations to improve multimodal foundation models for physiological signals](https://arxiv.org/pdf/2410.16424), Medical Foundation Models (AIM-FM) workshop at NeurIPS 2024; [EEG, EMG, EOG, ECG
+  
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
 - [Stress Detection with Deep Learning Approaches Using Physiological Signals](https://link.springer.com/chapter/10.1007/978-3-030-69963-5_7), IoT Technologies for Healthcare 2020; [EDA, BVP]
@@ -212,6 +214,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Comparative analysis of physiological signals and electroencephalogram (EEG) for multimodal emotion recognition using generative models](https://ieeexplore.ieee.org/abstract/document/7010181), IEEE STSIVA 2014; [EEG, EOG, EMG, GSR, HR]
 - [SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals](https://raw.githubusercontent.com/mlresearch/v235/main/assets/thapa24a/thapa24a.pdf), ICML 2024; [ECG, EEG, EOG, EMG, Respiratory Sensors]
 - [A generative foundation model for five-class sleep staging with arbitrary sensor input](https://www.arxiv.org/abs/2408.15253), arxiv 2024; [EEG, EOG, EMG]
+- [Promoting cross-modal representations to improve multimodal foundation models for physiological signals](https://arxiv.org/pdf/2410.16424), Medical Foundation Models (AIM-FM) workshop at NeurIPS 2024; [EEG, EMG, EOG, ECG
 
 ### EMG :muscle: + X
 - [A Deep Learning Architecture for Temporal Sleep Stage Classification Using Multivariate and Multimodal Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8307462), IEEE Transactions on Neural Systems and Rehabilitation Engineering 2018; [EEG, EOG, EMG]
@@ -224,6 +227,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [A generative foundation model for five-class sleep staging with arbitrary sensor input](https://www.arxiv.org/abs/2408.15253), arxiv 2024; [EEG, EOG, EMG]
 - [Embracing Large Language and Multimodal Models for Prosthetic Technologies](https://arxiv.org/pdf/2403.04974), arxiv 2024; [EMG, Image, Video, Text, Audio]
 - [EMG-to-Speech: Direct Generation of Speech From Facial Electromyographic Signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8114359), IEEE/ACM Transactions on Audio, Speech, and Language Processing 2024; [EMG, Speech]
+- [Promoting cross-modal representations to improve multimodal foundation models for physiological signals](https://arxiv.org/pdf/2410.16424), Medical Foundation Models (AIM-FM) workshop at NeurIPS 2024; [EEG, EMG, EOG, ECG
 
 ### Other :placard: + X
 - [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), ICML Workshop on Machine Learning for Multimodal Healthcare Data 2023; [CMR, Language]
