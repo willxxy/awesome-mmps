@@ -166,6 +166,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Electrocardiogram–Language Model for Few-Shot Question Answering with Meta Learning](https://arxiv.org/pdf/2410.14464), arxiv 2024; [Text, ECG]
 - [Promoting cross-modal representations to improve multimodal foundation models for physiological signals](https://arxiv.org/pdf/2410.16424), Medical Foundation Models (AIM-FM) workshop at NeurIPS 2024; [EEG, EMG, EOG, ECG]
 - [Foundation Models in Electrocardiogram: A Review](https://arxiv.org/pdf/2410.19877), arxiv 2024; [ECG, Text]
+- [C-MELT: Contrastive Enhanced Masked Auto-Encoders for ECG-Language Pre-Training](https://arxiv.org/pdf/2410.02131v1), arxiv 2024; [ECG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
