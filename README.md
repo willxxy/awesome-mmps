@@ -103,6 +103,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [EEGPT: Unleashing the Potential of EEG Generalist Foundation Model by Autoregressive Pre-training](https://openreview.net/forum?id=wJ6Bx1IYrQ), OpenReview 2024; [EEG, Text]
 - [ARIEL: Brain-Computer Interfaces meet Large Language Models for Emotional Support Conversation](https://dl.acm.org/doi/10.1145/3631700.3665193), Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization 2024; [EEG, Text]
 - [Promoting cross-modal representations to improve multimodal foundation models for physiological signals](https://arxiv.org/pdf/2410.16424), Medical Foundation Models (AIM-FM) workshop at NeurIPS 2024; [EEG, EMG, EOG, ECG]
+- [DPD (DePression Detection) Net: a deep neural network for multimodal depression detection](https://link.springer.com/article/10.1007/s13755-024-00311-9), Health Information Science and Systems 2024; [EEG, Speech]
+- [Deep-learning models reveal how context and listener attention shape electrophysiological correlates of speech-to-language transformation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012537), PLOS Computational Biology 2024; [EEG, Speech]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
