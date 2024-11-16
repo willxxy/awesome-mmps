@@ -172,6 +172,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [C-MELT: Contrastive Enhanced Masked Auto-Encoders for ECG-Language Pre-Training](https://arxiv.org/pdf/2410.02131v1), arxiv 2024; [ECG, Text]
 - [Let Your Heart Speak in its Mother Tongue: Multilingual Captioning of Cardiac Signals](https://arxiv.org/abs/2103.11011), arxiv 2021, [ECG, Text]
 - [Learning under Label Noise through Few-Shot Human-in-the-Loop Refinement](https://arxiv.org/pdf/2401.14107), arxiv 2024; [EEG, IMU, EMG, EOG, ECG]
+- [Precision of artificial intelligence in paediatric cardiology multimodal image interpretation](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B451CE9897CBE67135E50D9DC0CDEA94/S1047951124036035a.pdf/precision_of_artificial_intelligence_in_paediatric_cardiology_multimodal_image_interpretation.pdf), Cambridge University Press 2024; [ECG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
