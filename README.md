@@ -265,6 +265,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Transformers in biosignal analysis: A review](https://www.sciencedirect.com/science/article/pii/S1566253524004755), Elsevier Information Fusion 2024; [Time Series Agnostic]
 - [Towards a Personal Health Large Language Model](https://arxiv.org/pdf/2406.06474), arxiv 2024; [Time Series Agnostic]
 - [Event-Based Contrastive Learning for Medical Time Series](https://arxiv.org/pdf/2312.10308), MLHC 2024; [Time Series Agnostic]
+- [PaPaGei: Open Foundation Models for Optical Physiological Signals](https://arxiv.org/abs/2410.20542), arxiv 2024' [PPG]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
