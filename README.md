@@ -106,6 +106,9 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [DPD (DePression Detection) Net: a deep neural network for multimodal depression detection](https://link.springer.com/article/10.1007/s13755-024-00311-9), Health Information Science and Systems 2024; [EEG, Speech]
 - [Deep-learning models reveal how context and listener attention shape electrophysiological correlates of speech-to-language transformation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012537), PLOS Computational Biology 2024; [EEG, Speech]
 - [Learning under Label Noise through Few-Shot Human-in-the-Loop Refinement](https://arxiv.org/pdf/2401.14107), arxiv 2024; [EEG, IMU, EMG, EOG, ECG]
+- [Position: Addressing Ethical Challenges and Safety Risks in GenAI-Powered Brain-Computer Interfaces](https://www.researchgate.net/profile/Konstantinos-Barmpas-2/publication/385781911_Position_Addressing_Ethical_Challenges_and_Safety_Risks_in_GenAI-Powered_Brain-Computer_Interfaces/links/6735046ca78ba469f060b48a/Position-Addressing-Ethical-Challenges-and-Safety-Risks-in-GenAI-Powered-Brain-Computer-Interfaces.pdf), GenAI for Health Workshop @ NeurIPS 2024; [EEG, Text]
+- [A Hybrid Artificial Intelligence System for Automated EEG Background Analysis and Report Generation](https://ieeexplore.ieee.org/abstract/document/10752384), IEEE Journal of Biomedical and Health Informatics 2024; [EEG, Text]
+- 
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -265,7 +268,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Transformers in biosignal analysis: A review](https://www.sciencedirect.com/science/article/pii/S1566253524004755), Elsevier Information Fusion 2024; [Time Series Agnostic]
 - [Towards a Personal Health Large Language Model](https://arxiv.org/pdf/2406.06474), arxiv 2024; [Time Series Agnostic]
 - [Event-Based Contrastive Learning for Medical Time Series](https://arxiv.org/pdf/2312.10308), MLHC 2024; [Time Series Agnostic]
-- [PaPaGei: Open Foundation Models for Optical Physiological Signals](https://arxiv.org/abs/2410.20542), arxiv 2024' [PPG]
+- [PaPaGei: Open Foundation Models for Optical Physiological Signals](https://arxiv.org/abs/2410.20542), arxiv 2024; [PPG]
+- [Multi-Modal Forecaster: Jointly Predicting Time Series and Textual Data](https://arxiv.org/abs/2411.06735v1), arxiv 2024; [Time Series Agnostic]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
