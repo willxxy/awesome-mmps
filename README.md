@@ -108,7 +108,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Learning under Label Noise through Few-Shot Human-in-the-Loop Refinement](https://arxiv.org/pdf/2401.14107), arxiv 2024; [EEG, IMU, EMG, EOG, ECG]
 - [Position: Addressing Ethical Challenges and Safety Risks in GenAI-Powered Brain-Computer Interfaces](https://www.researchgate.net/profile/Konstantinos-Barmpas-2/publication/385781911_Position_Addressing_Ethical_Challenges_and_Safety_Risks_in_GenAI-Powered_Brain-Computer_Interfaces/links/6735046ca78ba469f060b48a/Position-Addressing-Ethical-Challenges-and-Safety-Risks-in-GenAI-Powered-Brain-Computer-Interfaces.pdf), GenAI for Health Workshop @ NeurIPS 2024; [EEG, Text]
 - [A Hybrid Artificial Intelligence System for Automated EEG Background Analysis and Report Generation](https://ieeexplore.ieee.org/abstract/document/10752384), IEEE Journal of Biomedical and Health Informatics 2024; [EEG, Text]
-- [PedSleepMAE: Generative Model for Multimodal Pediatric Sleep Signals](https://arxiv.org/pdf/2411.00718), arxiv 2024; [EEG, EMG, EOG]
+- [PedSleepMAE: Generative Model for Multimodal Pediatric Sleep Signals](https://arxiv.org/pdf/2411.00718), IEEE International Conference on Biomedical and Health Informatics 2024; [EEG, EMG, EOG]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -228,7 +228,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [A generative foundation model for five-class sleep staging with arbitrary sensor input](https://www.arxiv.org/abs/2408.15253), arxiv 2024; [EEG, EOG, EMG]
 - [Promoting cross-modal representations to improve multimodal foundation models for physiological signals](https://arxiv.org/pdf/2410.16424), Medical Foundation Models (AIM-FM) workshop at NeurIPS 2024; [EEG, EMG, EOG, ECG]
 - [Learning under Label Noise through Few-Shot Human-in-the-Loop Refinement](https://arxiv.org/pdf/2401.14107), arxiv 2024; [EEG, IMU, EMG, EOG, ECG]
-- [PedSleepMAE: Generative Model for Multimodal Pediatric Sleep Signals](https://arxiv.org/pdf/2411.00718), arxiv 2024; [EEG, EMG, EOG]
+- [PedSleepMAE: Generative Model for Multimodal Pediatric Sleep Signals](https://arxiv.org/pdf/2411.00718), IEEE International Conference on Biomedical and Health Informatics 2024 2024; [EEG, EMG, EOG]
 
 ### EMG :muscle: + X
 - [A Deep Learning Architecture for Temporal Sleep Stage Classification Using Multivariate and Multimodal Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8307462), IEEE Transactions on Neural Systems and Rehabilitation Engineering 2018; [EEG, EOG, EMG]
@@ -243,7 +243,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [EMG-to-Speech: Direct Generation of Speech From Facial Electromyographic Signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8114359), IEEE/ACM Transactions on Audio, Speech, and Language Processing 2024; [EMG, Speech]
 - [Promoting cross-modal representations to improve multimodal foundation models for physiological signals](https://arxiv.org/pdf/2410.16424), Medical Foundation Models (AIM-FM) workshop at NeurIPS 2024; [EEG, EMG, EOG, ECG]
 - [Learning under Label Noise through Few-Shot Human-in-the-Loop Refinement](https://arxiv.org/pdf/2401.14107), arxiv 2024; [EEG, IMU, EMG, EOG, ECG]
-- [PedSleepMAE: Generative Model for Multimodal Pediatric Sleep Signals](https://arxiv.org/pdf/2411.00718), arxiv 2024; [EEG, EMG, EOG]
+- [PedSleepMAE: Generative Model for Multimodal Pediatric Sleep Signals](https://arxiv.org/pdf/2411.00718), IEEE International Conference on Biomedical and Health Informatics 2024 2024; [EEG, EMG, EOG]
 
 ### Other :placard: + X
 - [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), ICML Workshop on Machine Learning for Multimodal Healthcare Data 2023; [CMR, Language]
