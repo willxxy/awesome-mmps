@@ -212,6 +212,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Naturalistic Emotion Recognition Using EEG and Eye Movements](https://bcmi.sjtu.edu.cn/home/blu/papers/2023/2023-8.pdf), Springer Nature Singapore 2023; [EEG, Eye Movement]
 - [Multimodal Multi-View Spectral-Spatial-Temporal Masked Autoencoder for Self-Supervised Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447194), ICASSP 2024; [EEG, Eye Movement]
 - [Functional Emotion Transformer for EEG-Assisted Cross-Modal Emotion Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10446937), ICASSP 2024; [EEG, Eye Movement]
+- [EEG2Video: Towards Decoding Dynamic Visual Perception from EEG Signals](https://openreview.net/forum?id=RfsfRn9OFd), NeurIPS 2024; [EEG, fMRI, Video, Text]
 
 
 ### EOG :eye: + X 
