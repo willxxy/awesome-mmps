@@ -109,6 +109,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Position: Addressing Ethical Challenges and Safety Risks in GenAI-Powered Brain-Computer Interfaces](https://www.researchgate.net/profile/Konstantinos-Barmpas-2/publication/385781911_Position_Addressing_Ethical_Challenges_and_Safety_Risks_in_GenAI-Powered_Brain-Computer_Interfaces/links/6735046ca78ba469f060b48a/Position-Addressing-Ethical-Challenges-and-Safety-Risks-in-GenAI-Powered-Brain-Computer-Interfaces.pdf), GenAI for Health Workshop @ NeurIPS 2024; [EEG, Text]
 - [A Hybrid Artificial Intelligence System for Automated EEG Background Analysis and Report Generation](https://ieeexplore.ieee.org/abstract/document/10752384), IEEE Journal of Biomedical and Health Informatics 2024; [EEG, Text]
 - [PedSleepMAE: Generative Model for Multimodal Pediatric Sleep Signals](https://arxiv.org/pdf/2411.00718), IEEE International Conference on Biomedical and Health Informatics 2024; [EEG, EMG, EOG]
+- [Decoding text from electroencephalography signals: A novel Hierarchical Gated Recurrent Unit with Masked Residual Attention Mechanism](https://www.sciencedirect.com/science/article/pii/S0952197624017731), Engineering Applications of Artificial Intelligence 2024; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
