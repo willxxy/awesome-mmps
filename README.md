@@ -110,6 +110,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [A Hybrid Artificial Intelligence System for Automated EEG Background Analysis and Report Generation](https://ieeexplore.ieee.org/abstract/document/10752384), IEEE Journal of Biomedical and Health Informatics 2024; [EEG, Text]
 - [PedSleepMAE: Generative Model for Multimodal Pediatric Sleep Signals](https://arxiv.org/pdf/2411.00718), IEEE International Conference on Biomedical and Health Informatics 2024; [EEG, EMG, EOG]
 - [Decoding text from electroencephalography signals: A novel Hierarchical Gated Recurrent Unit with Masked Residual Attention Mechanism](https://www.sciencedirect.com/science/article/pii/S0952197624017731), Engineering Applications of Artificial Intelligence 2024; [EEG, Text]
+- [Towards Neural Foundation Models for Vision: Aligning EEG, MEG, and fMRI Representations for Decoding, Encoding, and Modality Conversion](https://arxiv.org/pdf/2411.09723), arxiv 2024; [EEG, fMRI, MEG, Image]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
