@@ -111,6 +111,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [PedSleepMAE: Generative Model for Multimodal Pediatric Sleep Signals](https://arxiv.org/pdf/2411.00718), IEEE International Conference on Biomedical and Health Informatics 2024; [EEG, EMG, EOG]
 - [Decoding text from electroencephalography signals: A novel Hierarchical Gated Recurrent Unit with Masked Residual Attention Mechanism](https://www.sciencedirect.com/science/article/pii/S0952197624017731), Engineering Applications of Artificial Intelligence 2024; [EEG, Text]
 - [Towards Neural Foundation Models for Vision: Aligning EEG, MEG, and fMRI Representations for Decoding, Encoding, and Modality Conversion](https://arxiv.org/pdf/2411.09723), arxiv 2024; [EEG, fMRI, MEG, Image]
+- [A Survey of LLMs on Biosignal Applications](https://d197for5662m48.cloudfront.net/documents/publicationstatus/232019/preprint_pdf/a5e9124b3b3daff3a6e7766c3e57f047.pdf), arxiv 2024; [ECG, PPG, EEG, IMU, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -178,6 +179,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Let Your Heart Speak in its Mother Tongue: Multilingual Captioning of Cardiac Signals](https://arxiv.org/abs/2103.11011), arxiv 2021, [ECG, Text]
 - [Learning under Label Noise through Few-Shot Human-in-the-Loop Refinement](https://arxiv.org/pdf/2401.14107), arxiv 2024; [EEG, IMU, EMG, EOG, ECG]
 - [Precision of artificial intelligence in paediatric cardiology multimodal image interpretation](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B451CE9897CBE67135E50D9DC0CDEA94/S1047951124036035a.pdf/precision_of_artificial_intelligence_in_paediatric_cardiology_multimodal_image_interpretation.pdf), Cambridge University Press 2024; [ECG, Text]
+- [A Survey of LLMs on Biosignal Applications](https://d197for5662m48.cloudfront.net/documents/publicationstatus/232019/preprint_pdf/a5e9124b3b3daff3a6e7766c3e57f047.pdf), arxiv 2024; [ECG, PPG, EEG, IMU, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
