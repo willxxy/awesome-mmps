@@ -348,6 +348,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Mobile Systems Research Lab @ University of Cambridge](https://mobile-systems.cl.cam.ac.uk/index.html)
 - [Aaqib Saeed's Lab @ Eindhoven University of Technology](https://aqibsaeed.github.io/)
 - [Multisensory Intelligence Research Group @ MIT](https://www.media.mit.edu/groups/multisensory-intelligence/overview/)
+- [Behavioral Data Science Lab @ University of Washington](https://behavioral-data.github.io/)
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:
