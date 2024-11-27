@@ -181,6 +181,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Precision of artificial intelligence in paediatric cardiology multimodal image interpretation](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B451CE9897CBE67135E50D9DC0CDEA94/S1047951124036035a.pdf/precision_of_artificial_intelligence_in_paediatric_cardiology_multimodal_image_interpretation.pdf), Cambridge University Press 2024; [ECG, Text]
 - [A Survey of LLMs on Biosignal Applications](https://d197for5662m48.cloudfront.net/documents/publicationstatus/232019/preprint_pdf/a5e9124b3b3daff3a6e7766c3e57f047.pdf), arxiv 2024; [ECG, PPG, EEG, IMU, Text]
 - [HeartBERT: A Self-Supervised ECG Embedding Model for Efficient and Effective Medical Signal Analysis](https://arxiv.org/abs/2411.11896), arxiv 2024; [ECG, Text]
+- [De-biased Multimodal Electrocardiogram Analysis](https://arxiv.org/pdf/2411.14795), arxiv 2024; [ECG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
