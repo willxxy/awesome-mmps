@@ -284,6 +284,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [COCOA: Cross Modality Contrastive Learning for Sensor Data](https://dl.acm.org/doi/abs/10.1145/3550316), Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 2022; [Time Series Agnostic]
 - [Language Models Still Struggle to Zero-shot Reason about Time Series](https://arxiv.org/pdf/2404.11757), arxiv 2024; [Time Series Agnostic]
 - [TimeSeriesExam: A time series understanding exam](https://arxiv.org/pdf/2410.14752), NeurIPS 2024 Time Series in the Age of Large Models Workshop; [Time Series Agnostic]
+- [LLM-ABBA: Understand time series via symbolic approximation](https://arxiv.org/pdf/2411.18506), arxiv 2024; [Time Series Agnostic]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
