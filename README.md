@@ -287,6 +287,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Language Models Still Struggle to Zero-shot Reason about Time Series](https://arxiv.org/pdf/2404.11757), arxiv 2024; [Time Series Agnostic]
 - [TimeSeriesExam: A time series understanding exam](https://arxiv.org/pdf/2410.14752), NeurIPS 2024 Time Series in the Age of Large Models Workshop; [Time Series Agnostic]
 - [LLM-ABBA: Understand time series via symbolic approximation](https://arxiv.org/pdf/2411.18506), arxiv 2024; [Time Series Agnostic]
+- [ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning](https://arxiv.org/pdf/2412.03104), arxiv 2024; [Time Series Agnostic]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
