@@ -186,6 +186,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Large-scale cross-modality pretrained model enhances cardiovascular state estimation and cardiomyopathy detection from electrocardiograms: An AI system development and multi-center validation study](https://arxiv.org/abs/2411.13602), arxiv 2024; [ECG, CMR]
 - [Automated Medical Report Generation for ECG Data: Bridging Medical Text and Signal Processing with Deep Learning](https://arxiv.org/abs/2412.04067), arxiv 2024; [ECG, Text]
 - [ECHOPulse: ECG controlled echocardio-grams video generation](https://arxiv.org/abs/2410.03143), arxiv 2024; [ECG, ECHO, Video]
+- [Application of Contrastive Learning on ECG Data: Evaluating Performance in Japanese and Classification with Around 100 Labels](https://openreview.net/pdf?id=KzryCCOrWs), arxiv 2024; [ECG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
