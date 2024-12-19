@@ -187,6 +187,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Automated Medical Report Generation for ECG Data: Bridging Medical Text and Signal Processing with Deep Learning](https://arxiv.org/abs/2412.04067), arxiv 2024; [ECG, Text]
 - [ECHOPulse: ECG controlled echocardio-grams video generation](https://arxiv.org/abs/2410.03143), arxiv 2024; [ECG, ECHO, Video]
 - [Application of Contrastive Learning on ECG Data: Evaluating Performance in Japanese and Classification with Around 100 Labels](https://openreview.net/pdf?id=KzryCCOrWs), arxiv 2024; [ECG, Text]
+- [Foundation model of ECG diagnosis: Diagnostics and explanations of any form and rhythm on ECG](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00646-3), Cell Reports Medicine 2024; [ECG, Text]
+- [ECG-LM: Understanding Electrocardiogram with Large Language Model](https://spj.science.org/doi/pdf/10.34133/hds.0221), SPJ 2024; [ECG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
