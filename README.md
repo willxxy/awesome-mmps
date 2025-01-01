@@ -114,6 +114,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [A Survey of LLMs on Biosignal Applications](https://d197for5662m48.cloudfront.net/documents/publicationstatus/232019/preprint_pdf/a5e9124b3b3daff3a6e7766c3e57f047.pdf), arxiv 2024; [ECG, PPG, EEG, IMU, Text]
 - [A novel multimodal EEG-image fusion approach for emotion recognition: introducing a multimodal KMED dataset](https://link.springer.com/article/10.1007/s00521-024-10925-5), Neural Computing and Applications 2024; [EEG, Image, Video]
 - [Representation of Articulatory Features in EEG During Speech Production Tasks](https://ieeexplore.ieee.org/abstract/document/10800095), International Symposium on Chinese Spoken Language Processing 2024; [EEG, Speech]
+- [Decoding individual words from non-invasive brain recordings across 723 participants], arxiv 2024; [EEG, MEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
