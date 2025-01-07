@@ -116,6 +116,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Representation of Articulatory Features in EEG During Speech Production Tasks](https://ieeexplore.ieee.org/abstract/document/10800095), International Symposium on Chinese Spoken Language Processing 2024; [EEG, Speech]
 - [Decoding individual words from non-invasive brain recordings across 723 participants], arxiv 2024; [EEG, MEG, Text]
 - [From EEG to Eye Movements: Cross-modal Emotion Recognition Using Constrained Adversarial Network with Dual Attention](https://ieeexplore.ieee.org/abstract/document/10818647), IEEE Transactions on Affective Computing 2024; [EEG, Eye Movement]
+- [Brain-model neural similarity reveals abstractive summarization performance](https://www.nature.com/articles/s41598-024-84530-w), Nature Scientific Reports 2025; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
