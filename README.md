@@ -117,6 +117,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Decoding individual words from non-invasive brain recordings across 723 participants], arxiv 2024; [EEG, MEG, Text]
 - [From EEG to Eye Movements: Cross-modal Emotion Recognition Using Constrained Adversarial Network with Dual Attention](https://ieeexplore.ieee.org/abstract/document/10818647), IEEE Transactions on Affective Computing 2024; [EEG, Eye Movement]
 - [Brain-model neural similarity reveals abstractive summarization performance](https://www.nature.com/articles/s41598-024-84530-w), Nature Scientific Reports 2025; [EEG, Text]
+- [Develop an emotion recognition system using jointly connectivity between electroencephalogram and electrocardiogram signals](https://www.cell.com/heliyon/fulltext/S2405-8440(25)00147-1), Heliyon CellPress 2025; [ECG, EEG]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -196,6 +197,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [ECG-LM: Understanding Electrocardiogram with Large Language Model](https://spj.science.org/doi/pdf/10.34133/hds.0221), SPJ 2024; [ECG, Text]
 - [ECG-Byte: A Tokenizer for End-to-End Generative Electrocardiogram Language Modeling](https://arxiv.org/abs/2412.14373), arxiv 2024; [ECG, Text]
 - [MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis](https://arxiv.org/pdf/2408.07773), Machine Learning for Healthcare 2024; [ECG, Text]
+- [Develop an emotion recognition system using jointly connectivity between electroencephalogram and electrocardiogram signals](https://www.cell.com/heliyon/fulltext/S2405-8440(25)00147-1), Heliyon CellPress 2025; [ECG, EEG]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
