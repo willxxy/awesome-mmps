@@ -199,6 +199,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis](https://arxiv.org/pdf/2408.07773), Machine Learning for Healthcare 2024; [ECG, Text]
 - [Develop an emotion recognition system using jointly connectivity between electroencephalogram and electrocardiogram signals](https://www.cell.com/heliyon/fulltext/S2405-8440(25)00147-1), Heliyon CellPress 2025; [ECG, EEG]
 - [Teach Multimodal LLMs to Comprehend Electrocardiographic Images](https://arxiv.org/abs/2410.19008), arxiv 2024; [ECG, Text, Image]
+- [DiffuSETS: 12-lead ECG Generation Conditioned on Clinical Text Reports and Patient-Specific Information](https://arxiv.org/pdf/2501.05932), arxiv 2025; [ECG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
