@@ -339,6 +339,10 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [IMPRESSION](https://ieeexplore.ieee.org/abstract/document/9597421); [ECG, BVP, GSR, Video, Audio, Eye Gaze]
 - [EEVR](https://openreview.net/forum?id=qgzdGyQcDt&noteId=eeMsdS4M2B); [PPG, EDA, Video]
 - [KMED dataset](https://link.springer.com/article/10.1007/s00521-024-10925-5); [EEG, Image, Video]
+- [ECG-Chat Pretrain Dataset](https://www.dropbox.com/scl/fo/ccq5dxmdgg4shf02yjn8c/ANOQ1Hzj4KwHqa1b9r80uzc?rlkey=teysp3v6hg6o9uko2i4zbbjpn&e=1&st=exu3i9oo&dl=0); [ECG, Text]
+- [ECG-Chat Instruction Tuning Dataset](https://github.com/YubaoZhao/ECG-Chat/tree/master/llava/playground/data); [ECG, Text]
+- [PULSE-ECG ECGInstruct Dataset](https://huggingface.co/datasets/PULSE-ECG/ECGInstruct); [ECG, Text]
+- [PULSE-ECG ECGBench Dataset](https://huggingface.co/datasets/PULSE-ECG/ECGBench); [ECG, Text]
 
 
 ## Laboratories
