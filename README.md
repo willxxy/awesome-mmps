@@ -118,6 +118,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [From EEG to Eye Movements: Cross-modal Emotion Recognition Using Constrained Adversarial Network with Dual Attention](https://ieeexplore.ieee.org/abstract/document/10818647), IEEE Transactions on Affective Computing 2024; [EEG, Eye Movement]
 - [Brain-model neural similarity reveals abstractive summarization performance](https://www.nature.com/articles/s41598-024-84530-w), Nature Scientific Reports 2025; [EEG, Text]
 - [Develop an emotion recognition system using jointly connectivity between electroencephalogram and electrocardiogram signals](https://www.cell.com/heliyon/fulltext/S2405-8440(25)00147-1), Heliyon CellPress 2025; [ECG, EEG]
+- [On Creating A Brain-To-Text Decoder](https://arxiv.org/pdf/2501.06326), arxiv 2025; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
