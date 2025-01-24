@@ -202,6 +202,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Teach Multimodal LLMs to Comprehend Electrocardiographic Images](https://arxiv.org/abs/2410.19008), arxiv 2024; [ECG, Text, Image]
 - [DiffuSETS: 12-lead ECG Generation Conditioned on Clinical Text Reports and Patient-Specific Information](https://arxiv.org/pdf/2501.05932), arxiv 2025; [ECG, Text]
 - [Automated Diagnostic Reports from Images of Electrocardiograms at the Point-of-Care](https://pubmed.ncbi.nlm.nih.gov/38405776/), medRxiv 2024; [ECG, Image, Text]
+- [Multi-Modal Contrastive Learning across Cardiac Diagnostics](https://ai.stanford.edu/~bryanhe/publications/multimodal.pdf), preprint 2024; [Video, ECG, Image, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
