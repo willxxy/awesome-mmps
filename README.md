@@ -308,6 +308,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [LLM-ABBA: Understand time series via symbolic approximation](https://arxiv.org/pdf/2411.18506), arxiv 2024; [Time Series Agnostic]
 - [ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning](https://arxiv.org/pdf/2412.03104), arxiv 2024; [Time Series Agnostic]
 - [LETS-C: Leveraging Text Embedding for Time Series Classification](https://openreview.net/pdf?id=sPQ46iZNk6), arxiv 2024; [Time Series Agnostic]
+- [Wearable Accelerometer Foundation Models for Health via Knowledge Distillation](https://arxiv.org/abs/2412.11276), arxiv 2024; [PPG, Accelerometer]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
