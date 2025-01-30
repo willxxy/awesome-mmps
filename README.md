@@ -120,6 +120,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Develop an emotion recognition system using jointly connectivity between electroencephalogram and electrocardiogram signals](https://www.cell.com/heliyon/fulltext/S2405-8440(25)00147-1), Heliyon CellPress 2025; [ECG, EEG]
 - [On Creating A Brain-To-Text Decoder](https://arxiv.org/pdf/2501.06326), arxiv 2025; [EEG, Text]
 - [Cross-modality fusion with EEG and text for enhanced emotion detection in English writing](https://www.proquest.com/docview/3156655426?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals), Frontiers in Neurorobot 2025; [EEG, Text]
+- [Decoding Neural Signatures of Language Comprehension and Production through EEG based Brain-Computer Interfaces](http://essay.utwente.nl/104958/1/Krishnaswamynathan_MSc_EEMCS.pdf), preprint 2025; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
