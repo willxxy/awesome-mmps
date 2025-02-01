@@ -121,6 +121,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [On Creating A Brain-To-Text Decoder](https://arxiv.org/pdf/2501.06326), arxiv 2025; [EEG, Text]
 - [Cross-modality fusion with EEG and text for enhanced emotion detection in English writing](https://www.proquest.com/docview/3156655426?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals), Frontiers in Neurorobot 2025; [EEG, Text]
 - [Decoding Neural Signatures of Language Comprehension and Production through EEG based Brain-Computer Interfaces](http://essay.utwente.nl/104958/1/Krishnaswamynathan_MSc_EEMCS.pdf), preprint 2025; [EEG, Text]
+- [Neural Spelling: A Spell-Based BCI System for Language Neural Decoding](https://arxiv.org/pdf/2501.17489), arxiv 2025; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -205,6 +206,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [DiffuSETS: 12-lead ECG Generation Conditioned on Clinical Text Reports and Patient-Specific Information](https://arxiv.org/pdf/2501.05932), arxiv 2025; [ECG, Text]
 - [Automated Diagnostic Reports from Images of Electrocardiograms at the Point-of-Care](https://pubmed.ncbi.nlm.nih.gov/38405776/), medRxiv 2024; [ECG, Image, Text]
 - [Multi-Modal Contrastive Learning across Cardiac Diagnostics](https://ai.stanford.edu/~bryanhe/publications/multimodal.pdf), preprint 2024; [Video, ECG, Image, Text]
+- [Enhancing Visual Inspection Capability of Multi-Modal Large Language Models on Medical Time Series with Supportive Conformalized and Interpretable Small Specialized Models](https://arxiv.org/pdf/2501.16215), arxiv 2025; [ECG, Image, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
