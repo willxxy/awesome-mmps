@@ -122,6 +122,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Cross-modality fusion with EEG and text for enhanced emotion detection in English writing](https://www.proquest.com/docview/3156655426?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals), Frontiers in Neurorobot 2025; [EEG, Text]
 - [Decoding Neural Signatures of Language Comprehension and Production through EEG based Brain-Computer Interfaces](http://essay.utwente.nl/104958/1/Krishnaswamynathan_MSc_EEMCS.pdf), preprint 2025; [EEG, Text]
 - [Neural Spelling: A Spell-Based BCI System for Language Neural Decoding](https://arxiv.org/pdf/2501.17489), arxiv 2025; [EEG, Text]
+- [Multi-branch convolutional neural network with cross-attention mechanism for emotion recognition](https://www.nature.com/articles/s41598-025-88248-1), Nature Scientific Reports 2025; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
