@@ -8,13 +8,13 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 ## Table of Contents
 
 - [Publications and Preprints](#publications-and-preprints)
-  - [EEG :brain: + X](#EEG-🧠-+-X)
-  - ECG :anatomical_heart: + X
-  - EDA :sweat_drops: + X
-  - Eye Movement :eye: + X
-  - EOG :eye: + X
-  - EMG :muscle: + X
-  - Other :placard: + X
+  - [EEG :brain: + X](#eeg-brain--x)
+  - [ECG :anatomical_heart: + X](#ecg-anatomical_heart--x)
+  - [EDA :sweat_drops: + X](#eda-sweat_drops--x)
+  - [Eye Movement :eye: + X](#eye-movement-eye--x)
+  - [EOG :eye: + X](#eog-eye--x)
+  - [EMG :muscle: + X](#emg-muscle--x)
+  - [Other :placard: + X](#other-placard--x)
 - [Datasets](#datasets)
 
 - [Laboratories](#laboratories)
