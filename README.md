@@ -209,6 +209,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Multi-Modal Contrastive Learning across Cardiac Diagnostics](https://ai.stanford.edu/~bryanhe/publications/multimodal.pdf), preprint 2024; [Video, ECG, Image, Text]
 - [Enhancing Visual Inspection Capability of Multi-Modal Large Language Models on Medical Time Series with Supportive Conformalized and Interpretable Small Specialized Models](https://arxiv.org/pdf/2501.16215), arxiv 2025; [ECG, Image, Text]
 - [Improving Atrial Fibrillation Detection Using a Shared Latent Space for ECG and PPG Signals](https://hdsr.mitpress.mit.edu/pub/vifgdvlv/release/1), Harvard Data Science Review 2025; [ECG, PPG]
+- [High-Accuracy ECG Image Interpretation using Parameter-Efficient LoRA Fine-Tuning with Multimodal LLaMA 3.2](https://arxiv.org/abs/2501.18670z), arxiv 2025; [ECG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
