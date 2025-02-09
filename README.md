@@ -123,6 +123,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Decoding Neural Signatures of Language Comprehension and Production through EEG based Brain-Computer Interfaces](http://essay.utwente.nl/104958/1/Krishnaswamynathan_MSc_EEMCS.pdf), preprint 2025; [EEG, Text]
 - [Neural Spelling: A Spell-Based BCI System for Language Neural Decoding](https://arxiv.org/pdf/2501.17489), arxiv 2025; [EEG, Text]
 - [Multi-branch convolutional neural network with cross-attention mechanism for emotion recognition](https://www.nature.com/articles/s41598-025-88248-1), Nature Scientific Reports 2025; [EEG, Text]
+- [A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions](https://www.medrxiv.org/content/10.1101/2025.02.04.25321675v1.full.pdf), medRxiv 2025; [EEG, EOG, EMG, ECG, Respiratory]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -210,6 +211,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Enhancing Visual Inspection Capability of Multi-Modal Large Language Models on Medical Time Series with Supportive Conformalized and Interpretable Small Specialized Models](https://arxiv.org/pdf/2501.16215), arxiv 2025; [ECG, Image, Text]
 - [Improving Atrial Fibrillation Detection Using a Shared Latent Space for ECG and PPG Signals](https://hdsr.mitpress.mit.edu/pub/vifgdvlv/release/1), Harvard Data Science Review 2025; [ECG, PPG]
 - [High-Accuracy ECG Image Interpretation using Parameter-Efficient LoRA Fine-Tuning with Multimodal LLaMA 3.2](https://arxiv.org/abs/2501.18670z), arxiv 2025; [ECG, Text]
+- [A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions](https://www.medrxiv.org/content/10.1101/2025.02.04.25321675v1.full.pdf), medRxiv 2025; [EEG, EOG, EMG, ECG, Respiratory]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
@@ -264,6 +266,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Promoting cross-modal representations to improve multimodal foundation models for physiological signals](https://arxiv.org/pdf/2410.16424), Medical Foundation Models (AIM-FM) workshop at NeurIPS 2024; [EEG, EMG, EOG, ECG]
 - [Learning under Label Noise through Few-Shot Human-in-the-Loop Refinement](https://arxiv.org/pdf/2401.14107), arxiv 2024; [EEG, IMU, EMG, EOG, ECG]
 - [PedSleepMAE: Generative Model for Multimodal Pediatric Sleep Signals](https://arxiv.org/pdf/2411.00718), IEEE International Conference on Biomedical and Health Informatics 2024 2024; [EEG, EMG, EOG]
+- [A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions](https://www.medrxiv.org/content/10.1101/2025.02.04.25321675v1.full.pdf), medRxiv 2025; [EEG, EOG, EMG, ECG, Respiratory]
 
 ### EMG :muscle: + X
 - [A Deep Learning Architecture for Temporal Sleep Stage Classification Using Multivariate and Multimodal Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8307462), IEEE Transactions on Neural Systems and Rehabilitation Engineering 2018; [EEG, EOG, EMG]
@@ -279,6 +282,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Promoting cross-modal representations to improve multimodal foundation models for physiological signals](https://arxiv.org/pdf/2410.16424), Medical Foundation Models (AIM-FM) workshop at NeurIPS 2024; [EEG, EMG, EOG, ECG]
 - [Learning under Label Noise through Few-Shot Human-in-the-Loop Refinement](https://arxiv.org/pdf/2401.14107), arxiv 2024; [EEG, IMU, EMG, EOG, ECG]
 - [PedSleepMAE: Generative Model for Multimodal Pediatric Sleep Signals](https://arxiv.org/pdf/2411.00718), IEEE International Conference on Biomedical and Health Informatics 2024 2024; [EEG, EMG, EOG]
+- [A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions](https://www.medrxiv.org/content/10.1101/2025.02.04.25321675v1.full.pdf), medRxiv 2025; [EEG, EOG, EMG, ECG, Respiratory]
 
 ### Other :placard: + X
 - [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), ICML Workshop on Machine Learning for Multimodal Healthcare Data 2023; [CMR, Language]
@@ -315,6 +319,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning](https://arxiv.org/pdf/2412.03104), arxiv 2024; [Time Series Agnostic]
 - [LETS-C: Leveraging Text Embedding for Time Series Classification](https://openreview.net/pdf?id=sPQ46iZNk6), arxiv 2024; [Time Series Agnostic]
 - [Wearable Accelerometer Foundation Models for Health via Knowledge Distillation](https://arxiv.org/abs/2412.11276), arxiv 2024; [PPG, Accelerometer]
+- [A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions](https://www.medrxiv.org/content/10.1101/2025.02.04.25321675v1.full.pdf), medRxiv 2025; [EEG, EOG, EMG, ECG, Respiratory]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
