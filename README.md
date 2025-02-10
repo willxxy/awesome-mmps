@@ -124,6 +124,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Neural Spelling: A Spell-Based BCI System for Language Neural Decoding](https://arxiv.org/pdf/2501.17489), arxiv 2025; [EEG, Text]
 - [Multi-branch convolutional neural network with cross-attention mechanism for emotion recognition](https://www.nature.com/articles/s41598-025-88248-1), Nature Scientific Reports 2025; [EEG, Text]
 - [A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions](https://www.medrxiv.org/content/10.1101/2025.02.04.25321675v1.full.pdf), medRxiv 2025; [EEG, EOG, EMG, ECG, Respiratory]
+- [Multimodal Physiological Signals Representation Learning via Multiscale Contrasting for Depression Recognition](https://arxiv.org/pdf/2406.16968), Proceedings of the 32nd ACM International Conference on Multimedia 2024; [EEG, fNIRS]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
