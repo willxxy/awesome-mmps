@@ -397,6 +397,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Behavioral Data Science Lab @ University of Washington](https://behavioral-data.github.io/)
 - [AI4Health @ University of Oldenburg](https://uol.de/en/ai4health)
 - [David Ouyang's Lab @ Cedars-Sinai Medical Center](https://douyang.github.io/)
+- [Artificial Intelligence in Medicine (AIMed) Lab @ Ohio State University](https://www.pingzhang.net/lab.html)
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:
