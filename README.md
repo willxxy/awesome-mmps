@@ -321,6 +321,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [LETS-C: Leveraging Text Embedding for Time Series Classification](https://openreview.net/pdf?id=sPQ46iZNk6), arxiv 2024; [Time Series Agnostic]
 - [Wearable Accelerometer Foundation Models for Health via Knowledge Distillation](https://arxiv.org/abs/2412.11276), arxiv 2024; [PPG, Accelerometer]
 - [A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions](https://www.medrxiv.org/content/10.1101/2025.02.04.25321675v1.full.pdf), medRxiv 2025; [EEG, EOG, EMG, ECG, Respiratory]
+- [ADAPTive Input Training for Many-to-One Pre-Training on Time-Series Classification](https://d197for5662m48.cloudfront.net/documents/publicationstatus/244221/preprint_pdf/f0dc837fa3aa0bf62f43d0365317880e.pdf), arxiv 2025; [Time Series Agnostic]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
