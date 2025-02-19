@@ -213,6 +213,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Improving Atrial Fibrillation Detection Using a Shared Latent Space for ECG and PPG Signals](https://hdsr.mitpress.mit.edu/pub/vifgdvlv/release/1), Harvard Data Science Review 2025; [ECG, PPG]
 - [High-Accuracy ECG Image Interpretation using Parameter-Efficient LoRA Fine-Tuning with Multimodal LLaMA 3.2](https://arxiv.org/abs/2501.18670z), arxiv 2025; [ECG, Text]
 - [A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions](https://www.medrxiv.org/content/10.1101/2025.02.04.25321675v1.full.pdf), medRxiv 2025; [EEG, EOG, EMG, ECG, Respiratory]
+- [Interpretable Pre-Trained Transformers for Heart Time-Series Data](https://www.arxiv.org/pdf/2407.20775), arxiv 2024; [ECG, PPG]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
