@@ -361,6 +361,9 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [ECG-Chat Instruction Tuning Dataset](https://github.com/YubaoZhao/ECG-Chat/tree/master/llava/playground/data); [ECG, Text]
 - [PULSE-ECG ECGInstruct Dataset](https://huggingface.co/datasets/PULSE-ECG/ECGInstruct); [ECG, Text]
 - [PULSE-ECG ECGBench Dataset](https://huggingface.co/datasets/PULSE-ECG/ECGBench); [ECG, Text]
+- [BIDMC PPG and Respiration Dataset](https://physionet.org/content/bidmc/1.0.0/); [ECG, PPG]
+- [PPG-DaLiA](https://archive.ics.uci.edu/dataset/495/ppg+dalia); [ECG, PPG]
+- [WESAD (Wearable Stress and Affect Detection)](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection); [ECG, EDA, EMG]
 
 
 ## Laboratories
