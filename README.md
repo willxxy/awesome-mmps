@@ -371,6 +371,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [BIDMC PPG and Respiration Dataset](https://physionet.org/content/bidmc/1.0.0/); [ECG, PPG]
 - [PPG-DaLiA](https://archive.ics.uci.edu/dataset/495/ppg+dalia); [ECG, PPG]
 - [WESAD (Wearable Stress and Affect Detection)](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection); [ECG, EDA, EMG]
+- [ECG-Expert-QA: A Benchmark for Evaluating Medical Large Language Models in Heart Disease Diagnosis](https://arxiv.org/pdf/2502.17475); [ECG, Text]
 
 
 ## Laboratories
