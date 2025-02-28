@@ -125,6 +125,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Multi-branch convolutional neural network with cross-attention mechanism for emotion recognition](https://www.nature.com/articles/s41598-025-88248-1), Nature Scientific Reports 2025; [EEG, Text]
 - [A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions](https://www.medrxiv.org/content/10.1101/2025.02.04.25321675v1.full.pdf), medRxiv 2025; [EEG, EOG, EMG, ECG, Respiratory]
 - [Multimodal Physiological Signals Representation Learning via Multiscale Contrasting for Depression Recognition](https://arxiv.org/pdf/2406.16968), Proceedings of the 32nd ACM International Conference on Multimedia 2024; [EEG, fNIRS]
+- [Finetuning and Quantization of EEG-Based Foundational BioSignal Models on ECG and PPG Data for Blood Pressure Estimation](https://www.arxiv.org/abs/2502.17460), arxiv 2025; [ECG, PPG, EEG]
+- [Brain-to-Text Decoding: A Non-invasive Approach via Typing](https://arxiv.org/pdf/2502.17480), arxiv 2025; [EEG, MEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -215,6 +217,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions](https://www.medrxiv.org/content/10.1101/2025.02.04.25321675v1.full.pdf), medRxiv 2025; [EEG, EOG, EMG, ECG, Respiratory]
 - [Interpretable Pre-Trained Transformers for Heart Time-Series Data](https://www.arxiv.org/pdf/2407.20775), arxiv 2024; [ECG, PPG]
 - [CardioGAN: Attentive Generative Adversarial Network with Dual Discriminators for Synthesis of ECG from PPG](https://arxiv.org/pdf/2010.00104), AAAI 2021; [ECG, PPG]
+- [Signal-quality-aware multisensor fusion for atrial fibrillation detection](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/htl2.12121), Healthcare Technology Letters 2025; [ECG, PPG]
+- [Finetuning and Quantization of EEG-Based Foundational BioSignal Models on ECG and PPG Data for Blood Pressure Estimation](https://www.arxiv.org/abs/2502.17460), arxiv 2025; [ECG, PPG, EEG]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
