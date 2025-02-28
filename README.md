@@ -127,6 +127,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Multimodal Physiological Signals Representation Learning via Multiscale Contrasting for Depression Recognition](https://arxiv.org/pdf/2406.16968), Proceedings of the 32nd ACM International Conference on Multimedia 2024; [EEG, fNIRS]
 - [Finetuning and Quantization of EEG-Based Foundational BioSignal Models on ECG and PPG Data for Blood Pressure Estimation](https://www.arxiv.org/abs/2502.17460), arxiv 2025; [ECG, PPG, EEG]
 - [Brain-to-Text Decoding: A Non-invasive Approach via Typing](https://arxiv.org/pdf/2502.17480), arxiv 2025; [EEG, MEG, Text]
+- [Bridging Brain Signals and Language: A Deep Learning Approach to EEG-to-Text Decoding](https://arxiv.org/pdf/2502.17465), arxiv 2025; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -219,6 +220,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [CardioGAN: Attentive Generative Adversarial Network with Dual Discriminators for Synthesis of ECG from PPG](https://arxiv.org/pdf/2010.00104), AAAI 2021; [ECG, PPG]
 - [Signal-quality-aware multisensor fusion for atrial fibrillation detection](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/htl2.12121), Healthcare Technology Letters 2025; [ECG, PPG]
 - [Finetuning and Quantization of EEG-Based Foundational BioSignal Models on ECG and PPG Data for Blood Pressure Estimation](https://www.arxiv.org/abs/2502.17460), arxiv 2025; [ECG, PPG, EEG]
+- [IHILLM-RAG: a safe and private medical large language model based on intelligent hardware interaction and retrieval-augmented generation (RAG)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13542/135423W/IHILLM-RAG--a-safe-and-private-medical-large-language/10.1117/12.3056789.full), SPIE Digital Library 2025; [ECG, PPG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
