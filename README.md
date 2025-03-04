@@ -221,6 +221,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Signal-quality-aware multisensor fusion for atrial fibrillation detection](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/htl2.12121), Healthcare Technology Letters 2025; [ECG, PPG]
 - [Finetuning and Quantization of EEG-Based Foundational BioSignal Models on ECG and PPG Data for Blood Pressure Estimation](https://www.arxiv.org/abs/2502.17460), arxiv 2025; [ECG, PPG, EEG]
 - [IHILLM-RAG: a safe and private medical large language model based on intelligent hardware interaction and retrieval-augmented generation (RAG)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13542/135423W/IHILLM-RAG--a-safe-and-private-medical-large-language/10.1117/12.3056789.full), SPIE Digital Library 2025; [ECG, PPG, Text]
+- [SuPreME: A Supervised Pre-training Framework for Multimodal ECG Representation Learning](https://arxiv.org/abs/2502.19668), arxiv 2025; [ECG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
