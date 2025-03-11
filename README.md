@@ -417,6 +417,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [David Ouyang's Lab @ Cedars-Sinai Medical Center](https://douyang.github.io/)
 - [Artificial Intelligence in Medicine (AIMed) Lab @ Ohio State University](https://www.pingzhang.net/lab.html)
 - [Digital Health Lab @ Peking University](https://hsd1503.github.io/)
+- [The Alphanumerics Lab @ Georgia Tech and Emory University](https://sameni.org/)
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:
