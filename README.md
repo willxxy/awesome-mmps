@@ -371,12 +371,13 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [KMED dataset](https://link.springer.com/article/10.1007/s00521-024-10925-5); [EEG, Image, Video]
 - [ECG-Chat Pretrain Dataset](https://www.dropbox.com/scl/fo/ccq5dxmdgg4shf02yjn8c/ANOQ1Hzj4KwHqa1b9r80uzc?rlkey=teysp3v6hg6o9uko2i4zbbjpn&e=1&st=exu3i9oo&dl=0); [ECG, Text]
 - [ECG-Chat Instruction Tuning Dataset](https://github.com/YubaoZhao/ECG-Chat/tree/master/llava/playground/data); [ECG, Text]
-- [PULSE-ECG ECGInstruct Dataset](https://huggingface.co/datasets/PULSE-ECG/ECGInstruct); [ECG, Text]
-- [PULSE-ECG ECGBench Dataset](https://huggingface.co/datasets/PULSE-ECG/ECGBench); [ECG, Text]
+- [PULSE-ECG ECGInstruct Dataset](https://huggingface.co/datasets/PULSE-ECG/ECGInstruct); [ECG, Image, Text]
+- [PULSE-ECG ECGBench Dataset](https://huggingface.co/datasets/PULSE-ECG/ECGBench); [ECG, Image, Text]
 - [BIDMC PPG and Respiration Dataset](https://physionet.org/content/bidmc/1.0.0/); [ECG, PPG]
 - [PPG-DaLiA](https://archive.ics.uci.edu/dataset/495/ppg+dalia); [ECG, PPG]
 - [WESAD (Wearable Stress and Affect Detection)](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection); [ECG, EDA, EMG]
 - [ECG-Expert-QA: A Benchmark for Evaluating Medical Large Language Models in Heart Disease Diagnosis](https://arxiv.org/pdf/2502.17475); [ECG, Text]
+- [ECG-Grounding](https://huggingface.co/datasets/LANSG/ECG-Grounding); [ECG, Image, Text]
 
 
 ## Laboratories
