@@ -128,6 +128,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Finetuning and Quantization of EEG-Based Foundational BioSignal Models on ECG and PPG Data for Blood Pressure Estimation](https://www.arxiv.org/abs/2502.17460), arxiv 2025; [ECG, PPG, EEG]
 - [Brain-to-Text Decoding: A Non-invasive Approach via Typing](https://arxiv.org/pdf/2502.17480), arxiv 2025; [EEG, MEG, Text]
 - [Bridging Brain Signals and Language: A Deep Learning Approach to EEG-to-Text Decoding](https://arxiv.org/pdf/2502.17465), arxiv 2025; [EEG, Text]
+- [Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://www.arxiv.org/abs/2503.07667), arxiv 2025; [EEG, ECG, Text, Image, Video]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -226,6 +227,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images](https://arxiv.org/abs/2503.06073v1), arxiv 2025; [ECG, Image, Text]
 - [ECG Representation Learning with Multi-Modal EHR Data](https://openreview.net/pdf/bf8bd08594d1b484133213a81f685c20a726dec4.pdf), TMLR 2023; [ECG, Text, sEHR]
 - [BioSignal Copilot: Leveraging the power of LLMs in drafting reports for biomedical signals](https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1.full.pdf), medRxiv 2023; [ECG, Text]
+- [Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://www.arxiv.org/abs/2503.07667), arxiv 2025; [EEG, ECG, Text, Image, Video]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
