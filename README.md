@@ -129,6 +129,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Brain-to-Text Decoding: A Non-invasive Approach via Typing](https://arxiv.org/pdf/2502.17480), arxiv 2025; [EEG, MEG, Text]
 - [Bridging Brain Signals and Language: A Deep Learning Approach to EEG-to-Text Decoding](https://arxiv.org/pdf/2502.17465), arxiv 2025; [EEG, Text]
 - [Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://www.arxiv.org/abs/2503.07667), arxiv 2025; [EEG, ECG, Text, Image, Video]
+- [Integrated Word2Vec-Based Speech Annotations for Enhanced EEG Decoding of Speech Intentions](https://ieeexplore.ieee.org/abstract/document/10931508), IEEE International Winter Workshop on Brain-Computer Interface (BCI) 2025; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
