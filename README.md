@@ -1,4 +1,6 @@
 # awesome-mmps
+[![DOI](https://zenodo.org/badge/683509709.svg)](https://doi.org/10.5281/zenodo.10903466)
+
 Corpus of resources for multimodal machine learning with physiological signals.
 
 Any additions, corrections, or concerns please submit an issue. For additions to the list, please provide the relevant information. Thank you! :)
@@ -436,5 +438,24 @@ title = {{A corpus of resources for Multimodal Learning with Physiological Signa
 url = {https://github.com/willxxy/awesome-mmps},
 version = {2.0.4},
 year = {2024}
+}
+
+@software{han_2025_15151285,
+  author       = {Han, William},
+  title        = {A corpus of resources for Multimodal Learning with
+                   Physiological Signals
+                  },
+  month        = apr,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {second},
+  doi          = {10.5281/zenodo.15151285},
+  url          = {https://doi.org/10.5281/zenodo.15151285},
+  swhid        = {swh:1:dir:d44f23c5c3ed58e8f53d29c22dab067c30f0769b
+                   ;origin=https://doi.org/10.5281/zenodo.10903466;vi
+                   sit=swh:1:snp:571aa8cdb6e22b70e7833f00c447e7841903
+                   938b;anchor=swh:1:rel:9fc43ffed2239a01f7dc6a4a96c3
+                   ccac93e3dea1;path=willxxy-awesome-mmps-68d74c0
+                  },
 }
 ```
