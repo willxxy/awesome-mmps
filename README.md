@@ -132,6 +132,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Bridging Brain Signals and Language: A Deep Learning Approach to EEG-to-Text Decoding](https://arxiv.org/pdf/2502.17465), arxiv 2025; [EEG, Text]
 - [Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://www.arxiv.org/abs/2503.07667), arxiv 2025; [EEG, ECG, Text, Image, Video]
 - [Integrated Word2Vec-Based Speech Annotations for Enhanced EEG Decoding of Speech Intentions](https://ieeexplore.ieee.org/abstract/document/10931508), IEEE International Winter Workshop on Brain-Computer Interface (BCI) 2025; [EEG, Text]
+- [Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities](https://arxiv.org/abs/2504.19596), arxiv 2025; [EEG, ECG, EMG, EOG]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -231,6 +232,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [ECG Representation Learning with Multi-Modal EHR Data](https://openreview.net/pdf/bf8bd08594d1b484133213a81f685c20a726dec4.pdf), TMLR 2023; [ECG, Text, sEHR]
 - [BioSignal Copilot: Leveraging the power of LLMs in drafting reports for biomedical signals](https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1.full.pdf), medRxiv 2023; [ECG, Text]
 - [Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://www.arxiv.org/abs/2503.07667), arxiv 2025; [EEG, ECG, Text, Image, Video]
+- [Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities](https://arxiv.org/abs/2504.19596), arxiv 2025; [EEG, ECG, EMG, EOG]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
@@ -286,6 +288,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Learning under Label Noise through Few-Shot Human-in-the-Loop Refinement](https://arxiv.org/pdf/2401.14107), arxiv 2024; [EEG, IMU, EMG, EOG, ECG]
 - [PedSleepMAE: Generative Model for Multimodal Pediatric Sleep Signals](https://arxiv.org/pdf/2411.00718), IEEE International Conference on Biomedical and Health Informatics 2024 2024; [EEG, EMG, EOG]
 - [A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions](https://www.medrxiv.org/content/10.1101/2025.02.04.25321675v1.full.pdf), medRxiv 2025; [EEG, EOG, EMG, ECG, Respiratory]
+- [Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities](https://arxiv.org/abs/2504.19596), arxiv 2025; [EEG, ECG, EMG, EOG]
 
 ### EMG :muscle: + X
 - [A Deep Learning Architecture for Temporal Sleep Stage Classification Using Multivariate and Multimodal Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8307462), IEEE Transactions on Neural Systems and Rehabilitation Engineering 2018; [EEG, EOG, EMG]
@@ -302,6 +305,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Learning under Label Noise through Few-Shot Human-in-the-Loop Refinement](https://arxiv.org/pdf/2401.14107), arxiv 2024; [EEG, IMU, EMG, EOG, ECG]
 - [PedSleepMAE: Generative Model for Multimodal Pediatric Sleep Signals](https://arxiv.org/pdf/2411.00718), IEEE International Conference on Biomedical and Health Informatics 2024 2024; [EEG, EMG, EOG]
 - [A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions](https://www.medrxiv.org/content/10.1101/2025.02.04.25321675v1.full.pdf), medRxiv 2025; [EEG, EOG, EMG, ECG, Respiratory]
+- [Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities](https://arxiv.org/abs/2504.19596), arxiv 2025; [EEG, ECG, EMG, EOG]
 
 ### Other :placard: + X
 - [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), ICML Workshop on Machine Learning for Multimodal Healthcare Data 2023; [CMR, Text]
