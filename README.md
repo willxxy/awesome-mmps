@@ -134,6 +134,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Integrated Word2Vec-Based Speech Annotations for Enhanced EEG Decoding of Speech Intentions](https://ieeexplore.ieee.org/abstract/document/10931508), IEEE International Winter Workshop on Brain-Computer Interface (BCI) 2025; [EEG, Text]
 - [Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities](https://arxiv.org/abs/2504.19596), arxiv 2025; [EEG, ECG, EMG, EOG]
 - [Robust Sleep Staging over Incomplete Multimodal Physiological Signals via Contrastive Imagination](https://papers.nips.cc/paper_files/paper/2024/file/cb0f9020c00fc52a9f6c9dbfacc6ac58-Paper-Conference.pdf), NeurIPS 2024; [EEG, EMG, EOG]
+- [Pretraining Large Brain Language Model for Active BCI: Silent Speech](https://arxiv.org/pdf/2504.21214), arxiv 2025; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
