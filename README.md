@@ -434,6 +434,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Artificial Intelligence in Medicine (AIMed) Lab @ Ohio State University](https://www.pingzhang.net/lab.html)
 - [Digital Health Lab @ Peking University](https://hsd1503.github.io/)
 - [The Alphanumerics Lab @ Georgia Tech and Emory University](https://sameni.org/)
+- [Centre for Brain-Computing Research @ Nanyang Technological University](https://ntu-cbcr.org/)
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:
