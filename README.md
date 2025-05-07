@@ -235,6 +235,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [BioSignal Copilot: Leveraging the power of LLMs in drafting reports for biomedical signals](https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1.full.pdf), medRxiv 2023; [ECG, Text]
 - [Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://www.arxiv.org/abs/2503.07667), arxiv 2025; [EEG, ECG, Text, Image, Video]
 - [Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities](https://arxiv.org/abs/2504.19596), arxiv 2025; [EEG, ECG, EMG, EOG]
+- [PainFormer: a Vision Foundation Model for Automatic Pain Assessment](https://arxiv.org/pdf/2505.01571), arxiv 2025; [ECG, Image, EMG, GSR, fNIRS]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
@@ -310,6 +311,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions](https://www.medrxiv.org/content/10.1101/2025.02.04.25321675v1.full.pdf), medRxiv 2025; [EEG, EOG, EMG, ECG, Respiratory]
 - [Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities](https://arxiv.org/abs/2504.19596), arxiv 2025; [EEG, ECG, EMG, EOG]
 - [Robust Sleep Staging over Incomplete Multimodal Physiological Signals via Contrastive Imagination](https://papers.nips.cc/paper_files/paper/2024/file/cb0f9020c00fc52a9f6c9dbfacc6ac58-Paper-Conference.pdf), NeurIPS 2024; [EEG, EMG, EOG]
+- [PainFormer: a Vision Foundation Model for Automatic Pain Assessment](https://arxiv.org/pdf/2505.01571), arxiv 2025; [ECG, Image, EMG, GSR, fNIRS]
 
 ### Other :placard: + X
 - [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), ICML Workshop on Machine Learning for Multimodal Healthcare Data 2023; [CMR, Text]
