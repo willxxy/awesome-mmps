@@ -236,6 +236,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Data Foundations for Large Scale Multimodal Clinical Foundation Models](https://www.arxiv.org/abs/2503.07667), arxiv 2025; [EEG, ECG, Text, Image, Video]
 - [Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities](https://arxiv.org/abs/2504.19596), arxiv 2025; [EEG, ECG, EMG, EOG]
 - [PainFormer: a Vision Foundation Model for Automatic Pain Assessment](https://arxiv.org/pdf/2505.01571), arxiv 2025; [ECG, Image, EMG, GSR, fNIRS]
+- [Q-HEART: ECG Question Answering via Knowledge-Informed Multimodal LLMs](https://arxiv.org/abs/2505.06296), arxxiv 2025; [ECG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
