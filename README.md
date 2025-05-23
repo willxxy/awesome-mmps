@@ -135,6 +135,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities](https://arxiv.org/abs/2504.19596), arxiv 2025; [EEG, ECG, EMG, EOG]
 - [Robust Sleep Staging over Incomplete Multimodal Physiological Signals via Contrastive Imagination](https://papers.nips.cc/paper_files/paper/2024/file/cb0f9020c00fc52a9f6c9dbfacc6ac58-Paper-Conference.pdf), NeurIPS 2024; [EEG, EMG, EOG]
 - [Pretraining Large Brain Language Model for Active BCI: Silent Speech](https://arxiv.org/pdf/2504.21214), arxiv 2025; [EEG, Text]
+- [EEG-to-Text Translation: A Model for Deciphering Human Brain Activity](https://arxiv.org/abs/2505.13936), arxiv 2025; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -237,6 +238,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities](https://arxiv.org/abs/2504.19596), arxiv 2025; [EEG, ECG, EMG, EOG]
 - [PainFormer: a Vision Foundation Model for Automatic Pain Assessment](https://arxiv.org/pdf/2505.01571), arxiv 2025; [ECG, Image, EMG, GSR, fNIRS]
 - [Q-HEART: ECG Question Answering via Knowledge-Informed Multimodal LLMs](https://arxiv.org/abs/2505.06296), arxxiv 2025; [ECG, Text]
+- [Fine-Grained ECG-Text Contrastive Learning via Waveform Understanding Enhancement](https://arxiv.org/abs/2505.11939), arxiv 2025; [ECG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
