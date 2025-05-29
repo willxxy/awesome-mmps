@@ -137,6 +137,10 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Pretraining Large Brain Language Model for Active BCI: Silent Speech](https://arxiv.org/pdf/2504.21214), arxiv 2025; [EEG, Text]
 - [EEG-to-Text Translation: A Model for Deciphering Human Brain Activity](https://arxiv.org/abs/2505.13936), arxiv 2025; [EEG, Text]
 - [Learning Interpretable Representations Leads to Semantically Faithful EEG-to-Text Generation](https://www.arxiv.org/abs/2505.17099), arxiv 2025; [EEG, Text]
+- [Recognizing Natural Images From EEG With Language-Guided Contrastive Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11015337), IEEE Transactions on Neural Networks and Learning Systems 2025; [EEG, Text, Image]
+- [Neural-MCRL: Neural Multimodal Contrastive Representation Learning for EEG-based Visual Decoding](https://arxiv.org/abs/2412.17337v2), arxiv 2025; [EEG, Image, Text]
+- [BrainOmni: A Brain Foundation Model for Unified EEG and MEG Signals](https://arxiv.org/pdf/2505.18185), arxiv 2025; [EEG, MEG]
+- [SACM: SEEG-Audio Contrastive Matching for Chinese Speech Decoding](https://arxiv.org/pdf/2505.19652), arxiv 2025; [SEEG, Audio]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
