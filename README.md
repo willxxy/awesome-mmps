@@ -136,6 +136,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Robust Sleep Staging over Incomplete Multimodal Physiological Signals via Contrastive Imagination](https://papers.nips.cc/paper_files/paper/2024/file/cb0f9020c00fc52a9f6c9dbfacc6ac58-Paper-Conference.pdf), NeurIPS 2024; [EEG, EMG, EOG]
 - [Pretraining Large Brain Language Model for Active BCI: Silent Speech](https://arxiv.org/pdf/2504.21214), arxiv 2025; [EEG, Text]
 - [EEG-to-Text Translation: A Model for Deciphering Human Brain Activity](https://arxiv.org/abs/2505.13936), arxiv 2025; [EEG, Text]
+- [Learning Interpretable Representations Leads to Semantically Faithful EEG-to-Text Generation](https://www.arxiv.org/abs/2505.17099), arxiv 2025; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
