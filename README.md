@@ -244,7 +244,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [PainFormer: a Vision Foundation Model for Automatic Pain Assessment](https://arxiv.org/pdf/2505.01571), arxiv 2025; [ECG, Image, EMG, GSR, fNIRS]
 - [Q-HEART: ECG Question Answering via Knowledge-Informed Multimodal LLMs](https://arxiv.org/abs/2505.06296), arxxiv 2025; [ECG, Text]
 - [Fine-Grained ECG-Text Contrastive Learning via Waveform Understanding Enhancement](https://arxiv.org/abs/2505.11939), arxiv 2025; [ECG, Text]
-- [Signal, Image, or Symbolic: Exploring the Best Input Representation for Electrocardiogram-Language Models Through a Unified Framework], arxiv 2025; [ECG, Text, Image]
+- [Signal, Image, or Symbolic: Exploring the Best Input Representation for Electrocardiogram-Language Models Through a Unified Framework](https://arxiv.org/abs/2505.18847), arxiv 2025; [ECG, Text, Image]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
