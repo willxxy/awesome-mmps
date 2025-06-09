@@ -140,7 +140,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Recognizing Natural Images From EEG With Language-Guided Contrastive Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11015337), IEEE Transactions on Neural Networks and Learning Systems 2025; [EEG, Text, Image]
 - [Neural-MCRL: Neural Multimodal Contrastive Representation Learning for EEG-based Visual Decoding](https://arxiv.org/abs/2412.17337v2), arxiv 2025; [EEG, Image, Text]
 - [BrainOmni: A Brain Foundation Model for Unified EEG and MEG Signals](https://arxiv.org/pdf/2505.18185), arxiv 2025; [EEG, MEG]
-- [SACM: SEEG-Audio Contrastive Matching for Chinese Speech Decoding](https://arxiv.org/pdf/2505.19652), arxiv 2025; [SEEG, Audio]
+- [EEG2TEXT-CN: An Exploratory Study of Open-Vocabulary Chinese Text-EEG Alignment via Large Language Model and Contrastive Learning on ChineseEEG](https://arxiv.org/abs/2506.00854), arxiv 2025; [EEG, Text]
+- [A Pre-trained Framework for Multilingual Brain Decoding Using Non-invasive Recordings](https://www.arxiv.org/abs/2506.03214), arxiv 2025; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -245,6 +246,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Q-HEART: ECG Question Answering via Knowledge-Informed Multimodal LLMs](https://arxiv.org/abs/2505.06296), arxxiv 2025; [ECG, Text]
 - [Fine-Grained ECG-Text Contrastive Learning via Waveform Understanding Enhancement](https://arxiv.org/abs/2505.11939), arxiv 2025; [ECG, Text]
 - [Signal, Image, or Symbolic: Exploring the Best Input Representation for Electrocardiogram-Language Models Through a Unified Framework](https://arxiv.org/abs/2505.18847), arxiv 2025; [ECG, Text, Image]
+- [anyECG-chat: A Generalist ECG-MLLM for Flexible ECG Input and Multi-Task Understanding](https://arxiv.org/abs/2506.00942), arxiv 2025; [ECG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
@@ -361,6 +363,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [ADAPTive Input Training for Many-to-One Pre-Training on Time-Series Classification](https://d197for5662m48.cloudfront.net/documents/publicationstatus/244221/preprint_pdf/f0dc837fa3aa0bf62f43d0365317880e.pdf), arxiv 2025; [Time Series Agnostic]
 - [AAD-LLM: Neural Attention-Driven Auditory Scene Understanding](https://arxiv.org/abs/2502.16794), arxiv 2025; [iEEG, Text, Audio]
 - [By My Eyes: Grounding Multimodal Large Language Models with Sensor Data via Visual Prompting](https://aclanthology.org/2024.emnlp-main.133/), EMNLP 2025; [Time Series Agnostic]
+- [SACM: SEEG-Audio Contrastive Matching for Chinese Speech Decoding](https://arxiv.org/pdf/2505.19652), arxiv 2025; [SEEG, Audio]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
