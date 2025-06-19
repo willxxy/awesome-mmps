@@ -456,15 +456,6 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 If you found this repository helpful in your research, please cite the following:
 
 ```
-@software{Han_A_corpus_of_2024,
-author = {Han, William},
-month = apr,
-title = {{A corpus of resources for Multimodal Learning with Physiological Signals}},
-url = {https://github.com/willxxy/awesome-mmps},
-version = {2.0.4},
-year = {2024}
-}
-
 @software{han_2025_15151285,
   author       = {Han, William},
   title        = {A corpus of resources for Multimodal Learning with
