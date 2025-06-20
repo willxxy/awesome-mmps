@@ -248,7 +248,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Signal, Image, or Symbolic: Exploring the Best Input Representation for Electrocardiogram-Language Models Through a Unified Framework](https://arxiv.org/abs/2505.18847), arxiv 2025; [ECG, Text, Image]
 - [anyECG-chat: A Generalist ECG-MLLM for Flexible ECG Input and Multi-Task Understanding](https://arxiv.org/abs/2506.00942), arxiv 2025; [ECG, Text]
 - [Heartcare Suite: Multi-dimensional Understanding of ECG with Raw Multi-lead Signal Modeling](https://arxiv.org/abs/2506.05831), arxiv 2025; [ECG, Text]
-- [TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning], arxiv 2025; [ECG, EMG, Text]
+- [TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning](https://arxiv.org/abs/2506.13705), arxiv 2025; [ECG, EMG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
@@ -325,7 +325,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities](https://arxiv.org/abs/2504.19596), arxiv 2025; [EEG, ECG, EMG, EOG]
 - [Robust Sleep Staging over Incomplete Multimodal Physiological Signals via Contrastive Imagination](https://papers.nips.cc/paper_files/paper/2024/file/cb0f9020c00fc52a9f6c9dbfacc6ac58-Paper-Conference.pdf), NeurIPS 2024; [EEG, EMG, EOG]
 - [PainFormer: a Vision Foundation Model for Automatic Pain Assessment](https://arxiv.org/pdf/2505.01571), arxiv 2025; [ECG, Image, EMG, GSR, fNIRS]
-- [TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning], arxiv 2025; [ECG, EMG, Text]
+- [TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning](https://arxiv.org/abs/2506.13705), arxiv 2025; [ECG, EMG, Text]
 
 ### Other :placard: + X
 - [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), ICML Workshop on Machine Learning for Multimodal Healthcare Data 2023; [CMR, Text]
