@@ -249,6 +249,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [anyECG-chat: A Generalist ECG-MLLM for Flexible ECG Input and Multi-Task Understanding](https://arxiv.org/abs/2506.00942), arxiv 2025; [ECG, Text]
 - [Heartcare Suite: Multi-dimensional Understanding of ECG with Raw Multi-lead Signal Modeling](https://arxiv.org/abs/2506.05831), arxiv 2025; [ECG, Text]
 - [TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning](https://arxiv.org/abs/2506.13705), arxiv 2025; [ECG, EMG, Text]
+- [ECGFM: A foundation model for ECG analysis trained on a multi-center million-ECG dataset](https://www.sciencedirect.com/science/article/pii/S1566253525004361), Informatic Fusion 2025; [ECG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
