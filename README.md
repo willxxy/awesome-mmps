@@ -142,6 +142,9 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [BrainOmni: A Brain Foundation Model for Unified EEG and MEG Signals](https://arxiv.org/pdf/2505.18185), arxiv 2025; [EEG, MEG]
 - [EEG2TEXT-CN: An Exploratory Study of Open-Vocabulary Chinese Text-EEG Alignment via Large Language Model and Contrastive Learning on ChineseEEG](https://arxiv.org/abs/2506.00854), arxiv 2025; [EEG, Text]
 - [A Pre-trained Framework for Multilingual Brain Decoding Using Non-invasive Recordings](https://www.arxiv.org/abs/2506.03214), arxiv 2025; [EEG, Text]
+- [Bridging Brain with Foundation Models through Self-Supervised Learning](https://arxiv.org/abs/2506.16009), arxiv 2025; [EEG, MEG, fMRI, fNIRS, ECoG, Intracortical]
+- [Efficient Personalized Adaptation for Physiological Signal Foundation Model](https://openreview.net/forum?id=55ysNwbOTI), ICML 2025; [EEG, EOG, EMG, ECG]
+- [EEG-Language Pretraining for Highly Label-Efficient Clinical Phenotyping](https://openreview.net/forum?id=yaI2ZYFmeD), ICML 2025; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
@@ -250,6 +253,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Heartcare Suite: Multi-dimensional Understanding of ECG with Raw Multi-lead Signal Modeling](https://arxiv.org/abs/2506.05831), arxiv 2025; [ECG, Text]
 - [TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning](https://arxiv.org/abs/2506.13705), arxiv 2025; [ECG, EMG, Text]
 - [ECGFM: A foundation model for ECG analysis trained on a multi-center million-ECG dataset](https://www.sciencedirect.com/science/article/pii/S1566253525004361), Informatic Fusion 2025; [ECG, Text]
+- [Efficient Personalized Adaptation for Physiological Signal Foundation Model](https://openreview.net/forum?id=55ysNwbOTI), ICML 2025; [EEG, EOG, EMG, ECG]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
@@ -269,6 +273,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Negative emotion recognition using multimodal physiological signals for advanced driver assistance systems](https://link.springer.com/article/10.1007/s10015-023-00858-y), Artificial Life and Robotics 2023; [ECG, EDA, EEG, and fNIRS]
 - [An Exploratory Study of Multimodal Physiological Data in Jazz Improvisation Using Basic Machine Learning Techniques](https://arxiv.org/ftp/arxiv/papers/2401/2401.12266.pdf), arxiv 2024; [EDA, EEG]
 - [Multimodal Estimation Of Change Points Of Physiological Arousal During Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10193718), ICASSP 2023; [ECG, EDA, EMG, HR, BVP]
+- [MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis](https://arxiv.org/pdf/2506.18512), arxiv 2025; [ECG, Image, Text]
 
 ### Eye Movement :eye: + X 
 - [Investigating Sex Differences in Classification of Five Emotions from EEG and Eye Movement Signals](https://drive.google.com/file/d/1pCln0DI3fiIPHHiRiCRcXJWb4LCWskXm/view), IEEE EMBC 2019; [EEG, Eye Movement]
@@ -307,6 +312,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions](https://www.medrxiv.org/content/10.1101/2025.02.04.25321675v1.full.pdf), medRxiv 2025; [EEG, EOG, EMG, ECG, Respiratory]
 - [Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities](https://arxiv.org/abs/2504.19596), arxiv 2025; [EEG, ECG, EMG, EOG]
 - [Robust Sleep Staging over Incomplete Multimodal Physiological Signals via Contrastive Imagination](https://papers.nips.cc/paper_files/paper/2024/file/cb0f9020c00fc52a9f6c9dbfacc6ac58-Paper-Conference.pdf), NeurIPS 2024; [EEG, EMG, EOG]
+- [Efficient Personalized Adaptation for Physiological Signal Foundation Model](https://openreview.net/forum?id=55ysNwbOTI), ICML 2025; [EEG, EOG, EMG, ECG]
 
 ### EMG :muscle: + X
 - [A Deep Learning Architecture for Temporal Sleep Stage Classification Using Multivariate and Multimodal Time Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8307462), IEEE Transactions on Neural Systems and Rehabilitation Engineering 2018; [EEG, EOG, EMG]
@@ -327,6 +333,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Robust Sleep Staging over Incomplete Multimodal Physiological Signals via Contrastive Imagination](https://papers.nips.cc/paper_files/paper/2024/file/cb0f9020c00fc52a9f6c9dbfacc6ac58-Paper-Conference.pdf), NeurIPS 2024; [EEG, EMG, EOG]
 - [PainFormer: a Vision Foundation Model for Automatic Pain Assessment](https://arxiv.org/pdf/2505.01571), arxiv 2025; [ECG, Image, EMG, GSR, fNIRS]
 - [TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning](https://arxiv.org/abs/2506.13705), arxiv 2025; [ECG, EMG, Text]
+- [Efficient Personalized Adaptation for Physiological Signal Foundation Model](https://openreview.net/forum?id=55ysNwbOTI), ICML 2025; [EEG, EOG, EMG, ECG]
 
 ### Other :placard: + X
 - [Multimodal Representation Learning of Cardiovascular Magnetic Resonance Imaging](https://arxiv.org/pdf/2304.07675.pdf), ICML Workshop on Machine Learning for Multimodal Healthcare Data 2023; [CMR, Text]
