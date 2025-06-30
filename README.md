@@ -146,6 +146,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Efficient Personalized Adaptation for Physiological Signal Foundation Model](https://openreview.net/forum?id=55ysNwbOTI), ICML 2025; [EEG, EOG, EMG, ECG]
 - [EEG-Language Pretraining for Highly Label-Efficient Clinical Phenotyping](https://openreview.net/forum?id=yaI2ZYFmeD), ICML 2025; [EEG, Text]
 - [UniMind: Unleashing the Power of LLMs for Unified Multi-Task Brain Decoding](https://arxiv.org/pdf/2506.18962), arxiv 2025; [EEG, Text]
+- [Exploring the Potential of Electroencephalography Signal–Based Image Generation Using Diffusion Models: Integrative Framework Combining Mixed Methods and Multimodal Analysis](https://medinform.jmir.org/2025/1/e72027/), JMIR 2025; [EEG, Image]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
