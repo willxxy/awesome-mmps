@@ -256,6 +256,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [ECGFM: A foundation model for ECG analysis trained on a multi-center million-ECG dataset](https://www.sciencedirect.com/science/article/pii/S1566253525004361), Informatic Fusion 2025; [ECG, Text]
 - [Efficient Personalized Adaptation for Physiological Signal Foundation Model](https://openreview.net/forum?id=55ysNwbOTI), ICML 2025; [EEG, EOG, EMG, ECG]
 - [ECG-Byte: A Tokenizer for End-to-End Generative Electrocardiogram Language Modeling](https://arxiv.org/abs/2412.14373), MLHC 2025; [ECG, Text]
+- [Sensing Cardiac Health Across Scenarios and Devices: A Multi-Modal Foundation Model Pretrained on Heterogeneous Data from 1.7 Million Individuals](https://arxiv.org/abs/2507.01045), arxiv 2025; [ECG, PPG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
