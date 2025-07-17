@@ -280,6 +280,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [An Exploratory Study of Multimodal Physiological Data in Jazz Improvisation Using Basic Machine Learning Techniques](https://arxiv.org/ftp/arxiv/papers/2401/2401.12266.pdf), arxiv 2024; [EDA, EEG]
 - [Multimodal Estimation Of Change Points Of Physiological Arousal During Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10193718), ICASSP 2023; [ECG, EDA, EMG, HR, BVP]
 - [MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis](https://arxiv.org/pdf/2506.18512), arxiv 2025; [ECG, Image, Text]
+- [TolerantECG: A Foundation Model for Imperfect Electrocardiogram](https://arxiv.org/abs/2507.09887), ACM Multimedia 2025; [ECG, Text]
 
 ### Eye Movement :eye: + X 
 - [Investigating Sex Differences in Classification of Five Emotions from EEG and Eye Movement Signals](https://drive.google.com/file/d/1pCln0DI3fiIPHHiRiCRcXJWb4LCWskXm/view), IEEE EMBC 2019; [EEG, Eye Movement]
