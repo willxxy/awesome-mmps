@@ -262,6 +262,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [From Token to Rhythm: A Multi-Scale Approach for ECG-Language Pretraining](https://arxiv.org/abs/2506.21803), ICML 2025; [ECG, Text]
 - [TAC-ECG: A task-adaptive classification method for electrocardiogram based on cross-modal contrastive learning and low-rank convolutional adapter](https://www.sciencedirect.com/science/article/pii/S0169260725003359), Computer Methods and Programs in Biomedicine 2025; [ECG, Text]
 - [ECGTwin: Personalized ECG Generation Using Controllable Diffusion Model](https://arxiv.org/abs/2508.02720), arxiv 2025; [ECG, Text]
+- [Deep ECG-Report Interaction Framework for Cross-Modal Representation Learning](https://openreview.net/forum?id=0quBGOPP5V), arxiv 2025; [ECG, Text]
   
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
