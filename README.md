@@ -264,7 +264,9 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [ECGTwin: Personalized ECG Generation Using Controllable Diffusion Model](https://arxiv.org/abs/2508.02720), arxiv 2025; [ECG, Text]
 - [Deep ECG-Report Interaction Framework for Cross-Modal Representation Learning](https://openreview.net/forum?id=0quBGOPP5V), arxiv 2025; [ECG, Text]
 - [DiagECG: An LLM-Driven Framework for Diagnostic Reasoning via Discretized ECG Tokenization](https://arxiv.org/abs/2508.15338), arxiv 2025; [ECG, Text]
-  
+- [MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis](https://arxiv.org/pdf/2506.18512), arxiv 2025; [ECG, Image, Text]
+- [TolerantECG: A Foundation Model for Imperfect Electrocardiogram](https://arxiv.org/abs/2507.09887), ACM Multimedia 2025; [ECG, Text]
+
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
 - [Stress Detection with Deep Learning Approaches Using Physiological Signals](https://link.springer.com/chapter/10.1007/978-3-030-69963-5_7), IoT Technologies for Healthcare 2020; [EDA, BVP]
@@ -283,8 +285,6 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Negative emotion recognition using multimodal physiological signals for advanced driver assistance systems](https://link.springer.com/article/10.1007/s10015-023-00858-y), Artificial Life and Robotics 2023; [ECG, EDA, EEG, and fNIRS]
 - [An Exploratory Study of Multimodal Physiological Data in Jazz Improvisation Using Basic Machine Learning Techniques](https://arxiv.org/ftp/arxiv/papers/2401/2401.12266.pdf), arxiv 2024; [EDA, EEG]
 - [Multimodal Estimation Of Change Points Of Physiological Arousal During Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10193718), ICASSP 2023; [ECG, EDA, EMG, HR, BVP]
-- [MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis](https://arxiv.org/pdf/2506.18512), arxiv 2025; [ECG, Image, Text]
-- [TolerantECG: A Foundation Model for Imperfect Electrocardiogram](https://arxiv.org/abs/2507.09887), ACM Multimedia 2025; [ECG, Text]
 
 ### Eye Movement :eye: + X 
 - [Investigating Sex Differences in Classification of Five Emotions from EEG and Eye Movement Signals](https://drive.google.com/file/d/1pCln0DI3fiIPHHiRiCRcXJWb4LCWskXm/view), IEEE EMBC 2019; [EEG, Eye Movement]
