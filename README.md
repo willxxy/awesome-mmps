@@ -266,6 +266,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [DiagECG: An LLM-Driven Framework for Diagnostic Reasoning via Discretized ECG Tokenization](https://arxiv.org/abs/2508.15338), arxiv 2025; [ECG, Text]
 - [MedTVT-R1: A Multimodal LLM Empowering Medical Reasoning and Diagnosis](https://arxiv.org/pdf/2506.18512), arxiv 2025; [ECG, Image, Text]
 - [TolerantECG: A Foundation Model for Imperfect Electrocardiogram](https://arxiv.org/abs/2507.09887), ACM Multimedia 2025; [ECG, Text]
+- [Synthesizing ECG from BCG: a Physiological Semantics Enhanced Multiband Diffusion Generative Approach](https://ieeexplore.ieee.org/abstract/document/11145806), IEEE Journal of Biomedical and Health Informatics 2025; [BCG, ECG]
+- [Speech Foundation Models Generalize to Time Series Tasks from Wearable Sensor Data](https://arxiv.org/pdf/2509.00221), arxiv 2025; [ECG, IMU, PPG, Audio]
 
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
