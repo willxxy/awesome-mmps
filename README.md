@@ -268,6 +268,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [TolerantECG: A Foundation Model for Imperfect Electrocardiogram](https://arxiv.org/abs/2507.09887), ACM Multimedia 2025; [ECG, Text]
 - [Synthesizing ECG from BCG: a Physiological Semantics Enhanced Multiband Diffusion Generative Approach](https://ieeexplore.ieee.org/abstract/document/11145806), IEEE Journal of Biomedical and Health Informatics 2025; [BCG, ECG]
 - [Speech Foundation Models Generalize to Time Series Tasks from Wearable Sensor Data](https://arxiv.org/pdf/2509.00221), arxiv 2025; [ECG, IMU, PPG, Audio]
+- [TELL ME: Tackle Electrocardiogram with Large Language Model Effectively](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889496), ICASSP 2025; [ECG, Text]
 
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
