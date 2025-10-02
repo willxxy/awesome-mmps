@@ -390,6 +390,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [By My Eyes: Grounding Multimodal Large Language Models with Sensor Data via Visual Prompting](https://aclanthology.org/2024.emnlp-main.133/), EMNLP 2025; [Time Series Agnostic]
 - [SACM: SEEG-Audio Contrastive Matching for Chinese Speech Decoding](https://arxiv.org/pdf/2505.19652), arxiv 2025; [SEEG, Audio]
 - [SensorLM: Learning the Language of Wearable Sensors](https://www.arxiv.org/abs/2506.09108), arxiv 2025; [PPG, ACC, EDA, TEMP, ALT]
+- [The Anatomy of a Personal Health Agent](https://arxiv.org/abs/2508.20148), arxiv 2025; [Time Series Agnostic]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
