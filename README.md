@@ -149,6 +149,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [Exploring the Potential of Electroencephalography Signal–Based Image Generation Using Diffusion Models: Integrative Framework Combining Mixed Methods and Multimodal Analysis](https://medinform.jmir.org/2025/1/e72027/), JMIR 2025; [EEG, Image]
 - [Interpretable EEG-to-Image Generation with Semantic Prompts](https://arxiv.org/abs/2507.07157), Actionable Interpretability Workshop (non-archival) at the 42nd ICML; [EEG, Image, Text]
 - [BrainFLORA: Uncovering Brain Concept Representation via Multimodal Neural Embeddings](https://arxiv.org/abs/2507.09747), ACM Multimedia 2025; [Image, EEG, fMRI, MEG]
+- [Prompting the Mind: EEG-to-Text Translation with Multimodal LLMs and Semantic Control](https://link.springer.com/chapter/10.1007/978-3-032-07956-5_4), Speech and Computer 2025; [EEG, Text]
 
 ### ECG :anatomical_heart: + X 
 - [Comparing Recognition Performance and Robustness of Multimodal Deep Learning Models for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9395500), IEEE TCDS 2021; [EEG, Eye Movement, Peripheral Physiological Signals, ECG]
