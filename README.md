@@ -274,6 +274,9 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data](https://www.researchgate.net/profile/Patrick-Langer-5/publication/395975374_OpenTSLM_Time-Series_Language_Models_for_Reasoning_over_Multivariate_Medical_Text-_and_Time-Series_Data/links/68db94a8ffdca73694b478be/OpenTSLM-Time-Series-Language-Models-for-Reasoning-over-Multivariate-Medical-Text-and-Time-Series-Data.pdf), arxiv 2025; [ECG, PSG, Text]
 - [CLEF: Clinically-Guided Contrastive Learning for Electrocardiogram Foundation Models](https://www.arxiv.org/abs/2512.02180), arxiv 2025; [ECG, Text]
 - [Towards Clinically Faithful ECG Reports via Quantization-Based Tokenization](https://openreview.net/pdf?id=MJCDK4mnAa), NeurIPS 2025 Workshop BrainBodyFM; [ECG, Text]
+- [UniPACT: A Multimodal Framework for Prognostic Question Answering on Raw ECG and Structured EHR](https://arxiv.org/abs/2601.17916v1), ICASSP 2026; [ECG, Text]
+- [Encoder-Free ECG-Language Models](https://www.arxiv.org/abs/2601.18798), arxiv 2026; [ECG, Text]
+- [ECG-Agent: On-Device Tool-Calling Agent for ECG Multi-Turn Dialogue](https://arxiv.org/abs/2601.20323), ICASSP 2026; [ECG, Text]
 
 ### EDA :sweat_drops: + X
 - [A Multimodal Music Recommendation System with Listeners' Personality and Physiological Signals](https://dl.acm.org/doi/abs/10.1145/3383583.3398623), ACM/IEEE JCDL 2020; [Heart Rate, EDA, IBI, Skin Temperature, BVP]
