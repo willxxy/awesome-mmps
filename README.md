@@ -402,6 +402,8 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [The Anatomy of a Personal Health Agent](https://arxiv.org/abs/2508.20148), arxiv 2025; [Text, Time Series Agnostic]
 - [Instruction-based Time Series Editing](https://arxiv.org/abs/2508.01504), arxiv 2025; [Text, Time Series Agnostic]
 - [Towards Editing Time Series](https://openreview.net/pdf?id=qu5NTwZtxA), NeurIPS 2024; [Text, Time Series Agnostic]
+- [Time Series, Vision, and Language: Exploring the Limits of Alignment in Contrastive Representation Spaces](https://arxiv.org/pdf/2602.19367), arxiv 2026; [Vision, Text, Time Series Agnostic]
+- [Adaptive Time Series Reasoning via Segment Selection](https://arxiv.org/pdf/2602.18645), arxiv 2026; [Vision, Text, Time Series Agnostic]
 
 ## Datasets
 - [SEED](https://bcmi.sjtu.edu.cn/home/seed/seed.html); [EEG, Eye Movement, Video]
