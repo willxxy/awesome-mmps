@@ -490,6 +490,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [The Alphanumerics Lab @ Georgia Tech and Emory University](https://sameni.org/)
 - [Centre for Brain-Computing Research @ Nanyang Technological University](https://ntu-cbcr.org/)
 - [SIPLAB @ ETH Zurich](https://siplab.org/)
+- [Health Intelligence Lab @ UCLA](https://web.cs.ucla.edu/~yuzhe/#Lab)
 
 ## Citation
 If you found this repository helpful in your research, please cite the following:
