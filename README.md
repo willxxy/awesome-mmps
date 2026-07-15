@@ -275,7 +275,7 @@ Any additions, corrections, or concerns please submit an issue. For additions to
 - [CLEF: Clinically-Guided Contrastive Learning for Electrocardiogram Foundation Models](https://www.arxiv.org/abs/2512.02180), arxiv 2025; [ECG, Text]
 - [Towards Clinically Faithful ECG Reports via Quantization-Based Tokenization](https://openreview.net/pdf?id=MJCDK4mnAa), NeurIPS 2025 Workshop BrainBodyFM; [ECG, Text]
 - [UniPACT: A Multimodal Framework for Prognostic Question Answering on Raw ECG and Structured EHR](https://arxiv.org/abs/2601.17916v1), ICASSP 2026; [ECG, Text]
-- [Encoder-Free ECG-Language Models](https://www.arxiv.org/abs/2601.18798), arxiv 2026; [ECG, Text]
+- [ELF: A Family of Encoder-Free ECG-Language Models](https://arxiv.org/abs/2601.18798), MLHC 2026; [ECG, Text]
 - [ECG-Agent: On-Device Tool-Calling Agent for ECG Multi-Turn Dialogue](https://arxiv.org/abs/2601.20323), ICASSP 2026; [ECG, Text]
 - [ECG-R1: Protocol-Guided and Modality-Agnostic MLLM for Reliable ECG Interpretation](https://arxiv.org/pdf/2602.04279), arxiv 2026; [ECG, Text, Image]
 
